@@ -1,0 +1,984 @@
+{
+  "resgestae.html": {
+    "url": "https://www.thelatinlibrary.com/resgestae.html",
+    "retrieved": "2026-10-30",
+    "sha256": "d8a0fb82c4ff07d46d5173c4749e5b7e6717fc0dcda2b862f583c3392934281d",
+    "workId": "thelatinlibrary-augustus-resgestae",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "navigation: 35 targets match 35 anchors",
+      "text: 2654 page tokens = 2615 row tokens + 39 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 99.8% of our 5-grams in CLTK, 93.3% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai1.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai1.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "57845bfbdfdbc367b31b8bdf9c5fee6fd236dccad8f03f37840f8d8340225687",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[17] in order",
+      "text: 3468 page tokens = 3451 row tokens + 17 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.5% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai2.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai2.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "5c80a182c75864762aa629798c6aec8a861cfa99ad536a78e6efeb3905d57dc7",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[23] in order",
+      "text: 4335 page tokens = 4312 row tokens + 23 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.5% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai4.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai4.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "a1d215bd19a1729a6d52f1619f2b2e4fbaaa8e35f11bcafeef40e46aac89046e",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[23] in order",
+      "text: 4264 page tokens = 4241 row tokens + 23 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.4% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai5.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai5.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "1255b7f700d405050d6f7d76d8d6540d4b8ddd1f36960d9f15cca6cf483234e6",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[23] in order",
+      "text: 4890 page tokens = 4867 row tokens + 23 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.8% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai6.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai6.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "4dbc7b27302e4891a1bfbd886513911500ad44ef4c890803cdf20090dad59c61",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[24] in order",
+      "text: 4992 page tokens = 4968 row tokens + 24 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.7% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai7.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai7.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "ee5e2399d3a30b50d866c9d01958677416e4528c7769f2e089027cbd5eff3954",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[13] in order",
+      "text: 2762 page tokens = 2749 row tokens + 13 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.5% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai8.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai8.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "642120f0a4aa0435ad510adda2012294c4e863ea2a103d8cf61f72e6b2fe6cfb",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[22] in order",
+      "text: 4455 page tokens = 4433 row tokens + 22 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.6% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai9.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai9.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "59b77ec9578e04954974ad67619d5dd7db1c5ef4fa2986ad5eda50f3a3a2d78c",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[23] in order",
+      "text: 4713 page tokens = 4690 row tokens + 23 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.7% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai10.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai10.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "257a9e13787aa88275d3a49a751e2eb39d6153453a086efa3e4bc5af38abec6e",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[19] in order",
+      "text: 3794 page tokens = 3775 row tokens + 19 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.5% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai11.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai11.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "bc0ad713f843fb7151c475ca4984177e0357a01eb3a43b6025694471f3f8dfef",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[11] in order",
+      "text: 2321 page tokens = 2310 row tokens + 11 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.4% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai12.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai12.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "5948a21efc55f36626cf5e1fd8ded13bdb99f69bbc96694d4459192b7c0eb31a",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[28] in order",
+      "text: 6066 page tokens = 6038 row tokens + 28 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.9% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai13.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai13.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "a7b511e57bba7bddf18a0346901540849c88b1b014b0bf68e5a420815164f4e4",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[19] in order",
+      "text: 3819 page tokens = 3800 row tokens + 19 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.5% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai14.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai14.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "ce5effd2edb58d92e98fa8250a45824c70d8f8d89e1b6efa6ff945ea52265cf8",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[12] in order",
+      "text: 2166 page tokens = 2154 row tokens + 12 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.0% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai15.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai15.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "e60cd93b9e920d39080c4cb8a7e50d5889c675c6540770fb7f74205b9aa38658",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[14] in order",
+      "text: 2617 page tokens = 2603 row tokens + 14 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.2% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai16.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai16.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "35225824ea328ff90a70d268bb63d5f16bc6961fff3b65cdd875229d50c3d05c",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[11] in order",
+      "text: 2144 page tokens = 2133 row tokens + 11 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.1% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai17.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai17.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "58f4138e61ded4057b4080981d683293ea635bad51c8d2f4e6111a7e40a3da8b",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[20] in order",
+      "text: 3832 page tokens = 3812 row tokens + 20 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.4% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai18.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai18.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "9715a18accad85054d30aa03eed8f7b948c88f027abe0683275f04f3098a823a",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[17] in order",
+      "text: 3353 page tokens = 3336 row tokens + 17 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.5% of CLTK's in ours"
+    ]
+  },
+  "quintilian/quintilian.decl.mai19.shtml": {
+    "url": "https://www.thelatinlibrary.com/quintilian/quintilian.decl.mai19.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "01b23b45ef50fa4fba26a8d90a04a7d8f3f7f1f3047519022fc87e42ce5bc335",
+    "workId": "thelatinlibrary-quintilian-declamationesmaiores",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: theme + [1]..[16] in order",
+      "text: 3338 page tokens = 3322 row tokens + 16 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.6% of CLTK's in ours"
+    ]
+  },
+  "justin/praefatio.html": {
+    "url": "https://www.thelatinlibrary.com/justin/praefatio.html",
+    "retrieved": "2026-10-30",
+    "sha256": "a531807d40e1c864512ade7263e6cddb6d221f46c843ce119555bcc745b24842",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "praefatio: 1 paragraphs as one row",
+      "text: 210 page tokens = 210 row tokens + 0 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 91.6% of CLTK's in ours"
+    ]
+  },
+  "justin/1.html": {
+    "url": "https://www.thelatinlibrary.com/justin/1.html",
+    "retrieved": "2026-10-30",
+    "sha256": "7a27999a8b41d9605bcd580ff72f4701f4bd3f4126b944a460d775c08a13ee98",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..X in order; 0 inline section numbers removed",
+      "text: 2640 page tokens = 2630 row tokens + 10 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.5% of CLTK's in ours"
+    ]
+  },
+  "justin/2.html": {
+    "url": "https://www.thelatinlibrary.com/justin/2.html",
+    "retrieved": "2026-10-30",
+    "sha256": "67405ed90127c5814b05e9151b10a206a255f9070859e57cee058e55524c98b2",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..XV in order; 0 inline section numbers removed",
+      "text: 4559 page tokens = 4544 row tokens + 15 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 98.0% of CLTK's in ours"
+    ]
+  },
+  "justin/3.html": {
+    "url": "https://www.thelatinlibrary.com/justin/3.html",
+    "retrieved": "2026-10-30",
+    "sha256": "bd228d2571e4c383b4a8f802705b31f06bf7b4fdf2aa81f0a02b61ef45a770de",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..VII in order; 0 inline section numbers removed",
+      "text: 1616 page tokens = 1609 row tokens + 7 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.9% of CLTK's in ours"
+    ]
+  },
+  "justin/4.html": {
+    "url": "https://www.thelatinlibrary.com/justin/4.html",
+    "retrieved": "2026-10-30",
+    "sha256": "108793b61ac94a6e049354399084e0aaa2e74f3647f36af04b2e6852d0b4f1ac",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..V in order; 0 inline section numbers removed",
+      "text: 1007 page tokens = 1002 row tokens + 5 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.0% of CLTK's in ours"
+    ]
+  },
+  "justin/5.html": {
+    "url": "https://www.thelatinlibrary.com/justin/5.html",
+    "retrieved": "2026-10-30",
+    "sha256": "c92c66143ae11b054d1cca42a28a03c20e2f59f7a4cfbfdd0ba2d864165be689",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..XI in order; 0 inline section numbers removed",
+      "text: 2289 page tokens = 2278 row tokens + 11 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.9% of CLTK's in ours"
+    ]
+  },
+  "justin/6.html": {
+    "url": "https://www.thelatinlibrary.com/justin/6.html",
+    "retrieved": "2026-10-30",
+    "sha256": "0648d05e74eb9a9c5fb6f03e2e7fab4a0f5b65aa6902a8ae4d0de92effcfd96a",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..IX in order; 0 inline section numbers removed",
+      "text: 1645 page tokens = 1636 row tokens + 9 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.3% of CLTK's in ours"
+    ]
+  },
+  "justin/7.html": {
+    "url": "https://www.thelatinlibrary.com/justin/7.html",
+    "retrieved": "2026-10-30",
+    "sha256": "4a25c5953608df1f5b248443f929a796e5ee8f6b8e80b5528cc1528c26881a62",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..VI in order; 1 inline section numbers removed",
+      "text: 1162 page tokens = 1155 row tokens + 7 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.1% of CLTK's in ours"
+    ]
+  },
+  "justin/8.html": {
+    "url": "https://www.thelatinlibrary.com/justin/8.html",
+    "retrieved": "2026-10-30",
+    "sha256": "768cf181fac1f99555decf998c64018d94c23f58dcee02ed1807f401ac227698",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..VI in order; 68 inline section numbers removed",
+      "text: 1328 page tokens = 1254 row tokens + 74 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.4% of CLTK's in ours"
+    ]
+  },
+  "justin/9.html": {
+    "url": "https://www.thelatinlibrary.com/justin/9.html",
+    "retrieved": "2026-10-30",
+    "sha256": "438538b83b159b3d94f6b28dc8b0b05f315852b3eac95198e65772855c883a89",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..VIII in order; 90 inline section numbers removed",
+      "text: 1715 page tokens = 1617 row tokens + 98 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 99.6% of our 5-grams in CLTK, 96.3% of CLTK's in ours"
+    ]
+  },
+  "justin/10.html": {
+    "url": "https://www.thelatinlibrary.com/justin/10.html",
+    "retrieved": "2026-10-30",
+    "sha256": "fddbc6aff3414a6da51e97f67e6386dabb902aafff32bc21baa04fd707da72f4",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..III in order; 18 inline section numbers removed",
+      "text: 398 page tokens = 377 row tokens + 21 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 92.2% of CLTK's in ours"
+    ]
+  },
+  "justin/11.html": {
+    "url": "https://www.thelatinlibrary.com/justin/11.html",
+    "retrieved": "2026-10-30",
+    "sha256": "6f5744785ab888095b8a3454d4f2b32a8cb90e0e05d4fa4c543e56dd2b9ded3f",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..XV in order; 176 inline section numbers removed",
+      "text: 3359 page tokens = 3168 row tokens + 191 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.2% of CLTK's in ours"
+    ]
+  },
+  "justin/12.html": {
+    "url": "https://www.thelatinlibrary.com/justin/12.html",
+    "retrieved": "2026-10-30",
+    "sha256": "c672259999cc4a300bb184ff8f3323919d21a04bda267e3cefb2b2989590c815",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..XVI in order; 185 inline section numbers removed",
+      "text: 3643 page tokens = 3442 row tokens + 201 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 99.9% of our 5-grams in CLTK, 97.1% of CLTK's in ours"
+    ]
+  },
+  "justin/13.html": {
+    "url": "https://www.thelatinlibrary.com/justin/13.html",
+    "retrieved": "2026-10-30",
+    "sha256": "f746ef50fe0e7dee865705e63f390942bbb3846a76339ad9a179bbef0da634e6",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "patch: 'putares; I1 quippe' -> 'putares; 11 quippe' (section number typed as I1)",
+      "chapters: I..VIII in order; 116 inline section numbers removed",
+      "text: 2192 page tokens = 2068 row tokens + 124 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 99.5% of our 5-grams in CLTK, 96.8% of CLTK's in ours"
+    ]
+  },
+  "justin/14.html": {
+    "url": "https://www.thelatinlibrary.com/justin/14.html",
+    "retrieved": "2026-10-30",
+    "sha256": "71f4a26fe378762db13166314f66b62cedc7afc89e2c466e6907007b6bd5774a",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..VI in order; 76 inline section numbers removed",
+      "text: 1509 page tokens = 1427 row tokens + 82 markers",
+      "review: chapter marker before lowercase 14.2: '…todiam salutis eius offerunt, II. cum interim Antigonus cum …'",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 99.7% of our 5-grams in CLTK, 96.5% of CLTK's in ours"
+    ]
+  },
+  "justin/15.html": {
+    "url": "https://www.thelatinlibrary.com/justin/15.html",
+    "retrieved": "2026-10-30",
+    "sha256": "6b605913aa571d8d7428941cdbc0a666492fe8d7fbae8eff11866872aac61952",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..IV in order; 62 inline section numbers removed",
+      "text: 1222 page tokens = 1156 row tokens + 66 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.9% of CLTK's in ours"
+    ]
+  },
+  "justin/16.html": {
+    "url": "https://www.thelatinlibrary.com/justin/16.html",
+    "retrieved": "2026-10-30",
+    "sha256": "da21751376dcda20146a6537f34be1978a138109be7a97d6e65ca7edcb86d081",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..V in order; 73 inline section numbers removed",
+      "text: 1378 page tokens = 1300 row tokens + 78 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.9% of CLTK's in ours"
+    ]
+  },
+  "justin/17.html": {
+    "url": "https://www.thelatinlibrary.com/justin/17.html",
+    "retrieved": "2026-10-30",
+    "sha256": "cef946dc21a3095e65393d73ad74df6743c51bf25f217f2f4f8c79298ccfe975",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..III in order; 46 inline section numbers removed",
+      "text: 856 page tokens = 807 row tokens + 49 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.2% of CLTK's in ours"
+    ]
+  },
+  "justin/18.html": {
+    "url": "https://www.thelatinlibrary.com/justin/18.html",
+    "retrieved": "2026-10-30",
+    "sha256": "68957209dd1e13b49adeff778fa27fa09a1713c1bcda0ee5a342eea981ab7523",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..VII in order; 98 inline section numbers removed",
+      "text: 2092 page tokens = 1987 row tokens + 105 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 99.7% of our 5-grams in CLTK, 97.2% of CLTK's in ours"
+    ]
+  },
+  "justin/19.html": {
+    "url": "https://www.thelatinlibrary.com/justin/19.html",
+    "retrieved": "2026-10-30",
+    "sha256": "4b12f086fd9697c04a6faef8b3199b0ade4815e780636cbc313217b0eedd38f1",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..III in order; 33 inline section numbers removed",
+      "text: 645 page tokens = 609 row tokens + 36 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 95.1% of CLTK's in ours"
+    ]
+  },
+  "justin/20.html": {
+    "url": "https://www.thelatinlibrary.com/justin/20.html",
+    "retrieved": "2026-10-30",
+    "sha256": "843ad10597e414249572e0e90d6738cfdac765f5d3465f3f9d3eb9087222826e",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..V in order; 66 inline section numbers removed",
+      "text: 1172 page tokens = 1101 row tokens + 71 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.3% of CLTK's in ours"
+    ]
+  },
+  "justin/21.html": {
+    "url": "https://www.thelatinlibrary.com/justin/21.html",
+    "retrieved": "2026-10-30",
+    "sha256": "f585149549932ecfa286b71392605e3eec3b8fe4d8d8be012b2b37bc6b987bfb",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "patch: '<FONT SIZE=2>l0</FONT>' -> '<FONT SIZE=2>10</FONT>' (section number typed as l0)",
+      "chapters: I..VI in order; 47 inline section numbers removed",
+      "text: 1015 page tokens = 962 row tokens + 53 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 99.6% of our 5-grams in CLTK, 94.8% of CLTK's in ours"
+    ]
+  },
+  "justin/22.html": {
+    "url": "https://www.thelatinlibrary.com/justin/22.html",
+    "retrieved": "2026-10-30",
+    "sha256": "6417e05d6c0469e08c8c358b96cc4eb59a115a9b770f38dba4a2c229cab54f95",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..VIII in order; 85 inline section numbers removed",
+      "text: 1887 page tokens = 1794 row tokens + 93 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.9% of CLTK's in ours"
+    ]
+  },
+  "justin/23.html": {
+    "url": "https://www.thelatinlibrary.com/justin/23.html",
+    "retrieved": "2026-10-30",
+    "sha256": "d93ee9a1b86b61cc9bd72a7db0f92e52b07b52e014d760efa69d6df4a04f93fb",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..IV in order; 53 inline section numbers removed",
+      "text: 1046 page tokens = 989 row tokens + 57 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 99.4% of our 5-grams in CLTK, 95.9% of CLTK's in ours"
+    ]
+  },
+  "justin/24.html": {
+    "url": "https://www.thelatinlibrary.com/justin/24.html",
+    "retrieved": "2026-10-30",
+    "sha256": "ae2e8e6e6f0e4f8ac0e8c5fb39dbcb61e40002d4fff21ef50350225e9a7cbf5d",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "patch: 'convenere. 8, Prius' -> 'convenere. 8 Prius' (stray comma after a section number)",
+      "chapters: I..VIII in order; 80 inline section numbers removed",
+      "text: 1874 page tokens = 1786 row tokens + 88 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 99.7% of our 5-grams in CLTK, 96.6% of CLTK's in ours"
+    ]
+  },
+  "justin/25.html": {
+    "url": "https://www.thelatinlibrary.com/justin/25.html",
+    "retrieved": "2026-10-30",
+    "sha256": "6fb84b479097ce65a72b5209772aff891545ad21587b808e9129d783564f6590",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..V in order; 39 inline section numbers removed",
+      "text: 912 page tokens = 868 row tokens + 44 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 95.4% of CLTK's in ours"
+    ]
+  },
+  "justin/26.html": {
+    "url": "https://www.thelatinlibrary.com/justin/26.html",
+    "retrieved": "2026-10-30",
+    "sha256": "e57c57232bfc4f1ab1082deae8a0d1fa0649cc9ef364268ec6b27c26901ee1be",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..III in order; 27 inline section numbers removed",
+      "text: 678 page tokens = 648 row tokens + 30 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 95.4% of CLTK's in ours"
+    ]
+  },
+  "justin/27.html": {
+    "url": "https://www.thelatinlibrary.com/justin/27.html",
+    "retrieved": "2026-10-30",
+    "sha256": "1649c5c6cba6e1af60eee7908ad20bca21807aad44255c0949a92bdb7db97e41",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..III in order; 31 inline section numbers removed",
+      "text: 697 page tokens = 663 row tokens + 34 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 95.4% of CLTK's in ours"
+    ]
+  },
+  "justin/28.html": {
+    "url": "https://www.thelatinlibrary.com/justin/28.html",
+    "retrieved": "2026-10-30",
+    "sha256": "d93268e8db998fbb3255a15b03e37fbd080015569547c8bd6b341f300cad0dfe",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "patch: 'supervenit<FONT size=2>8</FONT>' -> 'supervenit <FONT size=2>8</FONT>' (no space before a section number)",
+      "chapters: I..IV in order; 48 inline section numbers removed",
+      "text: 932 page tokens = 880 row tokens + 52 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.0% of CLTK's in ours"
+    ]
+  },
+  "justin/29.html": {
+    "url": "https://www.thelatinlibrary.com/justin/29.html",
+    "retrieved": "2026-10-30",
+    "sha256": "d0f9eead506e9476e4147a1cd8e2a300af2094214a6a79febc082f5eb5261ff2",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "patch: 'rex I1lyriorum' -> 'rex Illyriorum' (digit 1 for the letter l in Illyriorum)",
+      "chapters: I..IV in order; 35 inline section numbers removed",
+      "text: 819 page tokens = 780 row tokens + 39 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 99.3% of our 5-grams in CLTK, 94.9% of CLTK's in ours"
+    ]
+  },
+  "justin/30.html": {
+    "url": "https://www.thelatinlibrary.com/justin/30.html",
+    "retrieved": "2026-10-30",
+    "sha256": "a5900aa0d2559e44793ca97b70fd14f4ef733fb1372fe69d77548916b846bde4",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..IV in order; 42 inline section numbers removed",
+      "text: 898 page tokens = 852 row tokens + 46 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 95.9% of CLTK's in ours"
+    ]
+  },
+  "justin/31.html": {
+    "url": "https://www.thelatinlibrary.com/justin/31.html",
+    "retrieved": "2026-10-30",
+    "sha256": "7cd36441cbadcb65691594633b05c3a2fc4a58773c083e0d9d2e6fc90f05478e",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..VIII in order; 66 inline section numbers removed",
+      "text: 1804 page tokens = 1730 row tokens + 74 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.8% of CLTK's in ours"
+    ]
+  },
+  "justin/32.html": {
+    "url": "https://www.thelatinlibrary.com/justin/32.html",
+    "retrieved": "2026-10-30",
+    "sha256": "1c8b001f50e581554bd1359e56bd43ebd49a324133813eee27712991345bf723",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..IV in order; 43 inline section numbers removed",
+      "text: 1145 page tokens = 1098 row tokens + 47 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.8% of CLTK's in ours"
+    ]
+  },
+  "justin/33.html": {
+    "url": "https://www.thelatinlibrary.com/justin/33.html",
+    "retrieved": "2026-10-30",
+    "sha256": "5ca9805f9645232f47143cc2d634bd6f60179145eec87cea8ea9181918195314",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..II in order; 12 inline section numbers removed",
+      "text: 393 page tokens = 379 row tokens + 14 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 93.5% of CLTK's in ours"
+    ]
+  },
+  "justin/34.html": {
+    "url": "https://www.thelatinlibrary.com/justin/34.html",
+    "retrieved": "2026-10-30",
+    "sha256": "f6ff622e2224800270fb9cf90d7d7697888bb0ec9a351fda2f62cecaa1a7a228",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..IV in order; 27 inline section numbers removed",
+      "text: 660 page tokens = 629 row tokens + 31 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 94.5% of CLTK's in ours"
+    ]
+  },
+  "justin/35.html": {
+    "url": "https://www.thelatinlibrary.com/justin/35.html",
+    "retrieved": "2026-10-30",
+    "sha256": "382232412715dce9aa14e3e2bc61c25edd29315911583a05eb87cae41fa6eec3",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..II in order; 13 inline section numbers removed",
+      "text: 342 page tokens = 327 row tokens + 15 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 92.5% of CLTK's in ours"
+    ]
+  },
+  "justin/36.html": {
+    "url": "https://www.thelatinlibrary.com/justin/36.html",
+    "retrieved": "2026-10-30",
+    "sha256": "896f2999d50c8a627da6205df5dda176ea599c653a13cc9f5d54f7b89d953950",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..IV in order; 43 inline section numbers removed",
+      "text: 1062 page tokens = 1015 row tokens + 47 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.5% of CLTK's in ours"
+    ]
+  },
+  "justin/37.html": {
+    "url": "https://www.thelatinlibrary.com/justin/37.html",
+    "retrieved": "2026-10-30",
+    "sha256": "1c19e82bba65170f0fc8c7bc370b47530b2e785da2ea637d8f8b1562fc1cc6d1",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..IV in order; 32 inline section numbers removed",
+      "text: 713 page tokens = 677 row tokens + 36 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 94.8% of CLTK's in ours"
+    ]
+  },
+  "justin/38.html": {
+    "url": "https://www.thelatinlibrary.com/justin/38.html",
+    "retrieved": "2026-10-30",
+    "sha256": "d744e24dc1a91acb25cb91c78a2ebf0c2eeffdcc2974baaf9d8cbaabb011da97",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..X in order; 99 inline section numbers removed",
+      "text: 2815 page tokens = 2706 row tokens + 109 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.6% of CLTK's in ours"
+    ]
+  },
+  "justin/39.html": {
+    "url": "https://www.thelatinlibrary.com/justin/39.html",
+    "retrieved": "2026-10-30",
+    "sha256": "89b3d853b4f7eb7136c67fad43493257fce027972706dc293309f8617d56c905",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..V in order; 38 inline section numbers removed",
+      "text: 1288 page tokens = 1245 row tokens + 43 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.8% of CLTK's in ours"
+    ]
+  },
+  "justin/40.html": {
+    "url": "https://www.thelatinlibrary.com/justin/40.html",
+    "retrieved": "2026-10-30",
+    "sha256": "d49dd0d72b12f5f84ddfa5a38b8be8d952539e45bbb6dc0da87ae9fa0f2fe363",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..II in order; 7 inline section numbers removed",
+      "text: 227 page tokens = 218 row tokens + 9 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 89.0% of CLTK's in ours"
+    ]
+  },
+  "justin/41.html": {
+    "url": "https://www.thelatinlibrary.com/justin/41.html",
+    "retrieved": "2026-10-30",
+    "sha256": "3cfc4ee0e18da41931c0fb78296d5a51a03d4ba937997f2b59a93caec4b58c3e",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..VI in order; 54 inline section numbers removed",
+      "text: 1257 page tokens = 1197 row tokens + 60 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.2% of CLTK's in ours"
+    ]
+  },
+  "justin/42.html": {
+    "url": "https://www.thelatinlibrary.com/justin/42.html",
+    "retrieved": "2026-10-30",
+    "sha256": "eb211a85046abce69cde3478f8aeb51cc77a423ff9990590c8b4e21f29c55b46",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..V in order; 49 inline section numbers removed",
+      "text: 1341 page tokens = 1287 row tokens + 54 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.9% of CLTK's in ours"
+    ]
+  },
+  "justin/43.html": {
+    "url": "https://www.thelatinlibrary.com/justin/43.html",
+    "retrieved": "2026-10-30",
+    "sha256": "002d616ed644a10dbed3e616c733e724186355aa6d571260731c3d2e9a5e3755",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "chapters: I..V in order; 55 inline section numbers removed",
+      "text: 1547 page tokens = 1487 row tokens + 60 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 97.3% of CLTK's in ours"
+    ]
+  },
+  "justin/44.html": {
+    "url": "https://www.thelatinlibrary.com/justin/44.html",
+    "retrieved": "2026-10-30",
+    "sha256": "2f1ff3c552ca1e62f82474dc364c57278ff223e5d05f022c51c538888a06c18a",
+    "workId": "thelatinlibrary-justin-epitoma",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "patch: 'LIBER XIVL' -> 'LIBER XLIV' (book number misprinted as XIVL)",
+      "chapters: I..V in order; 46 inline section numbers removed",
+      "text: 1238 page tokens = 1187 row tokens + 51 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 96.6% of CLTK's in ours"
+    ]
+  },
+  "justin/prologi.html": {
+    "url": "https://www.thelatinlibrary.com/justin/prologi.html",
+    "retrieved": "2026-10-30",
+    "sha256": "a50704eb31c6a9afbd84a5a577cfdc63913d6d859a591faf458b027edea4c3f7",
+    "workId": "thelatinlibrary-trogus-prologi",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "prologues: I..XLIV in order",
+      "text: 3010 page tokens = 2878 row tokens + 132 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 89.2% of CLTK's in ours"
+    ]
+  },
+  "gaius1.html": {
+    "url": "https://www.thelatinlibrary.com/gaius1.html",
+    "retrieved": "2026-10-30",
+    "sha256": "acc98e6a7fd6cc1d88290eb11d9489650fc6288950d058ee30a810598a678069",
+    "workId": "thelatinlibrary-gaius-institutiones",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: 1..200 in order; editorial: 9 rubrics, 0 lacuna notes",
+      "anchors: 200 all match sections",
+      "review: link list differs from the sections (extra: none; missing: 20, 120)",
+      "text: 9077 page tokens = 8877 row tokens + 200 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 90.7% of CLTK's in ours"
+    ]
+  },
+  "gaius2.html": {
+    "url": "https://www.thelatinlibrary.com/gaius2.html",
+    "retrieved": "2026-10-30",
+    "sha256": "e287f8b492f353602705bd527753a93a8d608691b43e43dd3e73d52b9130fdeb",
+    "workId": "thelatinlibrary-gaius-institutiones",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: 1..289 in order; editorial: 7 rubrics, 18 lacuna notes",
+      "anchors: 286 all match sections; unanchored on the site: 31, 141",
+      "review: no section number on the site for 2.237 (its text stays in the section before)",
+      "review: link list differs from the sections (extra: 237; missing: 20, 120, 220)",
+      "text: 12798 page tokens = 12510 row tokens + 288 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 90.6% of CLTK's in ours"
+    ]
+  },
+  "gaius3.html": {
+    "url": "https://www.thelatinlibrary.com/gaius3.html",
+    "retrieved": "2026-10-30",
+    "sha256": "63e6e3bed42929f0ab9a630a979ea6f4cf0c52b701fd67533e8ee61951897f93",
+    "workId": "thelatinlibrary-gaius-institutiones",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: 1..225 in order; editorial: 1 rubrics, 15 lacuna notes",
+      "anchors: 223 all match sections; unanchored on the site: 81, 82",
+      "review: link list differs from the sections (extra: none; missing: 20, 120)",
+      "text: 11501 page tokens = 11276 row tokens + 225 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 99.7% of our 5-grams in CLTK, 91.6% of CLTK's in ours"
+    ]
+  },
+  "gaius4.html": {
+    "url": "https://www.thelatinlibrary.com/gaius4.html",
+    "retrieved": "2026-10-30",
+    "sha256": "8dc7b57d206a372f67e413602f3706f6f877e95878a341261f64c9ee591055ed",
+    "workId": "thelatinlibrary-gaius-institutiones",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "sections: 1..187 in order; editorial: 0 rubrics, 33 lacuna notes",
+      "anchors: 184 all match sections; unanchored on the site: 16, 18, 127",
+      "review: link list differs from the sections (extra: none; missing: 20, 120)",
+      "text: 11016 page tokens = 10829 row tokens + 187 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 92.9% of CLTK's in ours"
+    ]
+  }
+}
