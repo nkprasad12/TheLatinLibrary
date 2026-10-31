@@ -980,5 +980,731 @@
       "provenance: no edition, copyright or permission statement",
       "cltk: 100.0% of our 5-grams in CLTK, 92.9% of CLTK's in ours"
     ]
+  },
+  "justinian/digest1.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest1.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "c4a3a95928fe76a06cb79d4babf56203e5da67ec575473229d9638aea2e6110f",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..22 match the contents; 413 fragments in order",
+      "text: 17730 page tokens = 15620 row tokens + 2110 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 86.1% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest2.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest2.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "5a61418d8e98aef0151f242b3f5ad0764fd4e5d6af477bb5c5aa38c1a38094fd",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..15 match the contents; 448 fragments in order",
+      "text: 20326 page tokens = 18062 row tokens + 2264 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 87.6% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest3.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest3.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "b32563b94f0e82b883b87bb9fd0f4aa5de504680a599d098060d7fcabcd752f9",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..6 match the contents; 364 fragments in order",
+      "text: 16778 page tokens = 15067 row tokens + 1711 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 88.1% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest4.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest4.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "9f9b4b95c87e5a79640b179ec54cf0862c79092f54c4573cd2403a4e2813f0de",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..9 match the contents; 579 fragments in order",
+      "text: 27685 page tokens = 24917 row tokens + 2768 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 88.9% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest5.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest5.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "0a078bdaedfef25f4bd100e035cd834c477b5e13bdebe18d0eace5144a3a5665",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..6 match the contents; 392 fragments in order",
+      "text: 19294 page tokens = 17457 row tokens + 1837 markers",
+      "review: title 5.1 (rubrica line) missing from the book's contents",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 88.8% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest6.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest6.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "43f3732feb49340b284a59238f5773c420593ca27a0b9fc020fb50020419eeb1",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..3 match the contents; 185 fragments in order",
+      "text: 8085 page tokens = 7221 row tokens + 864 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 87.2% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest7.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest7.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "12794031acb9509e2a420e0df8d04a4aaad4d02592cc9bcbb4df0a01f1adc577",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..9 match the contents; 351 fragments in order",
+      "text: 17112 page tokens = 15408 row tokens + 1704 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 88.5% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest8.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest8.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "7fab96b96e38abc36e5ced9c0bd41e1c57284d80fe9ec84a6c3353eac327008a",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..6 match the contents; 263 fragments in order",
+      "text: 13524 page tokens = 12303 row tokens + 1221 markers",
+      "review: title 8.1 missing from the book's contents",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 88.9% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest9.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest9.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "0d6146df5125a6b7274076fd7d737f7e1f253d6331117e812e40cc57218406e9",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..4 match the contents; 308 fragments in order",
+      "text: 15018 page tokens = 13541 row tokens + 1477 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 89.2% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest10.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest10.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "39d75fdef939c8ae1472d5b3fbdfc7403482c59e1604fdb42b93f12baeec19f9",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..4 match the contents; 308 fragments in order",
+      "text: 14770 page tokens = 13311 row tokens + 1459 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 88.8% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest11.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest11.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "ec09ab7ea7e42421bd9d499b47543e341f35a97954b78366cb597bd8356217b7",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..8 match the contents; 257 fragments in order",
+      "text: 10800 page tokens = 9516 row tokens + 1284 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 86.4% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest12.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest12.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "7c2a9deb5f57abac2825e9aa120e175a479551be76d127f6c4dcef75c51e2d1f",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..7 match the contents; 367 fragments in order",
+      "text: 18157 page tokens = 16415 row tokens + 1742 markers",
+      "review: law numbering jumps at 12.1.16→18",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 88.7% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest13.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest13.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "e637e2e8e667c7008e177108dfac994003ccd36607f30601565046dd036ed148",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..7 match the contents; 274 fragments in order",
+      "text: 12732 page tokens = 11410 row tokens + 1322 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 87.9% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest14.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest14.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "9dbf5f2980388bcdd9792e7856371512a7db000b178d89553816d38ce2854702",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..6 match the contents; 231 fragments in order",
+      "text: 11084 page tokens = 9927 row tokens + 1157 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 88.7% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest15.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest15.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "f67a7730126c796a9b1360bb280e5a41ee5b536e5f82114764ba122d12968824",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..4 match the contents; 240 fragments in order",
+      "text: 12778 page tokens = 11617 row tokens + 1161 markers",
+      "review: paragraph numbering jumps at 15.1.7.5",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 89.9% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest16.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest16.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "a5281db03a759327dc99ec93852a513b0ccd2baac63d272484f26409ceddc01c",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..3 match the contents; 209 fragments in order",
+      "text: 20441 page tokens = 9243 row tokens + 11198 markers",
+      "review: the page repeats the whole book; the identical second copy was dropped",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 88.5% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest17.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest17.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "f918d7e9ea8c873c78d7167564fae7e07ed43430fa3d2eed3010af0c50f9604d",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..2 match the contents; 345 fragments in order",
+      "text: 17553 page tokens = 15953 row tokens + 1600 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 89.5% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest18.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest18.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "169dcc4d71f1afc0e1feeb326f5d01fe12ccbef6e88f72797991e6445f5ae549",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..7 match the contents; 297 fragments in order",
+      "text: 31064 page tokens = 14109 row tokens + 16955 markers",
+      "review: the page repeats the whole book; the identical second copy was dropped",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 89.2% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest19.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest19.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "43ffac5a60b4cfa67922e4b77c40ab50479a30513f8f3eb0902c6ead6f8c3254",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..5 match the contents; 363 fragments in order",
+      "text: 19738 page tokens = 18012 row tokens + 1726 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 90.1% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest20.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest20.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "0baaaf1f3236463a7f47c9798b52b767fe5b5336c57c322a88786d5b2cc03e1c",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..6 match the contents; 213 fragments in order",
+      "text: 11167 page tokens = 10098 row tokens + 1069 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 89.1% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest21.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest21.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "e0d886f9ac15d40c8925bfb8dc45bfe75beb39bbf6299c1b0066ced6b49f47c7",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..3 match the contents; 377 fragments in order",
+      "text: 18399 page tokens = 16615 row tokens + 1784 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 89.1% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest22.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest22.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "cadc986dc6b93f14b0054a3070a1b498ace9332d8776f7b5bc814e873d37f971",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..6 match the contents; 220 fragments in order",
+      "text: 10211 page tokens = 9160 row tokens + 1051 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 87.2% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest23.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest23.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "3602a8df5c18e7592e76966c535f3ac30d7c5bbd902356f1557ba3dcb1fba285",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..5 match the contents; 397 fragments in order",
+      "text: 18713 page tokens = 16895 row tokens + 1818 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 88.2% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest24.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest24.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "5e98948fd3795e76ab1746195e324d993bbdb162e1e44a762394990dda8df973",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..3 match the contents; 345 fragments in order",
+      "text: 18188 page tokens = 16569 row tokens + 1619 markers",
+      "review: paragraph numbering jumps at 24.1.7.4",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 89.9% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest25.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest25.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "14e850de5e4efd63448feffdf75d11bddc93e98f7a26c15e01ca4c7788d7eb68",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..7 match the contents; 190 fragments in order",
+      "text: 7839 page tokens = 6846 row tokens + 993 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 85.4% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest26.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest26.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "6d7d8292252d83355100ef8c223040a92509ae5c31d5eb08b83f263a7fea69c7",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..10 match the contents; 478 fragments in order",
+      "text: 21292 page tokens = 18949 row tokens + 2343 markers",
+      "review: unusual inscriptions Dig. 26.7.34 'aquila libro resp.'; Dig. 26.10.12 'aquila libro resp.'",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 87.2% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest27.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest27.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "c716cff024132ff5704ebd650d810d1efbe6c1888be30b8e18aab200ad88cea5",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..10 match the contents; 432 fragments in order",
+      "text: 19438 page tokens = 17266 row tokens + 2172 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 87.4% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest28.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest28.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "afda3b98922d7130779063c13e9c08defeb6141c180fe6a5b4fe6c412d09a6e5",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..8 match the contents; 536 fragments in order",
+      "text: 28270 page tokens = 25748 row tokens + 2522 markers",
+      "review: no text on the site for 28.5.93.pr",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 89.5% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest29.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest29.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "63d29ed5921cb02a3c8243667dd4daa2bc8ec7bbadf2a93a40caf43f86d3a14f",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..7 match the contents; 526 fragments in order",
+      "text: 23161 page tokens = 20669 row tokens + 2492 markers",
+      "review: title 29.1 (rubrica line) missing from the book's contents",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 87.5% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest30.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest30.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "1ef3be5b0852f2cb686d22a1f4539bafd3ad3629b7d416b563d45ee30f062836",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: none (title id 0) match the contents; 389 fragments in order",
+      "text: 17123 page tokens = 15685 row tokens + 1438 markers",
+      "review: paragraph numbering jumps at 30.0.41.16",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 87.8% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest31.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest31.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "d494a8a384af9cd80a09c31a1d89755c266796067c3e9ef953357df1da2af96c",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: none (title id 0) match the contents; 241 fragments in order",
+      "text: 13899 page tokens = 13014 row tokens + 885 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 90.4% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest32.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest32.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "71c00c0253e21d35c7351d14721489bb7cd90fea3fd7ce7aa6292307ae1ae35b",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: none (title id 0) match the contents; 322 fragments in order",
+      "text: 16775 page tokens = 15580 row tokens + 1195 markers",
+      "review: unusual inscriptions Dig. 32.36 'claud. not. ad scaev. 18 Dig.'",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 89.5% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest33.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest33.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "f3a0fa078468df61632173843bb7956e0c2eb9aa609715283c4ac9a3e14fd5a1",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..10 match the contents; 426 fragments in order",
+      "text: 22809 page tokens = 20752 row tokens + 2057 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 89.5% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest34.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest34.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "e5dd48d074c25dc64e15d269290cb6a7662aa14aaba43208921ddb3f65d65dcc",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..9 match the contents; 413 fragments in order",
+      "text: 22428 page tokens = 20432 row tokens + 1996 markers",
+      "review: unusual inscriptions Dig. 34.9.26 'claud. not. ad scaev. 30 Dig.'",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 89.6% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest35.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest35.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "aec9dbf50d98009670539cb777e02c3ac869c65261eff5c9bfa033b01fa1b46b",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..3 match the contents; 441 fragments in order",
+      "text: 24703 page tokens = 22663 row tokens + 2040 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 90.0% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest36.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest36.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "3b2902cbc261c1499f2cb244b7281a449f318724e994b5ed938b14fd9b9916c2",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..4 match the contents; 452 fragments in order",
+      "text: 25841 page tokens = 23673 row tokens + 2168 markers",
+      "review: no heading on the page for 36.1; taken from the contents",
+      "review: no text on the site for 36.1.15.pr",
+      "review: unusual inscriptions Dig. 36.1.45 '........'; Dig. 36.1.84 '.........'; Dig. 36.1.85 '........'; Dig. 36.4.16 '........'; Dig. 36.4.17 '..........'",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 90.4% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest37.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest37.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "3529db470584ae7893bf34692f1f29d2be77a7ef4306406b88ecb8e825a4ad68",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..15 match the contents; 494 fragments in order",
+      "text: 25015 page tokens = 22519 row tokens + 2496 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 89.3% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest38.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest38.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "6eb46d8c6adf777bc39f40b522fd25595311a20b0c78c3eb21ddcc73e9e81226",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..17 match the contents; 591 fragments in order",
+      "text: 29145 page tokens = 26178 row tokens + 2967 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 88.7% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest39.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest39.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "703503536f4d9ba057b701d21238d8bafb7a0b08bc96df94db88c450034e3603",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..6 match the contents; 577 fragments in order",
+      "text: 26542 page tokens = 23769 row tokens + 2773 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 88.4% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest40.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest40.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "93360f62cbd827924775cb1a27ea7d928fd0f33dc1912c7fc2c2226e399c30c6",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..16 match the contents; 736 fragments in order",
+      "text: 35428 page tokens = 31877 row tokens + 3551 markers",
+      "review: unusual inscriptions Dig. 40.5.17 'claud. ex scaev. 21 Dig.'; Dig. 40.14.2pr. 'saturn. 1 de off. procons.'; Dig. 40.14.2.1 'saturn. 1 de off. procons.'; Dig. 40.14.2.2 'saturn. 1 de off. procons.'",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 88.2% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest41.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest41.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "93f735eaf30d111c876c0ae34d7652c3869af5d8de4ac0b0c7479c3721a3e1d2",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..10 match the contents; 514 fragments in order",
+      "text: 24586 page tokens = 22123 row tokens + 2463 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 88.4% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest42.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest42.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "bed096871c1d047e7511d8d5ec00148adc5538b7445d18d1dd5741f0dfcf5d61",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..8 match the contents; 369 fragments in order",
+      "text: 17252 page tokens = 15473 row tokens + 1779 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 88.2% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest43.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest43.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "ac37f7b31bf3f275b18106b9b913aa7ef77d6131040764d10ace6500937555f4",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..33 match the contents; 750 fragments in order",
+      "text: 63606 page tokens = 27786 row tokens + 35820 markers",
+      "review: no text on the site for 43.3.1.pr",
+      "review: the page repeats the whole book; the identical second copy was dropped",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 87.6% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest44.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest44.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "d20e37899f37b7420493346e5abbcc6ecab8ec9026490e2a7ce666b825de10e6",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..7 match the contents; 330 fragments in order",
+      "text: 16156 page tokens = 14570 row tokens + 1586 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 88.6% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest45.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest45.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "4ab9c6b7b9b031be24c9b3f8cc66f7d63919c19c829e6d1b631e01aed2a64b33",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..3 match the contents; 395 fragments in order",
+      "text: 20956 page tokens = 19145 row tokens + 1811 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 89.6% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest46.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest46.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "251ea9c542e36cb65a81b9ca3fbdfb40d701c0a02f87cfdc5e167ecc9db70a03",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..8 match the contents; 555 fragments in order",
+      "text: 27587 page tokens = 25025 row tokens + 2562 markers",
+      "review: unusual inscriptions Dig. 46.8.26 '. . . . . . .'",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 88.8% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest47.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest47.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "5e0bbfdf1923bc24d0f7c7ef3f021f2caa06fb672c8c076bc920de862551a30e",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..23 match the contents; 723 fragments in order",
+      "text: 31406 page tokens = 27764 row tokens + 3642 markers",
+      "review: paragraph numbering jumps at 47.10.15.13",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 87.5% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest48.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest48.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "f2e7ff009bacda3c8552b7e0c4a0278252ceabeac2e79b43cebe747fbae6fc64",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "patch: '<B>Dig. 48.1.0. De publicis iudiciis.</B>\n</P>\n\n<P>\n Macer' -> '<B>Dig. 48.1.0. De publicis iudiciis.</B>\n</P>\n\n<P>Dig. 48.1.1</P>\n\n<P>\n Macer' (citation of 48.1.1 missing before its inscription)",
+      "titles: 1..24 match the contents; 877 fragments in order",
+      "text: 35118 page tokens = 30759 row tokens + 4359 markers",
+      "review: paragraph numbering jumps at 48.5.12.10",
+      "review: unusual inscriptions Dig. 48.19.16pr. 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.1 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.2 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.3 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.4 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.5 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.6 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.7 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.8 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.9 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.10 'saturn. l.S. de poen. paganorum.'",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 85.6% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest49.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest49.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "2df9af5ece5b5b458d09fc8b44e24c977a82020fac1d65912c6c61e453ade401",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "titles: 1..18 match the contents; 476 fragments in order",
+      "text: 21581 page tokens = 19140 row tokens + 2441 markers",
+      "review: paragraph numbering jumps at 49.16.4.7",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 87.3% of CLTK's in ours"
+    ]
+  },
+  "justinian/digest50.shtml": {
+    "url": "https://www.thelatinlibrary.com/justinian/digest50.shtml",
+    "retrieved": "2026-10-30",
+    "sha256": "9cd2587ff4498a427dc2a6cdc2b269e7506429ed79ee0860c4e8cc8d7125f74d",
+    "workId": "thelatinlibrary-justinian-digesta",
+    "provenance": "noStatement",
+    "provenanceStatements": [],
+    "checks": [
+      "patch: '<B>Dig. 50.1.0. Ad municipalem et de incolis.</B>\n</P>\n\n<P>\nUlpianus' -> '<B>Dig. 50.1.0. Ad municipalem et de incolis.</B>\n</P>\n\n<P>Dig. 50.1.1pr.</P>\n\n<P>\nUlpianus' (citation of 50.1.1pr missing before its inscription (50.1.1.1 follows))",
+      "titles: 1..17 match the contents; 1103 fragments in order",
+      "text: 35763 page tokens = 30671 row tokens + 5092 markers",
+      "provenance: no edition, copyright or permission statement",
+      "cltk: 100.0% of our 5-grams in CLTK, 82.0% of CLTK's in ours"
+    ]
   }
 }
