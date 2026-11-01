@@ -156,12 +156,12 @@
     "sha256": "290589ca60c62da3a9ccc1c5aade8ecb4818d057ee86c5043026b5c02f8ea1c3",
     "path": "addison/barometri.shtml",
     "title": "JOSEPHUS ADDISON BAROMETRI DESCRIPTIO",
+    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio"
+    "excluded": false
   },
   "addison/burnett.shtml": {
     "url": "https://www.thelatinlibrary.com/addison/burnett.shtml",
@@ -169,96 +169,96 @@
     "sha256": "d409ba3496212db28bdde02adc0639eefaba5ab0b624d5d3397f4b3ab8d1575b",
     "path": "addison/burnett.shtml",
     "title": "JOSEPHUS ADDISON AD INSIGNISSIMUM VIRUM D. THO. BURNETTUM, SACRAE THEORIAE TELLURIS AUTOREM",
+    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio"
+    "excluded": false
   },
   "addison/hannes.shtml": {
     "url": "https://www.thelatinlibrary.com/addison/hannes.shtml",
     "retrieved": "2026-11-01",
     "sha256": "10f6ac3385b3341abe8874c64d887adbe40215ee12d7abd81bf8fb8b06064e34",
     "path": "addison/hannes.shtml",
+    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio"
+    "excluded": false
   },
   "addison/machinae.shtml": {
     "url": "https://www.thelatinlibrary.com/addison/machinae.shtml",
     "retrieved": "2026-11-01",
     "sha256": "39863b30c1c312c8aac5f8d84a25646c60d9212b2aef6be589a2964e341eb5db",
     "path": "addison/machinae.shtml",
+    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio"
+    "excluded": false
   },
   "addison/pax.shtml": {
     "url": "https://www.thelatinlibrary.com/addison/pax.shtml",
     "retrieved": "2026-11-01",
     "sha256": "60ace256ccb72536ba731f0abcc1547b9f5df71681a30657b9736961be02a196",
     "path": "addison/pax.shtml",
+    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio"
+    "excluded": false
   },
   "addison/praelium.shtml": {
     "url": "https://www.thelatinlibrary.com/addison/praelium.shtml",
     "retrieved": "2026-11-01",
     "sha256": "967097bb9ed88e6b2774b849cb0acb5fcab76af3a705443db41a0908490cbee9",
     "path": "addison/praelium.shtml",
+    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio"
+    "excluded": false
   },
   "addison/preface.shtml": {
     "url": "https://www.thelatinlibrary.com/addison/preface.shtml",
     "retrieved": "2026-11-01",
     "sha256": "3021e751978ed9638135e0187dac12053acf94b53a8d8db51090e6c8cc1d15d4",
     "path": "addison/preface.shtml",
+    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio"
+    "excluded": false
   },
   "addison/resurr.shtml": {
     "url": "https://www.thelatinlibrary.com/addison/resurr.shtml",
     "retrieved": "2026-11-01",
     "sha256": "35899c5064de8a44107cda3f428c4a76baedea13c2a0a43864b79dff00a10d31",
     "path": "addison/resurr.shtml",
+    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio"
+    "excluded": false
   },
   "addison/sphaer.shtml": {
     "url": "https://www.thelatinlibrary.com/addison/sphaer.shtml",
     "retrieved": "2026-11-01",
     "sha256": "c9cef4481c2aa674be7c352dede36bd71804b6cb8c01dc9b84a4ca465d3449d3",
     "path": "addison/sphaer.shtml",
+    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/joseph-addison-musarum-anglicanarum-analecta-carmina-latina-et-praefatio"
+    "excluded": false
   },
   "adso.html": {
     "url": "https://www.thelatinlibrary.com/adso.html",
@@ -1055,12 +1055,12 @@
     "sha256": "bd2c3e28e6b11de81282b105628734793894f8e4537bdfe6dace511958a08bdc",
     "path": "ammianus/14.shtml",
     "title": "AMMIANI MARCELLINI HISTORIAE LIBER XIV",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ammianus/15.shtml": {
     "url": "https://www.thelatinlibrary.com/ammianus/15.shtml",
@@ -1068,12 +1068,12 @@
     "sha256": "533b5808d63c28618c07514acc016e1a689a964a88d8aaa8d436225bf88475bc",
     "path": "ammianus/15.shtml",
     "title": "AMMIANI MARCELLINI HISTORIAE LIBER XV",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ammianus/16.shtml": {
     "url": "https://www.thelatinlibrary.com/ammianus/16.shtml",
@@ -1081,12 +1081,12 @@
     "sha256": "607d47dd25ee12ed7e318ca7d5bae13cd2eeb88e0bb0c49d26e4f898889f9233",
     "path": "ammianus/16.shtml",
     "title": "AMMIANI MARCELLINI HISTORIAE LIBER XVI",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ammianus/17.shtml": {
     "url": "https://www.thelatinlibrary.com/ammianus/17.shtml",
@@ -1094,12 +1094,12 @@
     "sha256": "32aee41ff0b81b232f3b5f5622f90f245b084c6b231b2e608490c0d133b76d0a",
     "path": "ammianus/17.shtml",
     "title": "AMMIANI MARCELLINI HISTORIAE LIBER XVII",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ammianus/18.shtml": {
     "url": "https://www.thelatinlibrary.com/ammianus/18.shtml",
@@ -1107,12 +1107,12 @@
     "sha256": "b60f5f0fdfb5e36b250ad1cf5f23460bfb96a5cba43fa861c84095ec7fccd2c9",
     "path": "ammianus/18.shtml",
     "title": "AMMIANI MARCELLINI HISTORIAE LIBER XVIII",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ammianus/19.shtml": {
     "url": "https://www.thelatinlibrary.com/ammianus/19.shtml",
@@ -1120,50 +1120,50 @@
     "sha256": "cb7864dd11654661179d4a761d3d0ae8b26f729742fe66441f9b324029c07b16",
     "path": "ammianus/19.shtml",
     "title": "AMMIANI MARCELLINI HISTORIAE LIBER XIX",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ammianus/20.shtml": {
     "url": "https://www.thelatinlibrary.com/ammianus/20.shtml",
     "retrieved": "2026-11-01",
     "sha256": "02900b9f0806ebd23f677b55cbb8171cd1e4b930ec56afc048f0a72a3d53a903",
     "path": "ammianus/20.shtml",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ammianus/21.shtml": {
     "url": "https://www.thelatinlibrary.com/ammianus/21.shtml",
     "retrieved": "2026-11-01",
     "sha256": "601983812c32ad0dc66885de1ced24645f3c31697aa0a9caa0f14085a9fc45c2",
     "path": "ammianus/21.shtml",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "arbitrio eius promotorum suscepto praeter Nebridium, quinquennalia Augustus iam edidit: et ambitioso diademate utebatur lapidum fulgore distincto, cum inter exordia principatus adsumpti vili corona circumdatus erat xystarchae similis purpurato. <font size=1>5</font> Inter quae Helenae coniugis defunctae suprema miserat"
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ammianus/22.shtml": {
     "url": "https://www.thelatinlibrary.com/ammianus/22.shtml",
     "retrieved": "2026-11-01",
     "sha256": "870e42a859ff171017400d36f452ef59f9b96ff4dad5f93ab90965501c47b7fe",
     "path": "ammianus/22.shtml",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ammianus/23.shtml": {
     "url": "https://www.thelatinlibrary.com/ammianus/23.shtml",
@@ -1171,12 +1171,12 @@
     "sha256": "c6cf09716cfe99686b8a9db47b9bb6b709e33d002b8aff90d307ec4a29df26bb",
     "path": "ammianus/23.shtml",
     "title": "AMMIANI MARCELLINI HISTORIAE LIBER XXIII",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ammianus/24.shtml": {
     "url": "https://www.thelatinlibrary.com/ammianus/24.shtml",
@@ -1184,12 +1184,12 @@
     "sha256": "0dbf6c64cc96af59357ebd0c3a9dac84f3106e5ce07e1e2d2344d89bf6d29087",
     "path": "ammianus/24.shtml",
     "title": "AMMIANI MARCELLINI HISTORIAE LIBER XXIV",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ammianus/25.shtml": {
     "url": "https://www.thelatinlibrary.com/ammianus/25.shtml",
@@ -1197,12 +1197,12 @@
     "sha256": "86c4cbbdd00605b6013a4fdf889292465cb0eb766c59276b98a3da09bbd4e80f",
     "path": "ammianus/25.shtml",
     "title": "AMMIANI MARCELLINI HISTORIAE LIBER XXV",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ammianus/26.shtml": {
     "url": "https://www.thelatinlibrary.com/ammianus/26.shtml",
@@ -1210,12 +1210,12 @@
     "sha256": "99609e4dcdfba0cb7c03b30cd282934d40862616c757de1182001e563cd70262",
     "path": "ammianus/26.shtml",
     "title": "AMMIANI MARCELLINI HISTORIAE LIBER XXVI",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ammianus/27.shtml": {
     "url": "https://www.thelatinlibrary.com/ammianus/27.shtml",
@@ -1223,12 +1223,12 @@
     "sha256": "4b28f64bb94de9e2b27afcc92612990178fd3ef078fa7cd815c8615073d3c105",
     "path": "ammianus/27.shtml",
     "title": "AMMIANI MARCELLINI HISTORIAE LIBER XXVII",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ammianus/28.shtml": {
     "url": "https://www.thelatinlibrary.com/ammianus/28.shtml",
@@ -1236,12 +1236,12 @@
     "sha256": "006b629f9c8fa15b1a58d6aef03e711ab97e10573223e9632929071e328e1fe7",
     "path": "ammianus/28.shtml",
     "title": "AMMIANI MARCELLINI HISTORIAE LIBER XXVIII",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ammianus/29.shtml": {
     "url": "https://www.thelatinlibrary.com/ammianus/29.shtml",
@@ -1249,14 +1249,14 @@
     "sha256": "18213a5b256aee7d7fded1f9d10133fae8ad8a28ad5c8edd7aaa9dc8120f6245",
     "path": "ammianus/29.shtml",
     "title": "AMMIANI MARCELLINI HISTORIAE LIBER XXIX",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "33. Cumque totius rei notitiam ita signate sub oculis iudicum subiecisset, adiecit benivole id Theodorum penitus ignorare. post haec interrogati an ex fide sortium, quas agitabant, ea praescierint quae sustinerent: versus illos notissimos ediderunt clare pronuntiantes capitalem eis hanc operam scrutandi sublimiora cito futuram: nihilo minus tamen ipsi quoque cum cognitoribus principi caedes incendiaque flagitantes furias inminere; quorum tres ponere sufficiet ultimos: ou man nepoinige syn essetai aima kai autois Tisiphone barymenis ephoplissei kakon oiton en pedioisi Mimantos agaiomenoio Ar..."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ammianus/30.shtml": {
     "url": "https://www.thelatinlibrary.com/ammianus/30.shtml",
@@ -1264,12 +1264,12 @@
     "sha256": "76372031c8179b461328d3bebf8d57e2e4f56ca4e5168dcc37df6c605484b7f2",
     "path": "ammianus/30.shtml",
     "title": "AMMIANI MARCELLINI HISTORIAE LIBER XXX",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ammianus/31.shtml": {
     "url": "https://www.thelatinlibrary.com/ammianus/31.shtml",
@@ -1277,14 +1277,14 @@
     "sha256": "4a66a9761aa26f18b2bfc25c53e793a629e4a27538c6c88ac804fbb97b904d0e",
     "path": "ammianus/31.shtml",
     "title": "AMMIANI MARCELLINI HISTORIAE LIBER XXXI",
+    "workId": "ll/ammianus-marcellinus-res-gestae",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "15. Duobus navium milibus perrupto Bosporo et litoribus Propontidis Scythicarum gentium catervae transgressae ediderunt quidem acerbas terra marique strages; sed amissa suorum parte maxima reverterunt."
     ],
     "statedEdition": "15. Duobus navium milibus perrupto Bosporo et litoribus Propontidis Scythicarum gentium catervae transgressae ediderunt quidem acerbas terra marique strages; sed amissa suorum parte maxima reverterunt.",
-    "excluded": false,
-    "workId": "ll/ammianus-marcellinus-res-gestae"
+    "excluded": false
   },
   "ampelius.shtml": {
     "url": "https://www.thelatinlibrary.com/ampelius.shtml",
@@ -1654,6 +1654,7 @@
     "sha256": "3145297aafb1d7954e8684d8fd2cf12f52ef4f00bbf53c5ad04a6fda1e3b7e73",
     "path": "apuleius/apuleius.apol.shtml",
     "title": "APVLEI APOLOGIA SIVE PRO SE DE MAGIA LIBER",
+    "workId": "ll/apuleius-apologia",
     "provenance": "statementFound",
     "provenanceClassification": "post1930_or_copyright",
     "provenanceStatements": [
@@ -1663,8 +1664,7 @@
     ],
     "statedEdition": null,
     "excluded": true,
-    "exclusionReason": "Pro se de magia (Apologia), edited with a commentary by Vincent Hunink, Amsterdam 1997",
-    "workId": "ll/apuleius-apologia"
+    "exclusionReason": "Pro se de magia (Apologia), edited with a commentary by Vincent Hunink, Amsterdam 1997"
   },
   "apuleius/apuleius.cupid.shtml": {
     "url": "https://www.thelatinlibrary.com/apuleius/apuleius.cupid.shtml",
@@ -1686,12 +1686,12 @@
     "sha256": "e0173182c21a0d01a1bd79137c9398bf2832e666c40ff786837c23d1c4fa21b3",
     "path": "apuleius/apuleius.deosocratis.shtml",
     "title": "APVLEI DE DEO SOCRATIS",
+    "workId": "ll/apuleius-de-deo-socratis",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/apuleius-de-deo-socratis"
+    "excluded": false
   },
   "apuleius/apuleius.dog1.shtml": {
     "url": "https://www.thelatinlibrary.com/apuleius/apuleius.dog1.shtml",
@@ -1699,14 +1699,14 @@
     "sha256": "c66049a8788b3c9523b02d6c1a59ca87b773e93217582a874eeab2e189ca172e",
     "path": "apuleius/apuleius.dog1.shtml",
     "title": "APVLEI DE DOGMATE PLATONIS LIBER PRIMUS",
+    "workId": "ll/apuleius-de-dogmate-platonis",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "XII. Sed omnia quae naturaliter et propterea recte feruntur providentiaecustodia gubernantur nec ullius mali causa deo poterit adscribi. Quare necomnia ad fati sortem arbitratur esse referenda. Ita enim definit: providentiam esse divinam sententiam, conservatricem prosperitatis eius, cuius causa tale suscepit officium; divinam legem esse fatum, per quod inevitabiles cogitationes dei atque incepta conplentur. Vnde si quid providentia geritur, id agitur et fato, et quod fato terminatur providentia debet susceptum videri. Et primam quidem providentiam esse summi exsuperantissimique deorum omni..."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/apuleius-de-dogmate-platonis"
+    "excluded": false
   },
   "apuleius/apuleius.dog2.shtml": {
     "url": "https://www.thelatinlibrary.com/apuleius/apuleius.dog2.shtml",
@@ -1714,12 +1714,12 @@
     "sha256": "15778ff306329b441301e0855d3fb7b8c95e405ea5443b2dc80987318ba43f57",
     "path": "apuleius/apuleius.dog2.shtml",
     "title": "APVLEI DE DOGMATE PLATONIS LIBER SECUNDUS",
+    "workId": "ll/apuleius-de-dogmate-platonis",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/apuleius-de-dogmate-platonis"
+    "excluded": false
   },
   "apuleius/apuleius.florida.shtml": {
     "url": "https://www.thelatinlibrary.com/apuleius/apuleius.florida.shtml",
@@ -1727,14 +1727,14 @@
     "sha256": "3608737dfc03424b62ff6d78dacabc70b98ba584a70fbfdac5f118243202cf6d",
     "path": "apuleius/apuleius.florida.shtml",
     "title": "APVLEI FLORIDA",
+    "workId": "ll/apuleius-florida",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "XVI. Priusquam vobis occipiam, principes Africae viri, gratias agere ob statuam, quam mihi praesenti honeste postulastis et absenti benigne decrevistis, prius volo causam vobis allegare, cur aliquam multos dies a conspectu auditorii afuerim contulerimque me ad Persianas aquas, gratissima prorsus et sanis natabula et aegris medicabula - quippe ita institui omne vitae meae tempus vobis probare, quibus me in perpetuum firmiter dedicavi: nihil tantum, nihil tantulum faciam, quin eius vos et gnaros et iudices habeam - quid igitur de repentino ab hoc splendidissimo conspectu vestro distulerim. Ex..."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/apuleius-florida"
+    "excluded": false
   },
   "apuleius/apuleius.mundo.shtml": {
     "url": "https://www.thelatinlibrary.com/apuleius/apuleius.mundo.shtml",
@@ -1742,12 +1742,12 @@
     "sha256": "a46eff2fdabfa01c2385ff49fd84547c2b1cd9682e778191722d0fc269b977cf",
     "path": "apuleius/apuleius.mundo.shtml",
     "title": "APVLEI DE MUNDO",
+    "workId": "ll/apuleius-de-mundo",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/apuleius-de-mundo"
+    "excluded": false
   },
   "apuleius/apuleius1.shtml": {
     "url": "https://www.thelatinlibrary.com/apuleius/apuleius1.shtml",
@@ -1755,12 +1755,12 @@
     "sha256": "b406355fe38148a72b7a05e82c42d9a5c623e353a0c85c7641563180c3b6e4c0",
     "path": "apuleius/apuleius1.shtml",
     "title": "APVLEI METAMORPHOSEON LIBER I",
+    "workId": "ll/apuleius-metamorphoses",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/apuleius-metamorphoses"
+    "excluded": false
   },
   "apuleius/apuleius10.shtml": {
     "url": "https://www.thelatinlibrary.com/apuleius/apuleius10.shtml",
@@ -1768,12 +1768,12 @@
     "sha256": "919f1e419eab66e22cac36d9a763d15933f9ecefae8cf74381f273f87ea54f67",
     "path": "apuleius/apuleius10.shtml",
     "title": "APVLEI METAMORPHOSEON LIBER X",
+    "workId": "ll/apuleius-metamorphoses",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/apuleius-metamorphoses"
+    "excluded": false
   },
   "apuleius/apuleius11.shtml": {
     "url": "https://www.thelatinlibrary.com/apuleius/apuleius11.shtml",
@@ -1781,12 +1781,12 @@
     "sha256": "a8970ce3afb53328ace81554473980419ac9f696ca150be60063d2460d2b786c",
     "path": "apuleius/apuleius11.shtml",
     "title": "APVLEI METAMORPHOSEON LIBER XI",
+    "workId": "ll/apuleius-metamorphoses",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/apuleius-metamorphoses"
+    "excluded": false
   },
   "apuleius/apuleius2.shtml": {
     "url": "https://www.thelatinlibrary.com/apuleius/apuleius2.shtml",
@@ -1794,12 +1794,12 @@
     "sha256": "75e898fcfa66a87885355c96a3b1fe5018d826760a19523aef821f4b6f22cda0",
     "path": "apuleius/apuleius2.shtml",
     "title": "APVLEI METAMORPHOSEON LIBER II",
+    "workId": "ll/apuleius-metamorphoses",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/apuleius-metamorphoses"
+    "excluded": false
   },
   "apuleius/apuleius3.shtml": {
     "url": "https://www.thelatinlibrary.com/apuleius/apuleius3.shtml",
@@ -1807,12 +1807,12 @@
     "sha256": "c15548f52c166a033e30e2955646bfff00bfa27331423df977848949674277b7",
     "path": "apuleius/apuleius3.shtml",
     "title": "APVLEI METAMORPHOSEON LIBER III",
+    "workId": "ll/apuleius-metamorphoses",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/apuleius-metamorphoses"
+    "excluded": false
   },
   "apuleius/apuleius4.shtml": {
     "url": "https://www.thelatinlibrary.com/apuleius/apuleius4.shtml",
@@ -1820,12 +1820,12 @@
     "sha256": "55e0518524037c267fe1fcd22be8fbdaea48cad94ae17881691d9ff8cb523c45",
     "path": "apuleius/apuleius4.shtml",
     "title": "APVLEI METAMORPHOSEON LIBER IV",
+    "workId": "ll/apuleius-metamorphoses",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/apuleius-metamorphoses"
+    "excluded": false
   },
   "apuleius/apuleius5.shtml": {
     "url": "https://www.thelatinlibrary.com/apuleius/apuleius5.shtml",
@@ -1857,12 +1857,12 @@
     "sha256": "9818ac504d04cd64b06d3d963c3770062ac3cc77e3d5d5d7dcb74db781334205",
     "path": "apuleius/apuleius7.shtml",
     "title": "APVLEI METAMORPHOSEON LIBER VII",
+    "workId": "ll/apuleius-metamorphoses",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/apuleius-metamorphoses"
+    "excluded": false
   },
   "apuleius/apuleius8.shtml": {
     "url": "https://www.thelatinlibrary.com/apuleius/apuleius8.shtml",
@@ -1870,12 +1870,12 @@
     "sha256": "0b2b86083dd081f409b1de8906a4ac4452c16172ca8b1a5c85a8b99bcc87015d",
     "path": "apuleius/apuleius8.shtml",
     "title": "APVLEI METAMORPHOSEON LIBER VIII",
+    "workId": "ll/apuleius-metamorphoses",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/apuleius-metamorphoses"
+    "excluded": false
   },
   "apuleius/apuleius9.shtml": {
     "url": "https://www.thelatinlibrary.com/apuleius/apuleius9.shtml",
@@ -1883,6 +1883,7 @@
     "sha256": "e84db1bbd1f82ba7c9d0a1bacd1019932c8a1bdee6a46fedce8db505a9bea243",
     "path": "apuleius/apuleius9.shtml",
     "title": "APVLEI METAMORPHOSEON LIBER IX",
+    "workId": "ll/apuleius-metamorphoses",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
@@ -1890,8 +1891,7 @@
       "[33] Nocte quadam paterfamilias quidam e pago proximo tenebris inluniae caliginis impeditus et imbre nimio madefactus atque ob id ab itinere directo cohibitus ad hortulum nostrum iam fesso equo deverterat, receptusque comiter pro tempore licet non delicato necessario tamen quietis subsidio, remunerari benignum hospitem cupiens, promittit ei de praediis suis sese daturum et frumenti et olivi aliquid et amplius duos vini cados. Nec moratus meus sacculo et utribus vacuis secum adportatis nudae spinae meae residens ad sexagesimum stadium profectionem comparat. Eo iam confecto viae spatio perven..."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/apuleius-metamorphoses"
+    "excluded": false
   },
   "aquinas.html": {
     "url": "https://www.thelatinlibrary.com/aquinas.html",
@@ -5111,12 +5111,12 @@
     "sha256": "f49d79f63e1e957928c8c6c2ba2cbfbdee02433ce3c99dc43adad54feda7d5c0",
     "path": "balde/balde1.html",
     "title": "JACOB BALDE",
+    "workId": "ll/jacob-balde-s-j-melancholia-ad-iulium-orstenam-de-more-unguendorum-cadaverum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/jacob-balde-s-j-melancholia-ad-iulium-orstenam-de-more-unguendorum-cadaverum"
+    "excluded": false
   },
   "balde/balde2.html": {
     "url": "https://www.thelatinlibrary.com/balde/balde2.html",
@@ -5124,12 +5124,12 @@
     "sha256": "ebdf852dbc7977c2fe1e92b79b850c51d3ecafe7c66e25c7bb6b148bcd7bc4ba",
     "path": "balde/balde2.html",
     "title": "JACOB BALDE",
+    "workId": "ll/jacob-balde-s-j-melancholia-ad-iulium-orstenam-de-more-unguendorum-cadaverum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/jacob-balde-s-j-melancholia-ad-iulium-orstenam-de-more-unguendorum-cadaverum"
+    "excluded": false
   },
   "baldo.html": {
     "url": "https://www.thelatinlibrary.com/baldo.html",
@@ -6606,12 +6606,12 @@
     "sha256": "930d9d823e5ebf8c97198dd3c8822cdc26d42f21031c626deb56a15d99528bb6",
     "path": "caesar/alex.shtml",
     "title": "INCERTI AVCTORIS DE BELLO ALEXANDRINO LIBER",
+    "workId": "ll/incertus-auctor-aulus-hirtius-de-bello-alexandrino",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/incertus-auctor-aulus-hirtius-de-bello-alexandrino"
+    "excluded": false
   },
   "caesar/bc1.shtml": {
     "url": "https://www.thelatinlibrary.com/caesar/bc1.shtml",
@@ -6619,12 +6619,12 @@
     "sha256": "81496360b19cfe6d558399cf6e4b14e8b37462019c7d7987565939bc85e722ed",
     "path": "caesar/bc1.shtml",
     "title": "C. IVLI CAESARIS COMMENTARIORVM DE BELLO CIVILI LIBER PRIMVS",
+    "workId": "ll/c-iulius-caesar-commentarii-de-bello-civili",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/c-iulius-caesar-commentarii-de-bello-civili"
+    "excluded": false
   },
   "caesar/bc2.shtml": {
     "url": "https://www.thelatinlibrary.com/caesar/bc2.shtml",
@@ -6632,12 +6632,12 @@
     "sha256": "720dcdae33c5a4f4d30a0686918bc58bd64c0976662dbcbfa7eface86431fd89",
     "path": "caesar/bc2.shtml",
     "title": "C. IVLI CAESARIS COMMENTARIORVM DE BELLO CIVILI LIBER SECVNDVS",
+    "workId": "ll/c-iulius-caesar-commentarii-de-bello-civili",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/c-iulius-caesar-commentarii-de-bello-civili"
+    "excluded": false
   },
   "caesar/bc3.shtml": {
     "url": "https://www.thelatinlibrary.com/caesar/bc3.shtml",
@@ -6645,12 +6645,12 @@
     "sha256": "cd27fa83472645207f4a0fdc03bff6f948a951090aef19c6033179813aea788c",
     "path": "caesar/bc3.shtml",
     "title": "C. IVLI CAESARIS COMMENTARIORVM DE BELLO CIVILI LIBER TERTIVS",
+    "workId": "ll/c-iulius-caesar-commentarii-de-bello-civili",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/c-iulius-caesar-commentarii-de-bello-civili"
+    "excluded": false
   },
   "caesar/bellafr.shtml": {
     "url": "https://www.thelatinlibrary.com/caesar/bellafr.shtml",
@@ -6658,12 +6658,12 @@
     "sha256": "37b5bcb8ad15c6a19a9dc3a8f846e7047f1b73b7424c7aac70691b7f110fa347",
     "path": "caesar/bellafr.shtml",
     "title": "INCERTI AVCTORIS DE BELLO AFRICO LIBER",
+    "workId": "ll/incertus-auctor-de-bello-africo",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/incertus-auctor-de-bello-africo"
+    "excluded": false
   },
   "caesar/gall1.shtml": {
     "url": "https://www.thelatinlibrary.com/caesar/gall1.shtml",
@@ -6671,12 +6671,12 @@
     "sha256": "01be6f2ca4118d552a83ad55df7e9fb77e91247166a797e534ac29ce845d4d1f",
     "path": "caesar/gall1.shtml",
     "title": "C. IVLI CAESARIS COMMENTARIORVM DE BELLO GALLICO LIBER PRIMVS",
+    "workId": "ll/c-iulius-caesar-commentarii-de-bello-gallico",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/c-iulius-caesar-commentarii-de-bello-gallico"
+    "excluded": false
   },
   "caesar/gall2.shtml": {
     "url": "https://www.thelatinlibrary.com/caesar/gall2.shtml",
@@ -6684,12 +6684,12 @@
     "sha256": "b8e4aae19e0b479779c693ca8d1fa82714c7bec5325652b1ea97b5edbafe1f01",
     "path": "caesar/gall2.shtml",
     "title": "C. IVLI CAESARIS COMMENTARIORVM DE BELLO GALLICO LIBER SECVNDVS",
+    "workId": "ll/c-iulius-caesar-commentarii-de-bello-gallico",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/c-iulius-caesar-commentarii-de-bello-gallico"
+    "excluded": false
   },
   "caesar/gall3.shtml": {
     "url": "https://www.thelatinlibrary.com/caesar/gall3.shtml",
@@ -6697,12 +6697,12 @@
     "sha256": "c7dbe5c566c434aa6d2eb6b291d680ede3a6ccbd9cc068f78da2918566aa7558",
     "path": "caesar/gall3.shtml",
     "title": "C. IVLI CAESARIS COMMENTARIORVM DE BELLO GALLICO LIBER TERTIVS",
+    "workId": "ll/c-iulius-caesar-commentarii-de-bello-gallico",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/c-iulius-caesar-commentarii-de-bello-gallico"
+    "excluded": false
   },
   "caesar/gall4.shtml": {
     "url": "https://www.thelatinlibrary.com/caesar/gall4.shtml",
@@ -6710,12 +6710,12 @@
     "sha256": "65724fe8f29632506569d3a39119f71e2c9cb787fc333c4f81a37b3d4883fbe3",
     "path": "caesar/gall4.shtml",
     "title": "C. IVLI CAESARIS COMMENTARIORVM DE BELLO GALLICO LIBER QVARTVS",
+    "workId": "ll/c-iulius-caesar-commentarii-de-bello-gallico",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/c-iulius-caesar-commentarii-de-bello-gallico"
+    "excluded": false
   },
   "caesar/gall5.shtml": {
     "url": "https://www.thelatinlibrary.com/caesar/gall5.shtml",
@@ -6723,12 +6723,12 @@
     "sha256": "995f2c93124fedb6960a629790cf58bb7777342a7d15c05b562bb7cfbcc05401",
     "path": "caesar/gall5.shtml",
     "title": "C. IVLI CAESARIS COMMENTARIORVM DE BELLO GALLICO LIBER QVINTVS",
+    "workId": "ll/c-iulius-caesar-commentarii-de-bello-gallico",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/c-iulius-caesar-commentarii-de-bello-gallico"
+    "excluded": false
   },
   "caesar/gall6.shtml": {
     "url": "https://www.thelatinlibrary.com/caesar/gall6.shtml",
@@ -6736,12 +6736,12 @@
     "sha256": "8545a77f6f6d214f4002f17e5ee085bb7d261ff48eef56799de55425d17dae3c",
     "path": "caesar/gall6.shtml",
     "title": "C. IVLI CAESARIS COMMENTARIORVM DE BELLO GALLICO LIBER SEXTVS",
+    "workId": "ll/c-iulius-caesar-commentarii-de-bello-gallico",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/c-iulius-caesar-commentarii-de-bello-gallico"
+    "excluded": false
   },
   "caesar/gall7.shtml": {
     "url": "https://www.thelatinlibrary.com/caesar/gall7.shtml",
@@ -6749,12 +6749,12 @@
     "sha256": "980f8aacea57f31e3305b4ed7bda4868a3f6015fe595b9d0634d98a32ff02832",
     "path": "caesar/gall7.shtml",
     "title": "C. IVLI CAESARIS COMMENTARIORVM DE BELLO GALLICO LIBER SEPTIMVS",
+    "workId": "ll/c-iulius-caesar-commentarii-de-bello-gallico",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/c-iulius-caesar-commentarii-de-bello-gallico"
+    "excluded": false
   },
   "caesar/gall8.shtml": {
     "url": "https://www.thelatinlibrary.com/caesar/gall8.shtml",
@@ -6762,12 +6762,12 @@
     "sha256": "aad4109fcb0a78ca60693ba47fcec7e9e2fbee469bb366b9bfe4eef4638290c2",
     "path": "caesar/gall8.shtml",
     "title": "C. IVLI CAESARIS COMMENTARIORVM DE BELLO GALLICO LIBER OCTAVVS ab A. Hirtio scriptus",
+    "workId": "ll/c-iulius-caesar-commentarii-de-bello-gallico",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/c-iulius-caesar-commentarii-de-bello-gallico"
+    "excluded": false
   },
   "caesar/hisp.shtml": {
     "url": "https://www.thelatinlibrary.com/caesar/hisp.shtml",
@@ -6775,12 +6775,12 @@
     "sha256": "505d548bc577a5047960602253f94c80c85db9338cd80b18c467e7f6b232ec69",
     "path": "caesar/hisp.shtml",
     "title": "INCERTI AVCTORIS DE BELLO HISPANIENSI LIBER",
+    "workId": "ll/incertus-auctor-de-bello-hispaniensi",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/incertus-auctor-de-bello-hispaniensi"
+    "excluded": false
   },
   "calpurniusflaccus.html": {
     "url": "https://www.thelatinlibrary.com/calpurniusflaccus.html",
@@ -6827,12 +6827,12 @@
     "sha256": "96806253a3203fcbf83df17334f88bf8f8f0d72b68524d702e027b2a8f90a5b7",
     "path": "campion/campion.elegies.shtml",
     "title": "THOMAE CAMPIANI ELEGIARUM LIBER",
+    "workId": "ll/thomas-campion-poemata-latina",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/thomas-campion-poemata-latina"
+    "excluded": false
   },
   "campion/campion.epigr1.shtml": {
     "url": "https://www.thelatinlibrary.com/campion/campion.epigr1.shtml",
@@ -6840,12 +6840,12 @@
     "sha256": "3ab5e0e379ef0048de4eae813b2d2db3c02eb89acbcb182459fdffe0543de058",
     "path": "campion/campion.epigr1.shtml",
     "title": "THOMAE CAMPIANI EPIGRAMMATUM LIBER PRIMUS",
+    "workId": "ll/thomas-campion-poemata-latina",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/thomas-campion-poemata-latina"
+    "excluded": false
   },
   "campion/campion.epigr2.shtml": {
     "url": "https://www.thelatinlibrary.com/campion/campion.epigr2.shtml",
@@ -6853,12 +6853,12 @@
     "sha256": "46024c8b1675326c42ebb45e1abfd7baf139f90b4f37655df4b5ee4c6003f3d8",
     "path": "campion/campion.epigr2.shtml",
     "title": "THOMAE CAMPIANI EPIGRAMMATUM LIBER SECUNDUS",
+    "workId": "ll/thomas-campion-poemata-latina",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/thomas-campion-poemata-latina"
+    "excluded": false
   },
   "campion/campion.misc.shtml": {
     "url": "https://www.thelatinlibrary.com/campion/campion.misc.shtml",
@@ -6866,12 +6866,12 @@
     "sha256": "d6f4d11dd83c35bda23d7c976063b4b958fea7cacc7179507fdc734647a3ac46",
     "path": "campion/campion.misc.shtml",
     "title": "Campion: Miscellaneous Poetry",
+    "workId": "ll/thomas-campion-poemata-latina",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/thomas-campion-poemata-latina"
+    "excluded": false
   },
   "campion/campion.plot1.shtml": {
     "url": "https://www.thelatinlibrary.com/campion/campion.plot1.shtml",
@@ -6879,14 +6879,14 @@
     "sha256": "8ba21b2c6a668d48a05ab0a78ace1b1c73e6d5741d15850a024f04615800c0ac",
     "path": "campion/campion.plot1.shtml",
     "title": "THOMAE CAMPIANI DE PULVEREA CONIURATIONE LIBER PRIMUS",
+    "workId": "ll/thomas-campion-poemata-latina",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "ore Catisbaeus blaeso, tamen ad mala prompto: \"iamdudum hoc agimus, Perci, nobis ut agamus dignum aliquid, factis praeeant sed verba necesse est, 175 cernendis veluti debentur lumina rebus. perdere tam multa sibi prole superstite regem, res non digna satis tanta fortissime dextra est, ad maiora tibi vigeat dum provocat usus. ingens coeptum animus mi parturit, artis iniquae 180 non nihil argutans. fructum sin respicis, unum est quod decus antiquum templis, animisque piorum oppressis requiem certo promittere possit.\" quicquid id est, clamant, fidis ne credere cesset auribus, et paribus per cu..."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/thomas-campion-poemata-latina"
+    "excluded": false
   },
   "campion/campion.plot2.shtml": {
     "url": "https://www.thelatinlibrary.com/campion/campion.plot2.shtml",
@@ -6894,12 +6894,12 @@
     "sha256": "16a8319da2d7ab4daca6b93c7ab2be439b97fe9e7900d868d48d84f185bb6058",
     "path": "campion/campion.plot2.shtml",
     "title": "THOMAE CAMPIANI DE PULVEREA CONIURATIONE LIBER SECUNDUS",
+    "workId": "ll/thomas-campion-poemata-latina",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/thomas-campion-poemata-latina"
+    "excluded": false
   },
   "campion/campion.thamesin.shtml": {
     "url": "https://www.thelatinlibrary.com/campion/campion.thamesin.shtml",
@@ -6907,12 +6907,12 @@
     "sha256": "6e83c3e245f7976a0752161fd576ed8938fe0c210bfbf4766321ecb4843fabc9",
     "path": "campion/campion.thamesin.shtml",
     "title": "THOMAE CAMPIANI AD THAMESIN",
+    "workId": "ll/thomas-campion-poemata-latina",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/thomas-campion-poemata-latina"
+    "excluded": false
   },
   "campion/campion.umbra.shtml": {
     "url": "https://www.thelatinlibrary.com/campion/campion.umbra.shtml",
@@ -6920,14 +6920,14 @@
     "sha256": "0ade48de60e5b62575b59a57d5d9de056195b516808ec42962a077b82edc1e51",
     "path": "campion/campion.umbra.shtml",
     "title": "THOMAE CAMPIANI UMBRA",
+    "workId": "ll/thomas-campion-poemata-latina",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "foemineos dea quae nigro sub limine manes occludis, coelo ostentans, iterumque reducens umbriferum per iter, quanquam crudelis amanti, sis mihi tu facilis; quanquam non aequa resumis formosarum animas, festina morte peremptas. 5 abreptas solus resonante reducere plectro Threicius potuit, lucique ostendere amores; non potuit tamen; ad tristes devolvitur umbras quicquid formosum est, et non inamabile natum. o sacra Persephone, liceat tua regna canenti, 10 lucifugasque umbras, aperire abscondita terris iura, tenebrarumque arcana adoperta silentum. respice qui viridi radancia tempora lauro comp..."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/thomas-campion-poemata-latina"
+    "excluded": false
   },
   "capellanus.html": {
     "url": "https://www.thelatinlibrary.com/capellanus.html",
@@ -8373,12 +8373,12 @@
     "sha256": "da78b29bcc41f5979d3fa292cdbda665a4b3021cdb56a13c2433d3e8b737720c",
     "path": "cicero/acad.shtml",
     "title": "M. TVLLI CICERONIS ACADEMICI LIBRI QVATTVOR",
+    "workId": "ll/m-tullius-cicero-academica",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-academica"
+    "excluded": false
   },
   "cicero/adbrutum1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/adbrutum1.shtml",
@@ -8386,12 +8386,12 @@
     "sha256": "86fb636347c1adfd007e41547472c8e3b8bcbf3d5f344215d894ac22126d1cf6",
     "path": "cicero/adbrutum1.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD BRVTVM LIBER PRIMVS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-m-brutum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-m-brutum"
+    "excluded": false
   },
   "cicero/adbrutum2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/adbrutum2.shtml",
@@ -8399,12 +8399,12 @@
     "sha256": "cae492a14f883fd48255257609645337f9169f3f60cd82250b7e6a6deefaa291",
     "path": "cicero/adbrutum2.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD BRVTVM LIBER SECVNDVS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-m-brutum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-m-brutum"
+    "excluded": false
   },
   "cicero/amic.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/amic.shtml",
@@ -8412,12 +8412,12 @@
     "sha256": "745059e846cdd1f3665cc7d4d8c186dfa58efa47b0dbdb4e02f97adbc1c2fca9",
     "path": "cicero/amic.shtml",
     "title": "M. TVLLI CICERONIS LAELIVS DE AMICITIA",
+    "workId": "ll/m-tullius-cicero-laelius-de-amicitia",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-laelius-de-amicitia"
+    "excluded": false
   },
   "cicero/arch.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/arch.shtml",
@@ -8425,12 +8425,12 @@
     "sha256": "7093b04c12bb75e528319608f75a5579e4e09ce4058e2a9836f6663c48fac086",
     "path": "cicero/arch.shtml",
     "title": "M. TVLLI CICERONIS PRO A. LICINIO ARCHIA POETA ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-a-licinio-archia-poeta-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-a-licinio-archia-poeta-oratio"
+    "excluded": false
   },
   "cicero/att1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/att1.shtml",
@@ -8438,12 +8438,12 @@
     "sha256": "4c2616a0f86d797a28eb156e0632909da3be00931c65e9c43c660817a21eff25",
     "path": "cicero/att1.shtml",
     "title": "M. TULLI CICERONIS EPISTULARUM AD ATTICUM LIBER PRIMUS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum"
+    "excluded": false
   },
   "cicero/att10.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/att10.shtml",
@@ -8451,12 +8451,12 @@
     "sha256": "cbd50dbf85d6428900acb4efc6a222cbe7a58b00d0c29b73881424075ae70327",
     "path": "cicero/att10.shtml",
     "title": "M. TULLI CICERONIS EPISTULARUM AD ATTICUM LIBER DECIMUS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum"
+    "excluded": false
   },
   "cicero/att11.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/att11.shtml",
@@ -8464,12 +8464,12 @@
     "sha256": "122e3c3ff934bfaf18faa62ad3b11b6f8c6902026c2bd60d7ca540cb43d73326",
     "path": "cicero/att11.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD ATTICVM LIBER VNDECIMVS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum"
+    "excluded": false
   },
   "cicero/att12.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/att12.shtml",
@@ -8477,12 +8477,12 @@
     "sha256": "757911015a25f990e5f656c6fb09ea3a5d74957dc9861a480360f5cf648aef86",
     "path": "cicero/att12.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD ATTICVM LIBER DVO DECIMVS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum"
+    "excluded": false
   },
   "cicero/att13.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/att13.shtml",
@@ -8490,12 +8490,12 @@
     "sha256": "e3400dc31d88537cd490fc7e82f596d3fa856aca2c12a4dd2cd4f9cafcea1056",
     "path": "cicero/att13.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD ATTICVM LIBER TERTIVS DECIMVS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum"
+    "excluded": false
   },
   "cicero/att14.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/att14.shtml",
@@ -8503,12 +8503,12 @@
     "sha256": "3c40d1f428348be2597bce0c856f02266c0fa8e979d001dc339eb22513376a92",
     "path": "cicero/att14.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD ATTICVM LIBER QVARTVS DECIMVS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum"
+    "excluded": false
   },
   "cicero/att15.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/att15.shtml",
@@ -8516,12 +8516,12 @@
     "sha256": "c32f48b22d681527c960281abcd60df2472c6ebd9a70205e6da13be1e5f0ef04",
     "path": "cicero/att15.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD ATTICVM LIBER QVINTVS DECIMVS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum"
+    "excluded": false
   },
   "cicero/att16.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/att16.shtml",
@@ -8529,12 +8529,12 @@
     "sha256": "6e2bb67f8b77deb3368a122c893ed0712c35ab43b39e0aa13956c440b6e71fa0",
     "path": "cicero/att16.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD ATTICVM LIBER SEXTVS DECIMVS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum"
+    "excluded": false
   },
   "cicero/att2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/att2.shtml",
@@ -8542,12 +8542,12 @@
     "sha256": "189036be133f497549f50e2ebcdb62885e9b6a14bb1d9d781e5b8e93ee9ac13d",
     "path": "cicero/att2.shtml",
     "title": "M. TULLI CICERONIS EPISTULARUM AD ATTICUM LIBER SECUNDUS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum"
+    "excluded": false
   },
   "cicero/att3.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/att3.shtml",
@@ -8555,12 +8555,12 @@
     "sha256": "9109a1d4e412521635286159b59a2e2bf420762de59e6e17808e3fdf38361aca",
     "path": "cicero/att3.shtml",
     "title": "M. TULLI CICERONIS EPISTULARUM AD ATTICUM LIBER TERTIUS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum"
+    "excluded": false
   },
   "cicero/att4.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/att4.shtml",
@@ -8568,12 +8568,12 @@
     "sha256": "ad061520c7059d9fd6133e30e6860307a0b9176f6da3b0d59a4247de150e312b",
     "path": "cicero/att4.shtml",
     "title": "M. TULLI CICERONIS EPISTULARUM AD ATTICUM LIBER QUARTUS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum"
+    "excluded": false
   },
   "cicero/att5.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/att5.shtml",
@@ -8581,12 +8581,12 @@
     "sha256": "902e9cc6906ea8c1d5c85e84f5b707555f5ad9d435db845647210d853972ef4b",
     "path": "cicero/att5.shtml",
     "title": "M. TULLI CICERONIS EPISTULARUM AD ATTICUM LIBER QUINTUS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum"
+    "excluded": false
   },
   "cicero/att6.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/att6.shtml",
@@ -8594,12 +8594,12 @@
     "sha256": "ad94f031d68b0d57bacb3afc947a3894703f65b0e9e2e90fa0dbb5b41f811378",
     "path": "cicero/att6.shtml",
     "title": "M. TULLI CICERONIS EPISTULARUM AD ATTICUM LIBER SEXTUS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum"
+    "excluded": false
   },
   "cicero/att7.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/att7.shtml",
@@ -8607,14 +8607,14 @@
     "sha256": "670a3cfe309e2e73fa949eded81ce994ec65955c1aba56f3acd20e054495f5c4",
     "path": "cicero/att7.shtml",
     "title": "M. TULLI CICERONIS EPISTULARUM AD ATTICUM LIBER SEPTIMUS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "[7] de Philotimo faciam equidem ut mones. sed ego mihi ab illo hoc tempore non rationes exspectabam quas tibi edidit, verum id reliquum quod ipse in Tusculano me referre in commentarium mea manu voluit quodque idem in Asia mihi sua manu scriptum dedit. id si praestaret, quantum mihi aeris alieni esse tibi edidit tantum et plus etiam mihi ipse deberet. sed in hoc genere, si modo per rem publicam licebit, non accusabimur posthac, neque hercule antea neglegentes fuimus sed amicorum multitudine occupati. ergo utemur, ut polliceris, et opera et consilio tuo nec tibi erimus, ut spero, in eo molesti."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum"
+    "excluded": false
   },
   "cicero/att8.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/att8.shtml",
@@ -8622,12 +8622,12 @@
     "sha256": "6e390840fb22a59b530dcc387d9edf8b99d756bd89fdea3b6e6f18d12bdfca14",
     "path": "cicero/att8.shtml",
     "title": "M. TULLI CICERONIS EPISTULARUM AD ATTICUM LIBER OCTAVUS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum"
+    "excluded": false
   },
   "cicero/att9.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/att9.shtml",
@@ -8635,12 +8635,12 @@
     "sha256": "27f74ef4ca63e75bccd8c090c106541e961352c7285316c9c105203476039375",
     "path": "cicero/att9.shtml",
     "title": "M. TULLI CICERONIS EPISTULARUM AD ATTICUM LIBER NONUS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-atticum"
+    "excluded": false
   },
   "cicero/balbo.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/balbo.shtml",
@@ -8648,12 +8648,12 @@
     "sha256": "b17d3f27b062a6972417fa43fafa0e6ecef8e2ab33dedf89bb7c710bca95b380",
     "path": "cicero/balbo.shtml",
     "title": "M. TVLLI CICERONIS PRO L. CORNELIO BALBO ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-l-cornelio-balbo-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-l-cornelio-balbo-oratio"
+    "excluded": false
   },
   "cicero/brut.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/brut.shtml",
@@ -8661,12 +8661,12 @@
     "sha256": "7725335278f6242522acbab6bca3803b7132e48a7231b13f872d9496b6cf6463",
     "path": "cicero/brut.shtml",
     "title": "M. TVLLI CICERONIS BRVTVS",
+    "workId": "ll/m-tullius-cicero-brutus",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-brutus"
+    "excluded": false
   },
   "cicero/caecilium.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/caecilium.shtml",
@@ -8674,12 +8674,12 @@
     "sha256": "10c10ee86e4c15d072a097237a99307ee9efe80a73958b46268ed8c542be204d",
     "path": "cicero/caecilium.shtml",
     "title": "M. TVLLI CICERONIS DIVINATIO IN CAECILIUM ORATIO",
+    "workId": "ll/m-tullius-cicero-divinatio-in-q-caecilium-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-divinatio-in-q-caecilium-oratio"
+    "excluded": false
   },
   "cicero/caecina.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/caecina.shtml",
@@ -8687,12 +8687,12 @@
     "sha256": "636bf98a327296575e536893bf03bc5720d5d1f14618c974890adc71971b993d",
     "path": "cicero/caecina.shtml",
     "title": "M. TVLLI CICERONIS PRO A. CAECINA ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-a-caecina-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-a-caecina-oratio"
+    "excluded": false
   },
   "cicero/cael.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/cael.shtml",
@@ -8700,12 +8700,12 @@
     "sha256": "12238c15158d2259ecee97f4c9e94864d8d7fc911eb8fbd4ebcd95d1dda5b83f",
     "path": "cicero/cael.shtml",
     "title": "M. TVLLI CICERONIS PRO M. CAELIO ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-m-caelio-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-m-caelio-oratio"
+    "excluded": false
   },
   "cicero/cat1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/cat1.shtml",
@@ -8713,12 +8713,12 @@
     "sha256": "c7235145f4a992d2c548149d91a7bab30072c870970cd16f2217d64fb400a468",
     "path": "cicero/cat1.shtml",
     "title": "ORATIO IN L. CATILINAM PRIMA",
+    "workId": "ll/m-tullius-cicero-in-l-catilinam-orationes-i-iv",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-l-catilinam-orationes-i-iv"
+    "excluded": false
   },
   "cicero/cat2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/cat2.shtml",
@@ -8726,12 +8726,12 @@
     "sha256": "389aa9f0a676e685e12b29a40c12d47e406ffee10b489d658adcc88ff144af8d",
     "path": "cicero/cat2.shtml",
     "title": "ORATIO IN L. CATILINAM SECVNDA HABITA AD POPVLVM",
+    "workId": "ll/m-tullius-cicero-in-l-catilinam-orationes-i-iv",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-l-catilinam-orationes-i-iv"
+    "excluded": false
   },
   "cicero/cat3.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/cat3.shtml",
@@ -8739,12 +8739,12 @@
     "sha256": "d5ed06db0cde8c5eed03da9d9330c3566ce11c8881bdcde37b7106a743d4be24",
     "path": "cicero/cat3.shtml",
     "title": "ORATIO IN L. CATILINAM TERTIA HABITA AD POPVLVM",
+    "workId": "ll/m-tullius-cicero-in-l-catilinam-orationes-i-iv",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-l-catilinam-orationes-i-iv"
+    "excluded": false
   },
   "cicero/cat4.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/cat4.shtml",
@@ -8752,12 +8752,12 @@
     "sha256": "a23ce76153a9adbb8842ef83eedda0e561268fdee36b351d89ecd9c2b7a77405",
     "path": "cicero/cat4.shtml",
     "title": "ORATIO IN L. CATILINAM QUARTA HABITA IN SENATV",
+    "workId": "ll/m-tullius-cicero-in-l-catilinam-orationes-i-iv",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-l-catilinam-orationes-i-iv"
+    "excluded": false
   },
   "cicero/cluentio.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/cluentio.shtml",
@@ -8765,12 +8765,12 @@
     "sha256": "2e07076f1ae41c07c38ad5cd801a6ee2e0b271d578d2bbbab662d42643649757",
     "path": "cicero/cluentio.shtml",
     "title": "M. TVLLI CICERONIS PRO A. CLVENTIO ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-a-cluentio-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-a-cluentio-oratio"
+    "excluded": false
   },
   "cicero/compet.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/compet.shtml",
@@ -8778,12 +8778,12 @@
     "sha256": "8f7e36ba14ffc7dce94b480c2cd814da156e215caddf6b9eb335a5c0897094a6",
     "path": "cicero/compet.shtml",
     "title": "Q. TVLLI CICERONIS COMMENTARIOLVM PETITIONIS",
+    "workId": "ll/q-tullius-cicero-commentariolum-petitionis",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/q-tullius-cicero-commentariolum-petitionis"
+    "excluded": false
   },
   "cicero/consulatu.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/consulatu.shtml",
@@ -8791,12 +8791,12 @@
     "sha256": "5396b2b09987f2077521ab2919872f8f232f9fa1a13444506b709d030d4194bf",
     "path": "cicero/consulatu.shtml",
     "title": "M. TVLLI CICERONIS DE CONSVLATV SVO FRAGMENTA",
+    "workId": "ll/m-tullius-cicero-de-consulatu-suo-fragmenta",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-consulatu-suo-fragmenta"
+    "excluded": false
   },
   "cicero/deio.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/deio.shtml",
@@ -8804,40 +8804,40 @@
     "sha256": "00cd27e75d9226c15b82dcc01bad556a85271c72038767018277b43635fc48f2",
     "path": "cicero/deio.shtml",
     "title": "M. TVLLI CICERONIS PRO REGE DEIOTARO AD C. CAESAREM ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-rege-deiotaro-ad-c-caesarem-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-rege-deiotaro-ad-c-caesarem-oratio"
+    "excluded": false
   },
   "cicero/divinatione1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/divinatione1.shtml",
     "retrieved": "2026-11-01",
     "sha256": "e223c8420da20a4fa4dc5c7a9ab77338dcc1f0da2bf3dfa6e92d7bddc66e2e93",
     "path": "cicero/divinatione1.shtml",
+    "workId": "ll/m-tullius-cicero-de-divinatione",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "rea de oraclis, uno de somniis; quem subsequens unum librum Babylonius Diogenes edidit, eius auditor, duo Antipater, quinque noster Posidonius. Sed a Stoicis vel princeps eius disciplinae, Posidoni doctor, discipulus Antipatri, degeneravit Panaetius, nec tamen ausus est negare vim esse divinandi, sed dubitare se dixit."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-divinatione"
+    "excluded": false
   },
   "cicero/divinatione2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/divinatione2.shtml",
     "retrieved": "2026-11-01",
     "sha256": "6c51be951b3408d967194c92ef966ba7b99ce08b70c115ccb30e16683edb3860",
     "path": "cicero/divinatione2.shtml",
+    "workId": "ll/m-tullius-cicero-de-divinatione",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "m belli exanclabimus annos;<BR>quae decumo cadet et poena satiabit Achivos.'<BR>Edidit haec Calchas; quae iam matura videtis.\" </p> <p> <b><A name=\"65\">65</A></b> Quae tandem ista auguratio est ex passeribus annorum potius quam aut mensuum aut dierum? Cur autem de passerculis coniecturam facit, in quibus nullum erat mo"
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-divinatione"
+    "excluded": false
   },
   "cicero/domo.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/domo.shtml",
@@ -8845,12 +8845,12 @@
     "sha256": "f987a97ca5a6a65174cc6c8fe1a7939fd916a8a1aad44bfcd42c7830af066a97",
     "path": "cicero/domo.shtml",
     "title": "M. TVLLI CICERONIS DE DOMO SVA AD PONTIFICES ORATIO",
+    "workId": "ll/m-tullius-cicero-de-domo-sua-ad-pontifices-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-domo-sua-ad-pontifices-oratio"
+    "excluded": false
   },
   "cicero/fam1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fam1.shtml",
@@ -8858,12 +8858,12 @@
     "sha256": "61f7951729f8558e47bd8cb1b826df047ca6dcef3dc2a04d4b887b277ed0e4d6",
     "path": "cicero/fam1.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD FAMILIARES LIBER PRIMVS Ad P. Lentulum",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares"
+    "excluded": false
   },
   "cicero/fam10.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fam10.shtml",
@@ -8871,12 +8871,12 @@
     "sha256": "3167eae105a7069e0711101ac6d0e4f4f8c14e83718a89d8acd043932338ab70",
     "path": "cicero/fam10.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD FAMILIARES LIBER DECIMVS Ad L. Plancum et Ceteros",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares"
+    "excluded": false
   },
   "cicero/fam11.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fam11.shtml",
@@ -8884,12 +8884,12 @@
     "sha256": "52a9bb932781f32b8b6c0e296d2dcb069ce00270adeb0b7808f9f98453b7d900",
     "path": "cicero/fam11.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD FAMILIARES LIBER VNDECIMVS Ad M. Brutum et Ceteros",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares"
+    "excluded": false
   },
   "cicero/fam12.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fam12.shtml",
@@ -8897,12 +8897,12 @@
     "sha256": "3bf0935fd98db03eb5b4a5f6b94885f7f5e0c5efbb979a94943cc63efa4d3e4d",
     "path": "cicero/fam12.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD FAMILIARES LIBER DVODECIMVS Ad C. Cassium et Ceteros",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares"
+    "excluded": false
   },
   "cicero/fam13.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fam13.shtml",
@@ -8910,12 +8910,12 @@
     "sha256": "65e527413f642c604c9fe7757831867c3160761c9344083d43b96099889876aa",
     "path": "cicero/fam13.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD FAMILIARES LIBER TERTIVS DECIMVS Ad C. Memmium et Ceteros",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares"
+    "excluded": false
   },
   "cicero/fam14.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fam14.shtml",
@@ -8923,12 +8923,12 @@
     "sha256": "f0acce7261cbd9903932f60e50ae825ae62ee1438a1536cad404bd8a395cb452",
     "path": "cicero/fam14.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD FAMILIARES LIBER QVARTVS DECIMVS Ad Terentiam Uxorem",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares"
+    "excluded": false
   },
   "cicero/fam15.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fam15.shtml",
@@ -8936,12 +8936,12 @@
     "sha256": "a55d2b65da76ffe27032a61b8c75c39a865c5e61cb9bde0a56d75a24ce39ad19",
     "path": "cicero/fam15.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD FAMILIARES LIBER QVINTVS DECIMVS Ad Senatum et Ceteros",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares"
+    "excluded": false
   },
   "cicero/fam16.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fam16.shtml",
@@ -8949,24 +8949,24 @@
     "sha256": "36a5500e6fbd23b0a70d7138f51727b594048acff48e33bef42ffc4c818194d9",
     "path": "cicero/fam16.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD FAMILIARES LIBER SEXTVS DECIMVS Ad Tironem",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares"
+    "excluded": false
   },
   "cicero/fam2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fam2.shtml",
     "retrieved": "2026-11-01",
     "sha256": "3b18a4c7b45c6313812292c08b2af1eb5e73a3164b853ba9f2d8357e2f7fdea4",
     "path": "cicero/fam2.shtml",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares"
+    "excluded": false
   },
   "cicero/fam3.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fam3.shtml",
@@ -8974,12 +8974,12 @@
     "sha256": "f752ae6a07f4009864d798c18d654f8a357ba9b8fcb38cb3d906fbb7fd5d068c",
     "path": "cicero/fam3.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD FAMILIARES LIBER TERTIVS Ad Ap. Claudium Pulchrum",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares"
+    "excluded": false
   },
   "cicero/fam4.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fam4.shtml",
@@ -8987,12 +8987,12 @@
     "sha256": "9539618b1c11443236299dd0b7ba0a4cd1c9a3ed67cdf04e57feba688aec5dba",
     "path": "cicero/fam4.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD FAMILIARES LIBER QVARTVS Ad Ser. Sulpicium et Ceteros",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares"
+    "excluded": false
   },
   "cicero/fam5.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fam5.shtml",
@@ -9000,12 +9000,12 @@
     "sha256": "01dabd541b3c903e27bf07a8ad9b04356f7625f44ad4405d30189d1a97ef7801",
     "path": "cicero/fam5.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD FAMILIARES LIBER QVINTVS Ad Q. Metellum et Ceteros",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares"
+    "excluded": false
   },
   "cicero/fam6.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fam6.shtml",
@@ -9013,12 +9013,12 @@
     "sha256": "f24480dbe33e576564c09dc1dddcb438110366a1fb077705ca870f00a29cb3e1",
     "path": "cicero/fam6.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD FAMILIARES LIBER SEXTVS Ad A. Torquatum et Ceteros",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares"
+    "excluded": false
   },
   "cicero/fam7.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fam7.shtml",
@@ -9026,12 +9026,12 @@
     "sha256": "19eb07469ed4ed0edcdb33915af8148f84da09975df382910746f8db6020e94a",
     "path": "cicero/fam7.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD FAMILIARES LIBER SEPTIMVS Ad M. Marium et Ceteros",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares"
+    "excluded": false
   },
   "cicero/fam8.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fam8.shtml",
@@ -9039,14 +9039,14 @@
     "sha256": "cd4958293cf74777e69dcb941626606c1860f42738526fbd139a02a062170869",
     "path": "cicero/fam8.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD FAMILIARES LIBER OCTAVVS M. Caelii Epistulae Ad M. Tullium Ciceronem",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "Pr. Kal. Octobres in aede Apollinis scrib. affuerunt L. Domitius Cn. f. Fab. Ahenobarbus, Q. Caecilius Q. f. Fab. Metellus Pius Scipio, L. Villius L. f. Pom. Annalis, C. Septimius T. f. Quirina, C. Lucilius C. f. Pup. Hirrus, C. Scribonius C. f. Pop. Curio, L. Ateius L. f. An. Capito, M. Eppius M. f. Terentina. Quod M. Marcellus cos. v. f. de provinciis, d. e. r. i. c., senatum existimare neminem eorum, qui potestatem habent intercedendi impediendi, moram afferre oportere, quo minus de. r. p. p. r. q. [re publica populi Romani quam primum -- per Loeb] ad senatum referri senatique consultum ..."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares"
+    "excluded": false
   },
   "cicero/fam9.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fam9.shtml",
@@ -9054,12 +9054,12 @@
     "sha256": "33427ee19103ef01b059ed3b61a44a02f443a6660d32d2f78ec0dded9554941f",
     "path": "cicero/fam9.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD FAMILIARES LIBER NONVS Ad M. Varronem et Ceteros",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-familiares"
+    "excluded": false
   },
   "cicero/fato.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fato.shtml",
@@ -9067,12 +9067,12 @@
     "sha256": "ee66b439a4b80892d2e4f5a43b1c644d8c71a35b68b8365fb133baac55d478c2",
     "path": "cicero/fato.shtml",
     "title": "M. TVLLI CICERONIS DE FATO",
+    "workId": "ll/m-tullius-cicero-de-fato",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-fato"
+    "excluded": false
   },
   "cicero/fin1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fin1.shtml",
@@ -9080,12 +9080,12 @@
     "sha256": "9e3eed19ac488f7ca4807f059da8b2eb07f4caa3e16915bc4b8da4b4a9aa6d5d",
     "path": "cicero/fin1.shtml",
     "title": "M. TVLLI CICERONIS DE FINIBVS BONORVM ET MALORVM LIBER PRIMVS",
+    "workId": "ll/m-tullius-cicero-de-finibus-bonorum-et-malorum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-finibus-bonorum-et-malorum"
+    "excluded": false
   },
   "cicero/fin2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fin2.shtml",
@@ -9093,12 +9093,12 @@
     "sha256": "901e699e5c36b633e18bd06168bded4d5feb14d68f85926b35caf28d90d74652",
     "path": "cicero/fin2.shtml",
     "title": "M. TVLLI CICERONIS DE FINIBVS BONORVM ET MALORVM LIBER SECVNDVS",
+    "workId": "ll/m-tullius-cicero-de-finibus-bonorum-et-malorum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-finibus-bonorum-et-malorum"
+    "excluded": false
   },
   "cicero/fin3.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fin3.shtml",
@@ -9106,12 +9106,12 @@
     "sha256": "382b858027d10f88fb1d94e744bc4c1198f1a2f110df744f1fb78f919ef713d7",
     "path": "cicero/fin3.shtml",
     "title": "M. TVLLI CICERONIS DE FINIBVS BONORVM ET MALORVM LIBER TERTIVS",
+    "workId": "ll/m-tullius-cicero-de-finibus-bonorum-et-malorum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-finibus-bonorum-et-malorum"
+    "excluded": false
   },
   "cicero/fin4.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fin4.shtml",
@@ -9119,12 +9119,12 @@
     "sha256": "1851d1b9b3f79251737f95b0821db689d7e4fa0193bdfa698a6d0c2278154e4c",
     "path": "cicero/fin4.shtml",
     "title": "M. TVLLI CICERONIS DE FINIBVS BONORVM ET MALORVM LIBER QVARTVS",
+    "workId": "ll/m-tullius-cicero-de-finibus-bonorum-et-malorum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-finibus-bonorum-et-malorum"
+    "excluded": false
   },
   "cicero/fin5.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fin5.shtml",
@@ -9132,12 +9132,12 @@
     "sha256": "3b1b1e56bbcb6edb4fcad36a99e0eca5bbcec60fb0c8ef189b41efe3389e4eb3",
     "path": "cicero/fin5.shtml",
     "title": "M. TVLLI CICERONIS DE FINIBVS BONORVM ET MALORVM LIBER QVINTVS",
+    "workId": "ll/m-tullius-cicero-de-finibus-bonorum-et-malorum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-finibus-bonorum-et-malorum"
+    "excluded": false
   },
   "cicero/flacco.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/flacco.shtml",
@@ -9145,12 +9145,12 @@
     "sha256": "1d7e98558c872677af147e23e2ae318ed19a7d888483fbd44e12986141ec90ea",
     "path": "cicero/flacco.shtml",
     "title": "M. TVLLI CICERONIS PRO L. FLACCO ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-l-flacco-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-l-flacco-oratio"
+    "excluded": false
   },
   "cicero/fonteio.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fonteio.shtml",
@@ -9158,12 +9158,12 @@
     "sha256": "7f853bac4f9b7f738d13f7af326057b0815c5f2b9fdb1a74ac05a2147ab3c265",
     "path": "cicero/fonteio.shtml",
     "title": "M. TVLLI CICERONIS PRO PRO M. FONTEIO ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-m-fonteio-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-m-fonteio-oratio"
+    "excluded": false
   },
   "cicero/fratrem1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fratrem1.shtml",
@@ -9171,12 +9171,12 @@
     "sha256": "0a79c88afe13d4fc532b8f73d1fc75bcaf96cfc472433c0dc97c41f74282edf4",
     "path": "cicero/fratrem1.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD QVINTVM FRATREM LIBER PRIMVS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-quintum-fratrem",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-quintum-fratrem"
+    "excluded": false
   },
   "cicero/fratrem2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fratrem2.shtml",
@@ -9184,28 +9184,28 @@
     "sha256": "9ed13a5b5d2c9a67028dbff04f16e4c247ace399dbf6b4f72b1ff87d978fd6cb",
     "path": "cicero/fratrem2.shtml",
     "title": "M. TVLLI CICERONIS EPISTVLARVM AD QVINTVM FRATREM LIBER SECVNDVS",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-quintum-fratrem",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "1. Scripsi ad te antea superiora; nunc cognosce, postea quae sint acta. A Kal. Febr. legationes in Idus Febr. reiiciebantur; eo die res confecta non est. A. d. IIII. Non. Febr. Milo affuit; ei Pompeius advocatus venit; dixit Marcellus a me rogatus; honeste discessimus; prodicta dies est in VIII. Idus Febr. Interim reiectis legationibus in Idus referebatur de provinciis quaestorum et de ornandis praetoribus; sed res multis querelis de re publica interponendis nulla transacta est. C. Cato legem promulgavit de imperio Lentulo abrogando: vestitum filius mutavit. 2. A. d. VIII. Id. Febr. Milo af..."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-quintum-fratrem"
+    "excluded": false
   },
   "cicero/fratrem3.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/fratrem3.shtml",
     "retrieved": "2026-11-01",
     "sha256": "d62fb27bc4096cd272a1e0aef01e19973f304e9fa2da752b69b8b124f7f54649",
     "path": "cicero/fratrem3.shtml",
+    "workId": "ll/m-tullius-cicero-epistulae-ad-quintum-fratrem",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "m eius, quemadmodum coniicio, quasi [dedidicisse.] [Footnote adds this to text. Loeb explains it was added by Wesenberg.] 24. Sed haec tu videris: de suburbano cura ut sciam, quid velis, et simul, ne quid ille turbet, vide. Quid praeterea? quid? Etiam. Gabinius a. d. IIII. Kal. Octobr. noctu in urbem introierat: [et] h"
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-epistulae-ad-quintum-fratrem"
+    "excluded": false
   },
   "cicero/haruspicum.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/haruspicum.shtml",
@@ -9213,14 +9213,14 @@
     "sha256": "cf7af595324aaf511fe860a25d35a1def8215e395800432652b69f78b45a8e63",
     "path": "cicero/haruspicum.shtml",
     "title": "M. TVLLI CICERONIS ORATIO DE HARVSPICVM RESPONSO IN P. CLODIVM IN SENATV HABITA",
+    "workId": "ll/m-tullius-cicero-de-haruspicum-responso-in-p-clodium-in-senatu-habita-oratio",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "[56] Sequitur illud, Ne deterioribvs repvlsisqve honos avgeatvr. Repulsos videamus, nam deteriores qui sint, post docebo. Sed tamen in eum cadere hoc verbum maxime qui sit unus omnium mortalium sine ulla dubitatione deterrimus, concedendum est. Qui sunt igitur repulsi? Non, ut opinor, ii qui aliquando honorem vitio civitatis, non suo, non sunt adsecuti; nam id quidem multis saepe optimis civibus atque honestissimis viris accidit. Repulsi sunt ii quos ad omnia progredientis, quos munera contra leges gladiatoria parantis, quos apertissime largientis non solum alieni sed etiam sui, vicini, tri..."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-haruspicum-responso-in-p-clodium-in-senatu-habita-oratio"
+    "excluded": false
   },
   "cicero/imp.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/imp.shtml",
@@ -9228,12 +9228,12 @@
     "sha256": "1af209ed9294e541f97ed2f840123da47795f6e47167c127a428cbc49196bea9",
     "path": "cicero/imp.shtml",
     "title": "DE IMPERIO CN. POMPEI AD QVIRITES ORATIO",
+    "workId": "ll/m-tullius-cicero-de-imperio-cn-pompei-ad-quirites-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-imperio-cn-pompei-ad-quirites-oratio"
+    "excluded": false
   },
   "cicero/inventione1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/inventione1.shtml",
@@ -9241,14 +9241,14 @@
     "sha256": "969ef2c48ad453cc7795f9109f11114e0ab06b438b80d3ee64e92b86d2b44320",
     "path": "cicero/inventione1.shtml",
     "title": "M. TVLLI CICERONIS DE INVENTIONE LIBER PRIMUS",
+    "workId": "ll/m-tullius-cicero-de-inventione",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "Quodsi magnam in his Hermagoras habuisset facultatem studio et disciplina comparatam, videretur fretus sua scientia falsum quiddam constituisse de oratoris artificio et non quid ars, sed quid ipse posset, exposuisse. Nunc vero ea vis est in homine, ut ei multo rhetoricam citius quis ademerit, quam philosophiam concesserit: neque eo, quo eius ars, quam edidit, mihi mendosissime scripta videatur: nam satis in ea videtur ex antiquis artibus ingeniose et diligenter electas res collocasse et nonnihil ipse quoque novi protulisse; verum oratori minimum est de arte loqui, quod hic fecit, multo maxi..."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-inventione"
+    "excluded": false
   },
   "cicero/inventione2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/inventione2.shtml",
@@ -9256,12 +9256,12 @@
     "sha256": "b215e852f5f154bf6e7188a6f8bc806e2d54221f21e765cb2a2ddf4a9b1d590b",
     "path": "cicero/inventione2.shtml",
     "title": "M. TVLLI CICERONIS DE INVENTIONE LIBER SECVNDVS",
+    "workId": "ll/m-tullius-cicero-de-inventione",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-inventione"
+    "excluded": false
   },
   "cicero/leg1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/leg1.shtml",
@@ -9269,14 +9269,14 @@
     "sha256": "015bb426de88092364f848ce72f064dba24a54eedd6fdcd9ee7ce71c2318de8c",
     "path": "cicero/leg1.shtml",
     "title": "M. TVLLI CICERONIS DE LEGIBVS LIBER PRIMVS",
+    "workId": "ll/m-tullius-cicero-de-legibus",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "[7] Nam quid Macrum numerem? Cuius loquacitas habet aliquid argutiarum nec id tamen ex illa erudita Graecorum copia, sed ex librariolis Latinis: in orationibus autem multa s<ane a>pt<a L>ati<n>o <ser>m<oni> imp<er>t<iens>, Sisenna, eius amicus, omnis adhuc nostros scriptores—nisi qui forte nondum ediderunt, de quibus existimare non possumus—facile superauit. Is tamen neque orator in numero uestro umquam est habitus, et in historia puerile quiddam consectatur, ut unum Clitarchum neque praeterea quemquam de Graecis legisse uideatur, eum tamen uelle dumtaxat imitari: quem si adsequi posset, al..."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-legibus"
+    "excluded": false
   },
   "cicero/leg2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/leg2.shtml",
@@ -9284,12 +9284,12 @@
     "sha256": "99e965f265a2fb27ba5a589b3f1024902a68a51a9f5a3317bb28a7a1220691b5",
     "path": "cicero/leg2.shtml",
     "title": "M. TVLLI CICERONIS DE LEGIBUS LIBER SECUNDVS",
+    "workId": "ll/m-tullius-cicero-de-legibus",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-legibus"
+    "excluded": false
   },
   "cicero/leg3.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/leg3.shtml",
@@ -9297,6 +9297,7 @@
     "sha256": "a13d50eb75d0f56e294b9b7c30f55df806571a9ba223033c6cf74c26b466e992",
     "path": "cicero/leg3.shtml",
     "title": "M. TVLLI CICERONIS DE LEGIBUS LIBER TERTIVS",
+    "workId": "ll/m-tullius-cicero-de-legibus",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
@@ -9304,8 +9305,7 @@
       "[22] Sed ille quas strages edidit! Eas videlicet quas sine ratione ac sine ulla spe bona furor edere potuit inpurae beluae, multorum inflammatus furoribus. Quam ob rem in ista quidem re vehementer Sullam probo, qui tribunis plebis sua lege iniuriae faciendae potestatem ademerit, auxilii ferendi reliquerit, Pompeiumque nostrum <in> ceteris rebus omnibus semper amplissimis summisque ecfero laudibus, de tribunicia potestate taceo. Nec enim reprehendere libct, nec laudare possum."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-legibus"
+    "excluded": false
   },
   "cicero/legagr1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/legagr1.shtml",
@@ -9313,12 +9313,12 @@
     "sha256": "53ce8997e4d67e86e69e052c43ec67b659730334de296c7f8943206a89ee9cb9",
     "path": "cicero/legagr1.shtml",
     "title": "DE LEGE AGRARIA ORATIO PRIMA CONTRA P. SERVILIVM RVLLVM TR. PLEB. IN SENATV",
+    "workId": "ll/m-tullius-cicero-de-lege-agraria-orationes-i-iii",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-lege-agraria-orationes-i-iii"
+    "excluded": false
   },
   "cicero/legagr2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/legagr2.shtml",
@@ -9326,12 +9326,12 @@
     "sha256": "2f08cd36c6fc8870dcc5ffc2ed56c1c7a58a0bc5195a93daab708d80b0aaf963",
     "path": "cicero/legagr2.shtml",
     "title": "DE LEGE AGRARIA ORATIO SECVUNDA CONTRA P. SERVILIVM RVLLVM TR. PLEB. IN SENATV",
+    "workId": "ll/m-tullius-cicero-de-lege-agraria-orationes-i-iii",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-lege-agraria-orationes-i-iii"
+    "excluded": false
   },
   "cicero/legagr3.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/legagr3.shtml",
@@ -9339,12 +9339,12 @@
     "sha256": "160e768e2c2820df778f769b000401475f192566054b0275f321c663e3141572",
     "path": "cicero/legagr3.shtml",
     "title": "DE LEGE AGRARIA ORATIO TERTIA CONTRA P. SERVILIVM RVLLVM TR. PLEB. IN SENATV",
+    "workId": "ll/m-tullius-cicero-de-lege-agraria-orationes-i-iii",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-lege-agraria-orationes-i-iii"
+    "excluded": false
   },
   "cicero/lig.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/lig.shtml",
@@ -9352,12 +9352,12 @@
     "sha256": "70914190c16377791b33f91c1335f5a806774ca8fb8a48a6ce3e7ad266bd6599",
     "path": "cicero/lig.shtml",
     "title": "M. TVLLI CICERONIS PRO PRO Q. LIGARIO ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-q-ligario-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-q-ligario-oratio"
+    "excluded": false
   },
   "cicero/marc.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/marc.shtml",
@@ -9365,12 +9365,12 @@
     "sha256": "52515e78e7b45c4585a9fcb715d7850068a64e3acf9769740412ff00b2bb94c6",
     "path": "cicero/marc.shtml",
     "title": "M. TVLLI CICERONIS PRO M. MARCELLO ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-m-marcello-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-m-marcello-oratio"
+    "excluded": false
   },
   "cicero/milo.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/milo.shtml",
@@ -9378,12 +9378,12 @@
     "sha256": "35d2fbf6aa028222b7c09872636a630a017add973049fec168ed455ca374c07c",
     "path": "cicero/milo.shtml",
     "title": "M. TVLLI CICERONIS PRO T. ANNIO MILONE ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-t-annio-milone-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-t-annio-milone-oratio"
+    "excluded": false
   },
   "cicero/murena.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/murena.shtml",
@@ -9391,12 +9391,12 @@
     "sha256": "8267af7db8fe4963d33df42bffb3e5454d5ba75adfc93e185d936cd9794cd708",
     "path": "cicero/murena.shtml",
     "title": "M. TVLLI CICERONIS PRO MVRENA ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-l-murena-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-l-murena-oratio"
+    "excluded": false
   },
   "cicero/nd1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/nd1.shtml",
@@ -9404,12 +9404,12 @@
     "sha256": "a406329796cfa33acb7f821c8ce69dba5cb1ac6986d76d1367a1552b283b1b20",
     "path": "cicero/nd1.shtml",
     "title": "M. TVLLI CICERONIS DE NATVRA DEORVM AD M. BRVTVM LIBER PRIMVS",
+    "workId": "ll/m-tullius-cicero-de-natura-deorum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-natura-deorum"
+    "excluded": false
   },
   "cicero/nd2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/nd2.shtml",
@@ -9417,12 +9417,12 @@
     "sha256": "199707aadfcc5613434efd5396f8619d2e6620e4c6b097f8d2ce339008a7542a",
     "path": "cicero/nd2.shtml",
     "title": "M. TVLLI CICERONIS DE NATVRA DEORVM AD M. BRVTVM LIBER SECVNDVS",
+    "workId": "ll/m-tullius-cicero-de-natura-deorum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-natura-deorum"
+    "excluded": false
   },
   "cicero/nd3.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/nd3.shtml",
@@ -9430,12 +9430,12 @@
     "sha256": "a6067cb2aba2307e80c71a526ceff7977a57e2d589e3e0249eb6052c33adf96a",
     "path": "cicero/nd3.shtml",
     "title": "M. TVLLI CICERONIS DE NATVRA DEORVM AD M. BRVTVM LIBER TERTIVS",
+    "workId": "ll/m-tullius-cicero-de-natura-deorum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-natura-deorum"
+    "excluded": false
   },
   "cicero/off1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/off1.shtml",
@@ -9443,12 +9443,12 @@
     "sha256": "93b40022790bfe09c2b38778290a601e53ce4cffcaf947a3d036669fed241a04",
     "path": "cicero/off1.shtml",
     "title": "M. TVLLI CICERONIS DE OFFICIIS LIBER PRIMVS",
+    "workId": "ll/m-tullius-cicero-de-officiis",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-officiis"
+    "excluded": false
   },
   "cicero/off2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/off2.shtml",
@@ -9456,14 +9456,14 @@
     "sha256": "e92741a7544c394f2abcc07aa8675f8cc4654f9f1fd26c2e0a34edc7ee5c8891",
     "path": "cicero/off2.shtml",
     "title": "M. TVLLI CICERONIS DE OFFICIIS LIBER SECVNDVS",
+    "workId": "ll/m-tullius-cicero-de-officiis",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "[77] Nullum igitur vitium taetrius est, ut eo, unde digressa est, referat se oratio, quam avaritia, praesertim in principibus et rem publicam gubernantibus. Habere enim quaestui rem publicam non modo turpe est, sed sceleratum etiam et nefarium. Itaque, quod Apollo Pythius oraclum edidit, Spartam nulla re alia nisi avaritia esse perituram, id videtur non solum Lacedaemoniis, sed etiam omnibus opulentis populis praedixisse. Nulla autem re conciliare facilius benivolentiam multitudinis possunt ii, qui rei publicae praesunt, quam abstinentia et continentia."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-officiis"
+    "excluded": false
   },
   "cicero/off3.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/off3.shtml",
@@ -9471,12 +9471,12 @@
     "sha256": "fc91d03b7aaff33caa19cf43342f747941def6ad425219222bd632a78b5689d8",
     "path": "cicero/off3.shtml",
     "title": "M. TVLLI CICERONIS DE OFFICIIS LIBER TERTIVS",
+    "workId": "ll/m-tullius-cicero-de-officiis",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-officiis"
+    "excluded": false
   },
   "cicero/optgen.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/optgen.shtml",
@@ -9484,12 +9484,12 @@
     "sha256": "768e816837185ca7487261df70044a95c2e372f9459079ea1d97ad69c4eb3e15",
     "path": "cicero/optgen.shtml",
     "title": "M. TVLLI CICERONIS DE OPTIMO GENERE ORATORVM",
+    "workId": "ll/m-tullius-cicero-de-optimo-genere-oratorum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-optimo-genere-oratorum"
+    "excluded": false
   },
   "cicero/orator.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/orator.shtml",
@@ -9497,12 +9497,12 @@
     "sha256": "a12969bf68fa4f3a1aa009658a271e1a318c855fb603f099c2d8fe2f2cbb3f54",
     "path": "cicero/orator.shtml",
     "title": "M. TVLLI CICERONIS ORATOR AD M. BRVTVM",
+    "workId": "ll/m-tullius-cicero-orator-ad-m-brutum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-orator-ad-m-brutum"
+    "excluded": false
   },
   "cicero/oratore1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/oratore1.shtml",
@@ -9510,12 +9510,12 @@
     "sha256": "dfaee0a7e22e7ccb9041e94266c20b2fe0a04f1ef292d628620dc8da8ca04f38",
     "path": "cicero/oratore1.shtml",
     "title": "M. TVLLI CICERONIS DE ORATORE AD QVINTVM FRATREM LIBER PRIMVS",
+    "workId": "ll/m-tullius-cicero-de-oratore-ad-quintum-fratrem",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-oratore-ad-quintum-fratrem"
+    "excluded": false
   },
   "cicero/oratore2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/oratore2.shtml",
@@ -9523,14 +9523,14 @@
     "sha256": "fa52fda8941a9f48b6a82f004d53db34b9ac7f42bceec87f5647f95d8acf673f",
     "path": "cicero/oratore2.shtml",
     "title": "M. TVLLI CICERONIS DE ORATORE AD QVINTVM FRATREM LIBER SECVNDVS",
+    "workId": "ll/m-tullius-cicero-de-oratore-ad-quintum-fratrem",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "[LXXX] [325] Conexum autem ita sit principium consequenti orationi, ut non tamquam citharoedi prooemium adfictum aliquid, sed cohaerens cum omni corpore membrum esse videatur. Nam non nulli, cum illud meditati ediderunt, sic ad reliqua transeunt, ut audientiam fieri sibi non velle videantur. Atque eius modi illa prolusio debet esse, non ut Samnitium, qui vibrant hastas ante pugnam, quibus in pugnando nihil utuntur, sed ut ipsis sententiis, quibus proluserint, vel pugnare possint."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-oratore-ad-quintum-fratrem"
+    "excluded": false
   },
   "cicero/oratore3.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/oratore3.shtml",
@@ -9538,12 +9538,12 @@
     "sha256": "2f23753867581c355d50e49445de78b1a452d528ea550dfb75aef965ab2c001f",
     "path": "cicero/oratore3.shtml",
     "title": "M. TVLLI CICERONIS DE ORATORE AD QVINTVM FRATREM LIBER TERTIVS",
+    "workId": "ll/m-tullius-cicero-de-oratore-ad-quintum-fratrem",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-oratore-ad-quintum-fratrem"
+    "excluded": false
   },
   "cicero/paradoxa.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/paradoxa.shtml",
@@ -9551,12 +9551,12 @@
     "sha256": "b86065a36661f1cbc0d1222cc790613d9a1cbfb5a6c6508e3089bdeeceb5c130",
     "path": "cicero/paradoxa.shtml",
     "title": "M. TVLLI CICERONIS PARADOXA AD M. BRUTUM",
+    "workId": "ll/m-tullius-cicero-paradoxa-stoicorum-ad-m-brutum",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-paradoxa-stoicorum-ad-m-brutum"
+    "excluded": false
   },
   "cicero/partitione.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/partitione.shtml",
@@ -9564,12 +9564,12 @@
     "sha256": "cbbf80799e7d19235f2be5dc83076d59742050abf6f8384940f58a3c177d5221",
     "path": "cicero/partitione.shtml",
     "title": "M. TVLLI CICERONIS DE PARTITIONE ORATIO",
+    "workId": "ll/m-tullius-cicero-partitiones-oratoriae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-partitiones-oratoriae"
+    "excluded": false
   },
   "cicero/phil1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/phil1.shtml",
@@ -9577,12 +9577,12 @@
     "sha256": "a26742163ba8ca8e2af847ab44b528e945968da13f9ec7875943f7eccc16ff25",
     "path": "cicero/phil1.shtml",
     "title": "M. TVLLI CICERONIS IN M. ANTONIVM ORATIO PHILIPPICA PRIMA",
+    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv"
+    "excluded": false
   },
   "cicero/phil10.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/phil10.shtml",
@@ -9590,12 +9590,12 @@
     "sha256": "cd3762f610cd355f2fd5cb9cdbcf0b56deb9b09f548134074f965007af40a897",
     "path": "cicero/phil10.shtml",
     "title": "M. TVLLI CICERONIS IN M. ANTONIVM ORATIO PHILIPPICA DECIMA",
+    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv"
+    "excluded": false
   },
   "cicero/phil11.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/phil11.shtml",
@@ -9603,12 +9603,12 @@
     "sha256": "0d9437981d17feedde160607846090fa4629c745a376bcc2a62c8d1397a34b56",
     "path": "cicero/phil11.shtml",
     "title": "M. TVLLI CICERONIS IN M. ANTONIVM ORATIO PHILIPPICA VNDECIMA",
+    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv"
+    "excluded": false
   },
   "cicero/phil12.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/phil12.shtml",
@@ -9616,12 +9616,12 @@
     "sha256": "5f8133e41f469128571435a2b99fc16b8a63b251d7c0c1e57df1f3072e7e7592",
     "path": "cicero/phil12.shtml",
     "title": "M. TVLLI CICERONIS IN M. ANTONIVM ORATIO PHILIPPICA DVODECIMA",
+    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv"
+    "excluded": false
   },
   "cicero/phil13.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/phil13.shtml",
@@ -9629,14 +9629,14 @@
     "sha256": "047e4ddf40c7cd3c1fc1e56409f775530260788b56c174273faf954a4aa868eb",
     "path": "cicero/phil13.shtml",
     "title": "M. TVLLI CICERONIS IN M. ANTONIVM ORATIO PHILIPPICA TERTIA DECIMA",
+    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "[21] Quis tam barbarus umquam, tam immanis, tam ferus? Non audivit, non respondit, neque eos solum praesentes, sed multo magis nos, a quibus illi erant missi, sprevit et pro nihilo putavit. Postea quod scelus, quod facinus parricida non edidit? Circumsedet colonos nostros, exercitum populi Romani, imperatorem consulem designatum, agros divexat civium optimorum, hostis taeterrimus omnibus bonis cruces ac tormenta minitatur. [X] Cum hoc, M. Lepide, pax esse quae potest? cuius ne supplicio quidem ullo satiari videtur posse populus Romanus."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv"
+    "excluded": false
   },
   "cicero/phil14.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/phil14.shtml",
@@ -9644,12 +9644,12 @@
     "sha256": "b28de77fab615f036afc601bc7f611d5aa99f397578a97583838fe66e41f14b8",
     "path": "cicero/phil14.shtml",
     "title": "M. TVLLI CICERONIS IN M. ANTONIVM ORATIO PHILIPPICA QVARTA DECIMA",
+    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv"
+    "excluded": false
   },
   "cicero/phil2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/phil2.shtml",
@@ -9657,12 +9657,12 @@
     "sha256": "269b5120c77803fc16cb87a15dcdf4855aabecb739505dcd3359b10146a359b0",
     "path": "cicero/phil2.shtml",
     "title": "M. TVLLI CICERONIS IN M. ANTONIVM ORATIO PHILIPPICA SECVNDA",
+    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv"
+    "excluded": false
   },
   "cicero/phil3.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/phil3.shtml",
@@ -9670,12 +9670,12 @@
     "sha256": "d3f078ab1a90fd2c4ef57bfef2b1a188cae58b8dc891b40cde35e638c1cc997c",
     "path": "cicero/phil3.shtml",
     "title": "M. TVLLI CICERONIS IN M. ANTONIVM ORATIO PHILIPPICA TERTIA",
+    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv"
+    "excluded": false
   },
   "cicero/phil4.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/phil4.shtml",
@@ -9683,12 +9683,12 @@
     "sha256": "c08da325f850cc1fb6aca08225fb8767a96c78a5d4e114c04389df5866a85cba",
     "path": "cicero/phil4.shtml",
     "title": "M. TVLLI CICERONIS IN M. ANTONIVM ORATIO PHILIPPICA QVARTA",
+    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv"
+    "excluded": false
   },
   "cicero/phil5.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/phil5.shtml",
@@ -9696,12 +9696,12 @@
     "sha256": "4f89b4ace3f0083dbe9ef4a231f07d9fe58b5d84230c8cbdf1e71adc0ba911de",
     "path": "cicero/phil5.shtml",
     "title": "M. TVLLI CICERONIS IN M. ANTONIVM ORATIO PHILIPPICA QVINTA",
+    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv"
+    "excluded": false
   },
   "cicero/phil6.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/phil6.shtml",
@@ -9709,12 +9709,12 @@
     "sha256": "a511fde3ef4a0bf49fde0dd8204c19db22bca15a6bce465a30f059cceab8b69c",
     "path": "cicero/phil6.shtml",
     "title": "M. TVLLI CICERONIS IN M. ANTONIVM ORATIO PHILIPPICA SEXTA",
+    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv"
+    "excluded": false
   },
   "cicero/phil7.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/phil7.shtml",
@@ -9722,12 +9722,12 @@
     "sha256": "f4533a0c118a1b8d617c53bb52bca282fbaba304f42e59d2a6a61feabd6ba3ea",
     "path": "cicero/phil7.shtml",
     "title": "M. TVLLI CICERONIS IN M. ANTONIVM ORATIO PHILIPPICA SEPTIMA",
+    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv"
+    "excluded": false
   },
   "cicero/phil8.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/phil8.shtml",
@@ -9735,12 +9735,12 @@
     "sha256": "0e7cff6774771f8b0aaf76e0318b3f171c7215b9f0e009815833d4cf94ee22a6",
     "path": "cicero/phil8.shtml",
     "title": "M. TVLLI CICERONIS IN M. ANTONIVM ORATIO PHILIPPICA OCTAVA",
+    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv"
+    "excluded": false
   },
   "cicero/phil9.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/phil9.shtml",
@@ -9748,12 +9748,12 @@
     "sha256": "1113640070faddd4c93207169351b3a8045e13de251b6e316b88db9d4c118d15",
     "path": "cicero/phil9.shtml",
     "title": "M. TVLLI CICERONIS IN M. ANTONIVM ORATIO PHILIPPICA NONA",
+    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-m-antonium-orationes-philippicae-i-xiv"
+    "excluded": false
   },
   "cicero/piso.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/piso.shtml",
@@ -9761,12 +9761,12 @@
     "sha256": "7a820979e58103ee11fb5e730f8c2dc2bfc747a237e7e90b3dc7a2f02dc97326",
     "path": "cicero/piso.shtml",
     "title": "M. TVLLI CICERONIS IN L. CALPVRNIVM PISONEM ORATIO",
+    "workId": "ll/m-tullius-cicero-in-l-calpurnium-pisonem-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-l-calpurnium-pisonem-oratio"
+    "excluded": false
   },
   "cicero/plancio.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/plancio.shtml",
@@ -9774,14 +9774,14 @@
     "sha256": "c922029e2fdd40bacbb10501c65d97dc702dfc28f4e2dc2ab8fa7b4eda98f71f",
     "path": "cicero/plancio.shtml",
     "title": "M. TVLLI CICERONIS PRO CN. PLANCIO ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-cn-plancio-oratio",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "[XXXVII] [90] mortem me timuisse dicis. ego vero ne immortalitatem quidem contra rem publicam accipiendam putarem, nedum emori cum pernicie rei publicae vellem. nam qui pro re publica vitam ediderunt—licet me desipere dicatis—numquam me hercule eos mortem potius quam immortalitatem adsecutos putavi. ego vero si tum illorum impiorum ferro ac manu concidissem, in perpetuum res publica civile praesidium salutis suae perdidisset. quin etiam si me vis aliqua morbi aut natura ipsa consumpsisset, tamen auxilia posteritatis essent imminuta, quod peremptum esset mea morte id exemplum qualis futurus ..."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-cn-plancio-oratio"
+    "excluded": false
   },
   "cicero/postreditum.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/postreditum.shtml",
@@ -9789,12 +9789,12 @@
     "sha256": "fae09b2cf410419705ad4a9134b933de8699a1a4701b468983cf8d4598c3cb26",
     "path": "cicero/postreditum.shtml",
     "title": "M. TVLLI CICERONIS POST REDITVM IN SENATV ORATIO",
+    "workId": "ll/m-tullius-cicero-post-reditum-in-senatu-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-post-reditum-in-senatu-oratio"
+    "excluded": false
   },
   "cicero/postreditum2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/postreditum2.shtml",
@@ -9802,12 +9802,12 @@
     "sha256": "11504e858e3193b384171733f862fdc66d479cd939a662d2f1a0a278d770d558",
     "path": "cicero/postreditum2.shtml",
     "title": "M. TVLLI CICERONIS POST REDITVM AD QVIRITES ORATIO",
+    "workId": "ll/m-tullius-cicero-post-reditum-ad-quirites-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-post-reditum-ad-quirites-oratio"
+    "excluded": false
   },
   "cicero/prov.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/prov.shtml",
@@ -9815,12 +9815,12 @@
     "sha256": "9ef7f951c8df143d7ada06020152c814a5a640865e301404c69efd916d698f77",
     "path": "cicero/prov.shtml",
     "title": "M. TVLLI CICERONIS DE PROVINCIIS CONSVLARIBUS ORATIO",
+    "workId": "ll/m-tullius-cicero-de-provinciis-consularibus-in-senatu-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-provinciis-consularibus-in-senatu-oratio"
+    "excluded": false
   },
   "cicero/quinc.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/quinc.shtml",
@@ -9828,14 +9828,14 @@
     "sha256": "8057672f9961a208b02d55584e481d2b944a941abadd9123f3401ed842c2a17a",
     "path": "cicero/quinc.shtml",
     "title": "M. TVLLI CICERONIS PRO P. QVINCTIO ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-p-quinctio-oratio",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "XXIX. Quaesivi quae causa fuisset cur bona non venissent, cum ex edicto possiderentur. Deinde illud quoque requisivi qua ratione ex tot creditoribus nemo neque tum idem fecerit neque nunc contra dicat, omnesque pro P. Quinctio pugnent, praesertim cum in tali iudicio testimonia creditorum existimentur ad rem maxime pertinere. Postea sum usus adversarii testimonio, qui sibi eum nuper edidit socium quem, quo modo nunc intendit, ne in vivorum quidem numero tum demonstrat fuisse. Tum illam incredibilem celeritatem seu potius audaciam protuli; confirmavi necesse esse aut biduo DCC milia passuum e..."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-p-quinctio-oratio"
+    "excluded": false
   },
   "cicero/rabirio.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/rabirio.shtml",
@@ -9843,12 +9843,12 @@
     "sha256": "adb7f6f6135f47d87a05ab5b681aa303ee431edc3c9d8c1cdc297db139f67ed2",
     "path": "cicero/rabirio.shtml",
     "title": "PRO C. RABIRIO PERDVELLIONIS REO AD QVIRITES ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-c-rabirio-perduellionis-reo-ad-quirites-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-c-rabirio-perduellionis-reo-ad-quirites-oratio"
+    "excluded": false
   },
   "cicero/rabiriopost.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/rabiriopost.shtml",
@@ -9856,12 +9856,12 @@
     "sha256": "a5d2d2040890b46d76714a08cd28b2bddc772313f294ceb6fc0622aacccd7b05",
     "path": "cicero/rabiriopost.shtml",
     "title": "PRO C. RABIRIO POSTVMO ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-c-rabirio-postumo-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-c-rabirio-postumo-oratio"
+    "excluded": false
   },
   "cicero/repub1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/repub1.shtml",
@@ -9869,12 +9869,12 @@
     "sha256": "11ed496874346bf0d81ee2995495e8eb73ec6767a5242f954d6218722129810c",
     "path": "cicero/repub1.shtml",
     "title": "M. TVLLI CICERONIS DE RE PVBLICA LIBER PRIMVS",
+    "workId": "ll/m-tullius-cicero-de-re-publica",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-re-publica"
+    "excluded": false
   },
   "cicero/repub2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/repub2.shtml",
@@ -9882,12 +9882,12 @@
     "sha256": "a6d13f6f7c7eb706e2bf29235d72c32a8569c012aacc868698878f4a2ed7873e",
     "path": "cicero/repub2.shtml",
     "title": "M. TVLLI CICERONIS DE RE PVBLICA LIBER SECVNDVS",
+    "workId": "ll/m-tullius-cicero-de-re-publica",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-re-publica"
+    "excluded": false
   },
   "cicero/repub3.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/repub3.shtml",
@@ -9895,12 +9895,12 @@
     "sha256": "80d756cfc35a5b669d0eaa683612cd3be7adf9aa0e99a353df30ed47443a291a",
     "path": "cicero/repub3.shtml",
     "title": "M. TVLLI CICERONIS DE RE PVBLICA LIBER TERTIVS",
+    "workId": "ll/m-tullius-cicero-de-re-publica",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-re-publica"
+    "excluded": false
   },
   "cicero/repub4.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/repub4.shtml",
@@ -9908,12 +9908,12 @@
     "sha256": "9a35f98cb6cc96881c96a37c45032c34604684ed5ecc2828a885550ec929e89a",
     "path": "cicero/repub4.shtml",
     "title": "M. TVLLI CICERONIS DE RE PVBLICA LIBER QUARTUS",
+    "workId": "ll/m-tullius-cicero-de-re-publica",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-re-publica"
+    "excluded": false
   },
   "cicero/repub5.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/repub5.shtml",
@@ -9921,12 +9921,12 @@
     "sha256": "4526c84da4a3ef1300fdd6e04f0ad2c0cbfe48cf8a47d0e9077bb90c31c195d8",
     "path": "cicero/repub5.shtml",
     "title": "M. TVLLI CICERONIS DE RE PVBLICA LIBER QVINTVS",
+    "workId": "ll/m-tullius-cicero-de-re-publica",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-re-publica"
+    "excluded": false
   },
   "cicero/repub6.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/repub6.shtml",
@@ -9934,12 +9934,12 @@
     "sha256": "91a19a22c276c9be1b771f4f1945eb0b4366262aafe63a97ff6cb178b2632111",
     "path": "cicero/repub6.shtml",
     "title": "M. TVLLI CICERONIS DE RE PVBLICA LIBER SEXTVS",
+    "workId": "ll/m-tullius-cicero-de-re-publica",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-de-re-publica"
+    "excluded": false
   },
   "cicero/rosccom.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/rosccom.shtml",
@@ -9947,12 +9947,12 @@
     "sha256": "bf21f40b5d31be22e9592b7d4bcc4d0054a7d388d0ee363598b768dd291d27a0",
     "path": "cicero/rosccom.shtml",
     "title": "M. TVLLI CICERONIS PRO ROSCIO COMODEO ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-q-roscio-comoedo-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-q-roscio-comoedo-oratio"
+    "excluded": false
   },
   "cicero/scauro.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/scauro.shtml",
@@ -9960,12 +9960,12 @@
     "sha256": "0b15f9d6fdbc77583f6d1312856c2aef53481a68ed2f554ce9dc6b1f02644583",
     "path": "cicero/scauro.shtml",
     "title": "M. TVLLI CICERONIS PRO M. SCAVRO ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-m-scauro-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-m-scauro-oratio"
+    "excluded": false
   },
   "cicero/senectute.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/senectute.shtml",
@@ -9973,12 +9973,12 @@
     "sha256": "834caf71a7428104b12b99aa7a91335df9f421db2c2334cd1a48b1be257d836c",
     "path": "cicero/senectute.shtml",
     "title": "M. TVLLI CICERONIS CATO MAIOR DE SENECTVTE",
+    "workId": "ll/m-tullius-cicero-cato-maior-de-senectute",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-cato-maior-de-senectute"
+    "excluded": false
   },
   "cicero/sestio.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/sestio.shtml",
@@ -9986,14 +9986,14 @@
     "sha256": "ca95107d3349f290ba9588d7ea4ee8fc802d433694834f94c92acc8380685963",
     "path": "cicero/sestio.shtml",
     "title": "M. TVLLI CICERONIS PRO P. SESTIO ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-p-sestio-oratio",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "[XXVII] [58] multa acerba, multa turpia, multa turbulenta habuit ille annus; tamen illi sceleri quod in me illorum immanitas edidit haud scio an recte hoc proximum esse dicamus. Antiochum Magnum illum maiores nostri magna belli contentione terra marique superatum intra montem Taurum regnare iusserunt: Asiam, qua illum multarunt, Attalo, ut is regnaret in ea, condonaverunt. Cum Armeniorum rege Tigrane grave bellum nuper ipsi diuturnumque gessimus, cum ille iniuriis in socios nostros inferendis bello prope nos lacessisset. hic et ipse per se vehemens fuit et acerrimum hostem huius imperi Mith..."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-p-sestio-oratio"
+    "excluded": false
   },
   "cicero/sex.rosc.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/sex.rosc.shtml",
@@ -10001,12 +10001,12 @@
     "sha256": "42f36cdd1e364bbd828efca144117b0ae8b33225fe8c2e02d12edb4629567165",
     "path": "cicero/sex.rosc.shtml",
     "title": "M. TVLLI CICERONIS PRO SEX. ROSCIO AMERINO ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-sex-roscio-amerino-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-sex-roscio-amerino-oratio"
+    "excluded": false
   },
   "cicero/sulla.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/sulla.shtml",
@@ -10014,12 +10014,12 @@
     "sha256": "bd731fa15f2ff728e519385f18d07f8b7f8e7be1ba3f797953886b9c33e54b53",
     "path": "cicero/sulla.shtml",
     "title": "M. TVLLI CICERONIS PRO SVLLA ORATIO",
+    "workId": "ll/m-tullius-cicero-pro-p-sulla-oratio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-pro-p-sulla-oratio"
+    "excluded": false
   },
   "cicero/topica.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/topica.shtml",
@@ -10027,12 +10027,12 @@
     "sha256": "34d1e0ed9e32c6a4398ce77ee5450ef754ade49c106ce4c5f4f1f4db54b23c1d",
     "path": "cicero/topica.shtml",
     "title": "M. TVLLI CICERONIS TOPICA",
+    "workId": "ll/m-tullius-cicero-topica",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-topica"
+    "excluded": false
   },
   "cicero/tusc1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/tusc1.shtml",
@@ -10040,12 +10040,12 @@
     "sha256": "d8a01534b917b6fafb14003eb61b17f153a2a636d7adf04c30ebb91512722e53",
     "path": "cicero/tusc1.shtml",
     "title": "M. TVLLI CICERONIS TVSCVLANARVM DISPVTATIONVM LIBER PRIMVS",
+    "workId": "ll/m-tullius-cicero-tusculanae-disputationes",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-tusculanae-disputationes"
+    "excluded": false
   },
   "cicero/tusc2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/tusc2.shtml",
@@ -10053,12 +10053,12 @@
     "sha256": "7b10d2325951c71f7584ba1ad358c39a397d4dee24afc8f5eb043830d401008e",
     "path": "cicero/tusc2.shtml",
     "title": "M. TVLLI CICERONIS TVSCVLANARVM DISPVTATIONVM LIBER SECVNDVS",
+    "workId": "ll/m-tullius-cicero-tusculanae-disputationes",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-tusculanae-disputationes"
+    "excluded": false
   },
   "cicero/tusc3.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/tusc3.shtml",
@@ -10066,12 +10066,12 @@
     "sha256": "3cd4a164a0aa661d50afa62e7b0e21acc5c8dd7a0ce5e79e1c4eef2d9b07deb0",
     "path": "cicero/tusc3.shtml",
     "title": "M. TVLLI CICERONIS TVSCVLANARVM DISPVTATIONVM LIBER TERTIVS",
+    "workId": "ll/m-tullius-cicero-tusculanae-disputationes",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-tusculanae-disputationes"
+    "excluded": false
   },
   "cicero/tusc4.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/tusc4.shtml",
@@ -10079,12 +10079,12 @@
     "sha256": "4e5799d3f5ef326f57e31999dcf5e0b830a278d482daab4c30bcd9f3c355311a",
     "path": "cicero/tusc4.shtml",
     "title": "M. TVLLI CICERONIS TVSCVLANARVM DISPVTATIONVM LIBER QVARTVS",
+    "workId": "ll/m-tullius-cicero-tusculanae-disputationes",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-tusculanae-disputationes"
+    "excluded": false
   },
   "cicero/tusc5.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/tusc5.shtml",
@@ -10092,12 +10092,12 @@
     "sha256": "b89a7df90bd9736c0a6c495eae73e999425fcc726930c890dda9019e35495e55",
     "path": "cicero/tusc5.shtml",
     "title": "M. TVLLI CICERONIS TVSCVLANARVM DISPVTATIONVM LIBER QVINTVS",
+    "workId": "ll/m-tullius-cicero-tusculanae-disputationes",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-tusculanae-disputationes"
+    "excluded": false
   },
   "cicero/vatin.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/vatin.shtml",
@@ -10105,12 +10105,12 @@
     "sha256": "dc7dcabea40aa39ed31c2601dd999e3bb772e9b2f7d49415fcb4a2f4c8f7e815",
     "path": "cicero/vatin.shtml",
     "title": "M. TVLLI CICERONIS IN VATINIUM ORATIO",
+    "workId": "ll/m-tullius-cicero-in-p-vatinium-testem-interrogatio",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-p-vatinium-testem-interrogatio"
+    "excluded": false
   },
   "cicero/ver1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/ver1.shtml",
@@ -10118,12 +10118,12 @@
     "sha256": "fd88440872fc584a74a9c54de0fc371fcffb096e2313a90276d2b42ce9ac4867",
     "path": "cicero/ver1.shtml",
     "title": "IN C. VERREM ORATIO ACTIO PRIMA",
+    "workId": "ll/m-tullius-cicero-in-c-verrem",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-c-verrem"
+    "excluded": false
   },
   "cicero/verres.2.1.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/verres.2.1.shtml",
@@ -10131,12 +10131,12 @@
     "sha256": "f30115df8592800fd211b4a91e4fa07ba01dabaee86041219016048afb476308",
     "path": "cicero/verres.2.1.shtml",
     "title": "ACTIONIS IN C. VERREM SECVNDAE LIBER PRIMVS",
+    "workId": "ll/m-tullius-cicero-in-c-verrem",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-c-verrem"
+    "excluded": false
   },
   "cicero/verres.2.2.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/verres.2.2.shtml",
@@ -10144,6 +10144,7 @@
     "sha256": "4d35d8ae949f105fafc0914a1e916c693a63c4f3cdbf6ad3100ff693320f1526",
     "path": "cicero/verres.2.2.shtml",
     "title": "ACTIONIS IN C. VERREM SECVNDAE LIBER SECVNDVS",
+    "workId": "ll/m-tullius-cicero-in-c-verrem",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
@@ -10152,8 +10153,7 @@
       "[146] Nam legationes omnium civitatum in postulatis communibus, quae fere omnia ex tuis iniuriis,nata sunt, etiam hoc ediderunt, UT STATUAS NE CUI, NISI CUM IS DE PROVINCIA DECESSISSET, POLLICERENTUR—Tot praetores in Sicilia fuerunt, totiens apud maiores nostros Siculi senatum adierunt, totiens hac memoria: tamen huiusce novi postulati genus atque principium tua praetura attulit."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-c-verrem"
+    "excluded": false
   },
   "cicero/verres.2.3.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/verres.2.3.shtml",
@@ -10161,12 +10161,12 @@
     "sha256": "4ff3210ebe4de0a9f72893e21ba2c78fb466fa9d39e07763337662b895a3bbab",
     "path": "cicero/verres.2.3.shtml",
     "title": "ACTIONIS IN C. VERREM SECVNDAE LIBER TERTIVS",
+    "workId": "ll/m-tullius-cicero-in-c-verrem",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-c-verrem"
+    "excluded": false
   },
   "cicero/verres.2.4.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/verres.2.4.shtml",
@@ -10174,12 +10174,12 @@
     "sha256": "c89709db3a4896122734c3f4e54a09b0df3e8c3e1063d1d8a35a460e6e0cd757",
     "path": "cicero/verres.2.4.shtml",
     "title": "ACTIONIS IN C. VERREM SECVNDAE LIBER QVARTVS",
+    "workId": "ll/m-tullius-cicero-in-c-verrem",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-c-verrem"
+    "excluded": false
   },
   "cicero/verres.2.5.shtml": {
     "url": "https://www.thelatinlibrary.com/cicero/verres.2.5.shtml",
@@ -10187,12 +10187,12 @@
     "sha256": "f72d15e75dcec608d2984ed75db9d3bd2a5f7012bd7dacbf3f3f00e47b8c21d9",
     "path": "cicero/verres.2.5.shtml",
     "title": "ACTIONIS IN C. VERREM SECVNDAE LIBER QVINTVS",
+    "workId": "ll/m-tullius-cicero-in-c-verrem",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/m-tullius-cicero-in-c-verrem"
+    "excluded": false
   },
   "cinna.html": {
     "url": "https://www.thelatinlibrary.com/cinna.html",
@@ -17919,14 +17919,12 @@
     "authorPage": "isidore.html",
     "workId": "ll/isidore-of-seville-etymologiae-sive-origines",
     "provenance": "statementFound",
-    "provenanceClassification": "post1930_or_copyright",
+    "provenanceClassification": "pre1930",
     "provenanceStatements": [
-      "Archilochium. Nam Anacreontica metra Anacreon conposuit; Sapphica Sappho mulier edidit; Archilochios Archilochus quidam scripsit; Colophonios Colophonius quidam exercuit. Sotadeorum quoque repertor est Sotades genere Cretensis. Simonidia quoque metra Simonides poeta lyricus conposuit. [8] A frequentatoribus, ut Asclepi",
-      "™\u0003.š\u0003.›\u0003.œ\u0003.\u0003.Ÿ\u0003. \u0003.¡\u0003.C.¤\u0003.¦\u0003. His Palamedes Troiano bello tres adiecit —\u0003.§\u0003.©\u0003. Post quem Simonides Melicus tres alias adiecit ¨\u0003.ž\u0003.˜\u0003 [7] ¥\u0003 litteram Pythagoras Samius ad exemplum vitae humanae primus formavit; cuius virgula subterior primam aetatem significat, incertam quippe et quae adhuc se nec vitiis nec virt"
+      "Archilochium. Nam Anacreontica metra Anacreon conposuit; Sapphica Sappho mulier edidit; Archilochios Archilochus quidam scripsit; Colophonios Colophonius quidam exercuit. Sotadeorum quoque repertor est Sotades genere Cretensis. Simonidia quoque metra Simonides poeta lyricus conposuit. [8] A frequentatoribus, ut Asclepi"
     ],
     "statedEdition": null,
-    "excluded": true,
-    "exclusionReason": "Copyright or permission notice detected"
+    "excluded": false
   },
   "isidore/10.shtml": {
     "url": "https://www.thelatinlibrary.com/isidore/10.shtml",
@@ -31581,12 +31579,12 @@
     "sha256": "d677159b9ceefb004c0448dd3787eb4f3b78de32930e970cb79ba2e8637d0d3e",
     "path": "sen/seneca.ep22.shtml",
     "title": "L. ANNAEI. SENECAE EPISTULARUM MORALIUM AD LUCILIUM LIBER VICENSIMVS SECVNDVS",
+    "workId": "ll/l-annaeus-seneca-ad-lucilium-epistulae-morales",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/l-annaeus-seneca-ad-lucilium-epistulae-morales"
+    "excluded": false
   },
   "sen/seneca.ep3.shtml": {
     "url": "https://www.thelatinlibrary.com/sen/seneca.ep3.shtml",
@@ -36527,14 +36525,14 @@
     "sha256": "18ec57c9d73f1b584655f4a5aeb5e17d7f3ec4e2fc10f73ad903729d559df161",
     "path": "victor/victor.origio.html",
     "title": "INCERTI AVCTORIS LIBER DE ORIGINE GENTIS ROMANAE",
+    "workId": "ll/pseudo-aurelius-victor-origo-gentis-romanae",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "15 1 Igitur summam imperii Latinorum adeptus Ascanius cum continuis proeliis Mezentium persequi instituisset, filius eius Lausus collem Laviniae arcis occupavit. Cumque id oppidum circumfusis omnibus copiis regis teneretur, Latini legatos ad Mezentium miserunt sciscitatum, qua condicione in deditionem eos accipere vellet; 2 cumque ille inter alia onerosa illud quoque adiceret, ut omne vinum agri Latini aliquot annis sibi inferretur, consilio atque auctoritate Ascanii placuit ob libertatem mori potius quam illo modo servitutem subire. 3 Itaque vino ex omni vindemia Iovi publice voto consecra..."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/pseudo-aurelius-victor-origo-gentis-romanae"
+    "excluded": false
   },
   "vida.html": {
     "url": "https://www.thelatinlibrary.com/vida.html",
@@ -36584,12 +36582,12 @@
     "sha256": "030918b531483f74110750820e54c1ad0e5d157989d3bfbdf3d6b64970028c71",
     "path": "vitruvius/vitruvius1.html",
     "title": "M. VITRUVII POLLIONIS DE ARCHITECTURA LIBER PRIMUS",
+    "workId": "ll/marcus-vitruvius-pollio-de-architectura",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/marcus-vitruvius-pollio-de-architectura"
+    "excluded": false
   },
   "vitruvius/vitruvius10.html": {
     "url": "https://www.thelatinlibrary.com/vitruvius/vitruvius10.html",
@@ -36597,12 +36595,12 @@
     "sha256": "364d8804d968d9208bc638644c642bd418e8a1d9757a43096d3d4c53add5bfd4",
     "path": "vitruvius/vitruvius10.html",
     "title": "M. VITRUVII POLLIONIS DE ARCHITECTURA LIBER DECIMUS ULTIMUSQUE",
+    "workId": "ll/marcus-vitruvius-pollio-de-architectura",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/marcus-vitruvius-pollio-de-architectura"
+    "excluded": false
   },
   "vitruvius/vitruvius2.html": {
     "url": "https://www.thelatinlibrary.com/vitruvius/vitruvius2.html",
@@ -36610,12 +36608,12 @@
     "sha256": "123f281a3f7ce7b26633b0519d1b3bbb9d44b09eb3bffe646453e3693c189bba",
     "path": "vitruvius/vitruvius2.html",
     "title": "M. VITRUVII POLLIONIS DE ARCHITECTURA LIBER SECUNDUS",
+    "workId": "ll/marcus-vitruvius-pollio-de-architectura",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/marcus-vitruvius-pollio-de-architectura"
+    "excluded": false
   },
   "vitruvius/vitruvius3.html": {
     "url": "https://www.thelatinlibrary.com/vitruvius/vitruvius3.html",
@@ -36623,12 +36621,12 @@
     "sha256": "05c2f270b5ff668dfc99aa328c2aabb13db52944cec4a975616be1ce16e9ff1f",
     "path": "vitruvius/vitruvius3.html",
     "title": "M. VITRUVII POLLIONIS DE ARCHITECTURA LIBER TERTIUS",
+    "workId": "ll/marcus-vitruvius-pollio-de-architectura",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/marcus-vitruvius-pollio-de-architectura"
+    "excluded": false
   },
   "vitruvius/vitruvius4.html": {
     "url": "https://www.thelatinlibrary.com/vitruvius/vitruvius4.html",
@@ -36636,12 +36634,12 @@
     "sha256": "7053626ba41869422f7c26982fb8cad88e98bb59ba0b8e7d7c274d20b65ae1e2",
     "path": "vitruvius/vitruvius4.html",
     "title": "M. VITRUVII POLLIONIS DE ARCHITECTURA LIBER QUARTUS",
+    "workId": "ll/marcus-vitruvius-pollio-de-architectura",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/marcus-vitruvius-pollio-de-architectura"
+    "excluded": false
   },
   "vitruvius/vitruvius5.html": {
     "url": "https://www.thelatinlibrary.com/vitruvius/vitruvius5.html",
@@ -36649,12 +36647,12 @@
     "sha256": "8f739131d7e42196184a20858400fe8a2028877455dc168bce10300d94dbc7b9",
     "path": "vitruvius/vitruvius5.html",
     "title": "M. VITRUVII POLLIONIS DE ARCHITECTURA LIBER QUINTUS",
+    "workId": "ll/marcus-vitruvius-pollio-de-architectura",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/marcus-vitruvius-pollio-de-architectura"
+    "excluded": false
   },
   "vitruvius/vitruvius6.html": {
     "url": "https://www.thelatinlibrary.com/vitruvius/vitruvius6.html",
@@ -36662,12 +36660,12 @@
     "sha256": "f8f34df6e69defbd98c624a62e21ad963052fbabda1d71b4288474b27b2aade8",
     "path": "vitruvius/vitruvius6.html",
     "title": "M. VITRUVII POLLIONIS DE ARCHITECTURA LIBER SEXTUS",
+    "workId": "ll/marcus-vitruvius-pollio-de-architectura",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/marcus-vitruvius-pollio-de-architectura"
+    "excluded": false
   },
   "vitruvius/vitruvius7.html": {
     "url": "https://www.thelatinlibrary.com/vitruvius/vitruvius7.html",
@@ -36675,14 +36673,14 @@
     "sha256": "93c37bb0b5612475d41a0207f7aca49e1fdc3de71c9f7684e41ff4551f33b031",
     "path": "vitruvius/vitruvius7.html",
     "title": "M. VITRUVII POLLIONIS DE ARCHITECTURA LIBER SEPTIMUS",
+    "workId": "ll/marcus-vitruvius-pollio-de-architectura",
     "provenance": "statementFound",
     "provenanceClassification": "pre1930",
     "provenanceStatements": [
       "[12] Postea Silenus de symmetriis doricorum edidit volumen; de aede ionica Iunionis quae est Sami Rhoecus et Theodorus; ionice Ephesi quae est Dianae, Chersiphron et Metagenes; de fano Minervae, quod est Prienae ionicum, Pytheos; item de aede Minervae, dorice quae est Athenis in arce, Ictinos et Carpion; Theodorus Phocaeus de tholo, qui est Delphis; Philo de aedium sacrarum symmetriis et de armamentario, quod fuerat Piraei portu; Hermogenes de aede Dianae, ionice quae est Magnesia pseudodipteros, et Liberi Patris Teo monopteros; item Arcesius de symmetriis corinthiis et ionico Trallibus Aes..."
     ],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/marcus-vitruvius-pollio-de-architectura"
+    "excluded": false
   },
   "vitruvius/vitruvius8.html": {
     "url": "https://www.thelatinlibrary.com/vitruvius/vitruvius8.html",
@@ -36690,12 +36688,12 @@
     "sha256": "c41f0cd5b22a870e246c3c8fc97cf5524d723054de8bc1dd616eb1670b7b8b95",
     "path": "vitruvius/vitruvius8.html",
     "title": "M. VITRUVII POLLIONIS DE ARCHITECTURA LIBER OCTAVUS",
+    "workId": "ll/marcus-vitruvius-pollio-de-architectura",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/marcus-vitruvius-pollio-de-architectura"
+    "excluded": false
   },
   "vitruvius/vitruvius9.html": {
     "url": "https://www.thelatinlibrary.com/vitruvius/vitruvius9.html",
@@ -36703,12 +36701,12 @@
     "sha256": "94dbd6db9e6f8633bd9f94eafd3e11d696daf27125b524e261bfcbc968c11b41",
     "path": "vitruvius/vitruvius9.html",
     "title": "M. VITRUVII POLLIONIS DE ARCHITECTURA LIBER NONUS",
+    "workId": "ll/marcus-vitruvius-pollio-de-architectura",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/marcus-vitruvius-pollio-de-architectura"
+    "excluded": false
   },
   "volovirum.html": {
     "url": "https://www.thelatinlibrary.com/volovirum.html",
@@ -37726,60 +37724,60 @@
     "sha256": "8fcdaeb77e952ab33f4003676494ea3ec3a8a03d0ba202919646794df61d52cf",
     "path": "withof/withof1.html",
     "title": "JOHANN HILDEBRAND WITHOF NULLAM FASTUM SIMULATA MODESTIA INTOLERABILIOREM ESSE",
+    "workId": "ll/johann-hildebrand-withof-carmina-et-orationes-academicae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/johann-hildebrand-withof-carmina-et-orationes-academicae"
+    "excluded": false
   },
   "withof/withof2.html": {
     "url": "https://www.thelatinlibrary.com/withof/withof2.html",
     "retrieved": "2026-11-01",
     "sha256": "c055b0be65cb9560618b5542f5bb49f713cc91dad2c6ba39c1fdf52a02d86ccd",
     "path": "withof/withof2.html",
+    "workId": "ll/johann-hildebrand-withof-carmina-et-orationes-academicae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/johann-hildebrand-withof-carmina-et-orationes-academicae"
+    "excluded": false
   },
   "withof/withof3.html": {
     "url": "https://www.thelatinlibrary.com/withof/withof3.html",
     "retrieved": "2026-11-01",
     "sha256": "b9d4fbd64434719780a391aab0473ee28c947460a77de59bc09714c08f9e1ce1",
     "path": "withof/withof3.html",
+    "workId": "ll/johann-hildebrand-withof-carmina-et-orationes-academicae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/johann-hildebrand-withof-carmina-et-orationes-academicae"
+    "excluded": false
   },
   "withof/withof4.html": {
     "url": "https://www.thelatinlibrary.com/withof/withof4.html",
     "retrieved": "2026-11-01",
     "sha256": "ce49a7b585b1dacb15e52a0b124f0a2c5809baba5b9c0e8644bde051bb1a95eb",
     "path": "withof/withof4.html",
+    "workId": "ll/johann-hildebrand-withof-carmina-et-orationes-academicae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/johann-hildebrand-withof-carmina-et-orationes-academicae"
+    "excluded": false
   },
   "withof/withof5.html": {
     "url": "https://www.thelatinlibrary.com/withof/withof5.html",
     "retrieved": "2026-11-01",
     "sha256": "db264ef4d200285895c88291d7ca9f944b184a71eb9f0e1e7830130d8108aff3",
     "path": "withof/withof5.html",
+    "workId": "ll/johann-hildebrand-withof-carmina-et-orationes-academicae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/johann-hildebrand-withof-carmina-et-orationes-academicae"
+    "excluded": false
   },
   "withof/withof6.html": {
     "url": "https://www.thelatinlibrary.com/withof/withof6.html",
@@ -37787,12 +37785,12 @@
     "sha256": "1127ce5c868ba67236b6dd26b0cf06a0415e603aec856a5475410ecfd673c7a8",
     "path": "withof/withof6.html",
     "title": "JOHANN HILDEBRAND WITHOF DE OPTIMO EX INTERIORE HUMANAE SCIENTA DEDUCTO INFANTES AD VIRTUTEM ET FELICITATEM EDUCANDI MODO",
+    "workId": "ll/johann-hildebrand-withof-carmina-et-orationes-academicae",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/johann-hildebrand-withof-carmina-et-orationes-academicae"
+    "excluded": false
   },
   "withof/withof7.html": {
     "url": "https://www.thelatinlibrary.com/withof/withof7.html",
@@ -37800,12 +37798,12 @@
     "sha256": "e42de4dcc9a72d062f2f4b6b4aa146302a19e7bf51303e74d22a59de4a6ce180",
     "path": "withof/withof7.html",
     "title": "JOHANN PHILIPP LORENZ WITHOF DE SCIENTARIUM, IN ANIMI CORPORIQUE ENERVANDO ROBORE, DAMNOSA EFFICACIA",
+    "workId": "ll/johann-philipp-lorenz-withof-de-scientiarum-in-animi-corporisque-facultates-vi",
     "provenance": "noStatement",
     "provenanceClassification": "none",
     "provenanceStatements": [],
     "statedEdition": null,
-    "excluded": false,
-    "workId": "ll/johann-philipp-lorenz-withof-de-scientiarum-in-animi-corporisque-facultates-vi"
+    "excluded": false
   },
   "withof7.html": {
     "url": "https://www.thelatinlibrary.com/withof7.html",

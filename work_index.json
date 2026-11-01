@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T00:19:35.515Z",
-  "sourceCommit": "4550b6e1cb637d834d3a7f475d0343e265b7eb40",
+  "generatedAt": "2026-11-01T00:23:05.575Z",
+  "sourceCommit": "17365974541405e3c5fb9d6b620805e468c7579d",
   "works": [
     {
       "workId": "ll/abbo-of-fleury-passio-sancti-edmundi-regis-et-martyris",
@@ -1559,8 +1559,12 @@
       "author": "Augustus",
       "title": "Res Gestae Divi Augusti",
       "period": "classical",
+      "authorPage": "aug.html",
       "pages": [
         "resgestae.html"
+      ],
+      "redundantOrAlternatePages": [
+        "resgestae1.html"
       ],
       "status": "in_library",
       "libraryWorkIds": [
@@ -1568,22 +1572,6 @@
       ],
       "statedEdition": null,
       "wordCount": 2700
-    },
-    {
-      "workId": "ll/augustus-res-gestae-divi-augusti",
-      "author": "Augustus (Imperator Caesar Augustus)",
-      "title": "Res Gestae Divi Augusti",
-      "period": "classical",
-      "authorPage": "aug.html",
-      "pages": [
-        "resgestae1.html"
-      ],
-      "redundantOrAlternatePages": [
-        "resgestae.html"
-      ],
-      "status": "candidate",
-      "statedEdition": null,
-      "wordCount": 3470
     },
     {
       "workId": "ll/aulus-gellius-noctes-atticae",
@@ -2444,19 +2432,6 @@
       "status": "candidate",
       "statedEdition": null,
       "wordCount": 10322
-    },
-    {
-      "workId": "ll/certamen-certamenquestions-virginia-certamen-homepage",
-      "author": "certamen/certamenquestions",
-      "title": "VIRGINIA CERTAMEN HOMEPAGE",
-      "period": "classical",
-      "authorPage": "certamen/certamenquestions.html",
-      "pages": [
-        "certamen.html"
-      ],
-      "status": "candidate",
-      "statedEdition": null,
-      "wordCount": 170
     },
     {
       "workId": "ll/charles-de-la-rue-s-j-aeneidos-argumentum-cum-xii-librorum-argumentis",
@@ -3754,8 +3729,7 @@
         "isidore/19.shtml",
         "isidore/20.shtml"
       ],
-      "status": "excluded",
-      "exclusionReason": "Copyright or permission notice detected",
+      "status": "candidate",
       "statedEdition": null,
       "wordCount": 178634
     },
@@ -4253,15 +4227,14 @@
         "justin/41.html",
         "justin/42.html",
         "justin/43.html",
-        "justin/44.html",
-        "justin/prologi.html"
+        "justin/44.html"
       ],
       "status": "in_library",
       "libraryWorkIds": [
         "thelatinlibrary-justin-epitoma"
       ],
-      "statedEdition": "Ruehl / Jeep (Teubner, Leipzig, 1886)",
-      "wordCount": 67058
+      "statedEdition": null,
+      "wordCount": 64032
     },
     {
       "workId": "thelatinlibrary-justinian-digesta",
