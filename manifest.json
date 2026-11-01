@@ -12478,8 +12478,7 @@
       "anchors: 200 all match sections",
       "review: link list differs from the sections (extra: none; missing: 20, 120)",
       "text: 9077 page tokens = 8877 row tokens + 200 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 90.7% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "gaius2.html": {
@@ -12501,8 +12500,7 @@
       "review: no section number on the site for 2.237 (its text stays in the section before)",
       "review: link list differs from the sections (extra: 237; missing: 20, 120, 220)",
       "text: 12798 page tokens = 12510 row tokens + 288 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 90.6% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "gaius3.html": {
@@ -12523,8 +12521,7 @@
       "anchors: 223 all match sections; unanchored on the site: 81, 82",
       "review: link list differs from the sections (extra: none; missing: 20, 120)",
       "text: 11501 page tokens = 11276 row tokens + 225 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 99.7% of our 5-grams in CLTK, 91.6% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "gaius4.html": {
@@ -12545,8 +12542,7 @@
       "anchors: 184 all match sections; unanchored on the site: 16, 18, 127",
       "review: link list differs from the sections (extra: none; missing: 20, 120)",
       "text: 11016 page tokens = 10829 row tokens + 187 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 92.9% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "galileo/galileo.sid.html": {
@@ -18437,18 +18433,15 @@
     "title": "HISTORIARUM PHILIPPICARUM IN EPITOMEN REDACTI A M. IUNIANO IUSTINO",
     "authorPage": "justin.html",
     "workId": "thelatinlibrary-justin-epitoma",
-    "provenance": "statementFound",
+    "provenance": "noStatement",
     "provenanceClassification": "pre1930",
-    "provenanceStatements": [
-      "[X] Occisis magis magna quidem gloria recuperati regni principum fuit, sed multo maior in eo, quod, cum de regno ambigerent, concordare potuerunt. Erant enim virtute et nobilitate ita pares, ut difficilem ex his populo electionem aequalitas faceret. Ipsi igitur viam invenerunt, qua de se iudicium religioni et fortunae committerent, pactique inter se sunt, ut die statuta omnes equos ante regiam primo mane perducerent, et cuius equus inter solis ortum hinnitum primus edidisset, is rex esset. Nam et solem Persae unum deum esse credunt et equos eidem deo sacratos ferunt. Et erat inter coniurato..."
-    ],
+    "provenanceStatements": [],
     "statedEdition": null,
     "excluded": false,
     "checks": [
       "chapters: I..X in order; 0 inline section numbers removed",
       "text: 2640 page tokens = 2630 row tokens + 10 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.5% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/10.html": {
@@ -18467,8 +18460,7 @@
     "checks": [
       "chapters: I..III in order; 18 inline section numbers removed",
       "text: 398 page tokens = 377 row tokens + 21 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 92.2% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/11.html": {
@@ -18479,19 +18471,15 @@
     "title": "HISTORIARUM PHILIPPICARUM IN EPITOMEN REDACTI A M. IUNIANO IUSTINO",
     "authorPage": "justin.html",
     "workId": "thelatinlibrary-justin-epitoma",
-    "provenance": "statementFound",
+    "provenance": "noStatement",
     "provenanceClassification": "pre1930",
-    "provenanceStatements": [
-      "IX. Interea Darius cum CCCC milibus peditum ac centum milibus equitum in aciem procedit. 2 Movebat haec multitudo hostium respectu paucitatis suae Alexandrum, sed interdum reputabat, quantas res cum ista paucitate gessisset quantosque populos fudisset. 3 Itaque cum spes metum vinceret, periculosius differre bellum ratus, ne desperatio suis cresceret, circumvectus suos singulas gentes diversa oratione adloquitur. 4 Illyrios et Thracas opum ac divitiarum ostentatione, Graecos veterum bellorum memoria internecivique cum Persis odii accendebat; 5 Macedonas autem nunc Europae victae admonet, nun...",
-      "XIV. Post haec proelium committitur. Macedones in ferrum cum contemptu totiens a se victi hostis ruebant: contra Persae mori quam vinci praeoptabant. 2 Raro in ullo proelio tantum sanguinis fusum est. 3 Darius cum vinci suos videret, mori et ipse voluit, sed a proximis fugere conpulsus est. 4 Suadentibus deinde quibusdam, ut pons Cydni fluminis ad iter hostium inpediendum intercluderetur, non ita se saluti suae velle consultum ait, ut tot milia sociorum hosti obiciat; debere et aliis fugae viam patere, quae patuerit sibi. 5 Alexander autem periculosissima quaeque adgrediebatur, et ubi confe..."
-    ],
+    "provenanceStatements": [],
     "statedEdition": null,
     "excluded": false,
     "checks": [
       "chapters: I..XV in order; 176 inline section numbers removed",
       "text: 3359 page tokens = 3168 row tokens + 191 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.2% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/12.html": {
@@ -18502,18 +18490,15 @@
     "title": "HISTORIARUM PHILIPPICARUM IN EPITOMEN REDACTI A M. IUNIANO IUSTINO",
     "authorPage": "justin.html",
     "workId": "thelatinlibrary-justin-epitoma",
-    "provenance": "statementFound",
+    "provenance": "noStatement",
     "provenanceClassification": "pre1930",
-    "provenanceStatements": [
-      "I. Alexander in persequendo Dario amissos milites magnis funerum inpensis extulit, reliquis expeditionis eius sociis tredecim milia talentum divisit. 2 Equorum maior pars aestu amissa, inutiles etiam qui superfuerant facti. 3 Pecunia omnis, CXC milia talentum, Ecbatana congesta eique Parmenio praepositus. 4 Dum haec aguntur, epistulae Antipatri a Macedonia ei redduntur, quibus bellum Agidis, regis Spartanorum, in Graecia, bellum Alexandri, regis Epiri, in Italia, bellum Zopyrionis, praefecti eius in Scythia continebatur. 5 Quibus varie adfectus plus tamen laetitiae cognitis mortibus duorum ..."
-    ],
+    "provenanceStatements": [],
     "statedEdition": null,
     "excluded": false,
     "checks": [
       "chapters: I..XVI in order; 185 inline section numbers removed",
       "text: 3643 page tokens = 3442 row tokens + 201 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 99.9% of our 5-grams in CLTK, 97.1% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/13.html": {
@@ -18533,8 +18518,7 @@
       "patch: 'putares; I1 quippe' -> 'putares; 11 quippe' (section number typed as I1)",
       "chapters: I..VIII in order; 116 inline section numbers removed",
       "text: 2192 page tokens = 2068 row tokens + 124 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 99.5% of our 5-grams in CLTK, 96.8% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/14.html": {
@@ -18553,9 +18537,8 @@
     "checks": [
       "chapters: I..VI in order; 76 inline section numbers removed",
       "text: 1509 page tokens = 1427 row tokens + 82 markers",
-      "review: chapter marker before lowercase 14.2: '…todiam salutis eius offerunt, II. cum interim Antigonus cum …'",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 99.7% of our 5-grams in CLTK, 96.5% of CLTK's in ours"
+      "review: chapter marker before lowercase 14.2: 'cum interim Antigonus cum exercitu super…'",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/15.html": {
@@ -18574,8 +18557,7 @@
     "checks": [
       "chapters: I..IV in order; 62 inline section numbers removed",
       "text: 1222 page tokens = 1156 row tokens + 66 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.9% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/16.html": {
@@ -18594,8 +18576,7 @@
     "checks": [
       "chapters: I..V in order; 73 inline section numbers removed",
       "text: 1378 page tokens = 1300 row tokens + 78 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.9% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/17.html": {
@@ -18614,8 +18595,7 @@
     "checks": [
       "chapters: I..III in order; 46 inline section numbers removed",
       "text: 856 page tokens = 807 row tokens + 49 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.2% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/18.html": {
@@ -18634,8 +18614,7 @@
     "checks": [
       "chapters: I..VII in order; 98 inline section numbers removed",
       "text: 2092 page tokens = 1987 row tokens + 105 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 99.7% of our 5-grams in CLTK, 97.2% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/19.html": {
@@ -18654,8 +18633,7 @@
     "checks": [
       "chapters: I..III in order; 33 inline section numbers removed",
       "text: 645 page tokens = 609 row tokens + 36 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 95.1% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/2.html": {
@@ -18666,18 +18644,15 @@
     "title": "HISTORIARUM PHILIPPICARUM IN EPITOMEN REDACTI A M. IUNIANO IUSTINO",
     "authorPage": "justin.html",
     "workId": "thelatinlibrary-justin-epitoma",
-    "provenance": "statementFound",
+    "provenance": "noStatement",
     "provenanceClassification": "pre1930",
-    "provenanceStatements": [
-      "[II] Scythia autem in orientem porrecta includitur ab uno latere Ponto, ab altero montibus Riphaeis, a tergo Asia et Phasi flumine. Multum in longitudinem et latitudinem patet. Hominibus inter se nulli fines. Neque enim agrum exercent, nec domus illis ulla aut tectum aut sedes est, armenta et pecora semper pascentibus et per incultas solitudines errare solitis. Uxores liberosque secum in plaustris vehunt, quibus coriis imbrium hiemisque causa tectis pro domibus utuntur. Iustitia gentis ingeniis culta, non legibus. Nullum scelus apud eos furto gravius: quippe sine tecti munimento pecora et a..."
-    ],
+    "provenanceStatements": [],
     "statedEdition": null,
     "excluded": false,
     "checks": [
       "chapters: I..XV in order; 0 inline section numbers removed",
       "text: 4559 page tokens = 4544 row tokens + 15 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 98.0% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/20.html": {
@@ -18696,8 +18671,7 @@
     "checks": [
       "chapters: I..V in order; 66 inline section numbers removed",
       "text: 1172 page tokens = 1101 row tokens + 71 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.3% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/21.html": {
@@ -18717,8 +18691,7 @@
       "patch: '<FONT SIZE=2>l0</FONT>' -> '<FONT SIZE=2>10</FONT>' (section number typed as l0)",
       "chapters: I..VI in order; 47 inline section numbers removed",
       "text: 1015 page tokens = 962 row tokens + 53 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 99.6% of our 5-grams in CLTK, 94.8% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/22.html": {
@@ -18737,8 +18710,7 @@
     "checks": [
       "chapters: I..VIII in order; 85 inline section numbers removed",
       "text: 1887 page tokens = 1794 row tokens + 93 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.9% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/23.html": {
@@ -18757,8 +18729,7 @@
     "checks": [
       "chapters: I..IV in order; 53 inline section numbers removed",
       "text: 1046 page tokens = 989 row tokens + 57 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 99.4% of our 5-grams in CLTK, 95.9% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/24.html": {
@@ -18778,8 +18749,7 @@
       "patch: 'convenere. 8, Prius' -> 'convenere. 8 Prius' (stray comma after a section number)",
       "chapters: I..VIII in order; 80 inline section numbers removed",
       "text: 1874 page tokens = 1786 row tokens + 88 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 99.7% of our 5-grams in CLTK, 96.6% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/25.html": {
@@ -18798,8 +18768,7 @@
     "checks": [
       "chapters: I..V in order; 39 inline section numbers removed",
       "text: 912 page tokens = 868 row tokens + 44 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 95.4% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/26.html": {
@@ -18818,8 +18787,7 @@
     "checks": [
       "chapters: I..III in order; 27 inline section numbers removed",
       "text: 678 page tokens = 648 row tokens + 30 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 95.4% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/27.html": {
@@ -18838,8 +18806,7 @@
     "checks": [
       "chapters: I..III in order; 31 inline section numbers removed",
       "text: 697 page tokens = 663 row tokens + 34 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 95.4% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/28.html": {
@@ -18859,8 +18826,7 @@
       "patch: 'supervenit<FONT size=2>8</FONT>' -> 'supervenit <FONT size=2>8</FONT>' (no space before a section number)",
       "chapters: I..IV in order; 48 inline section numbers removed",
       "text: 932 page tokens = 880 row tokens + 52 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.0% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/29.html": {
@@ -18880,8 +18846,7 @@
       "patch: 'rex I1lyriorum' -> 'rex Illyriorum' (digit 1 for the letter l in Illyriorum)",
       "chapters: I..IV in order; 35 inline section numbers removed",
       "text: 819 page tokens = 780 row tokens + 39 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 99.3% of our 5-grams in CLTK, 94.9% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/3.html": {
@@ -18900,8 +18865,7 @@
     "checks": [
       "chapters: I..VII in order; 0 inline section numbers removed",
       "text: 1616 page tokens = 1609 row tokens + 7 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.9% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/30.html": {
@@ -18920,8 +18884,7 @@
     "checks": [
       "chapters: I..IV in order; 42 inline section numbers removed",
       "text: 898 page tokens = 852 row tokens + 46 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 95.9% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/31.html": {
@@ -18940,8 +18903,7 @@
     "checks": [
       "chapters: I..VIII in order; 66 inline section numbers removed",
       "text: 1804 page tokens = 1730 row tokens + 74 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.8% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/32.html": {
@@ -18960,8 +18922,7 @@
     "checks": [
       "chapters: I..IV in order; 43 inline section numbers removed",
       "text: 1145 page tokens = 1098 row tokens + 47 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.8% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/33.html": {
@@ -18972,18 +18933,15 @@
     "title": "HISTORIARUM PHILIPPICARUM IN EPITOMEN REDACTI A M. IUNIANO IUSTINO",
     "authorPage": "justin.html",
     "workId": "thelatinlibrary-justin-epitoma",
-    "provenance": "statementFound",
+    "provenance": "noStatement",
     "provenanceClassification": "pre1930",
-    "provenanceStatements": [
-      "II. In ea pugna M. Cato, oratoris filius, dum inter confertissimos hostes insigniter dimicat, equo delapsus pedestre proelium adgreditur. 2 Nam cadentem manipulus hostium cum horrido clamore veluti iacentem obtruncaturus circumsteterat; at ille citius corpore collecto magnas strages edidit. 3 Cum ad unum opprimendum undique hostes convolarent, dum procerum quendam petit, gladius ei e manu elapsus in mediam cohortem hostium decidit; 4 ad quem recuperandum umbone se protegens inspectante utroque exercitu inter hostium mucrones sese inmersit recollectoque gladio multis vulneribus exceptis ad s..."
-    ],
+    "provenanceStatements": [],
     "statedEdition": null,
     "excluded": false,
     "checks": [
       "chapters: I..II in order; 12 inline section numbers removed",
       "text: 393 page tokens = 379 row tokens + 14 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 93.5% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/34.html": {
@@ -19002,8 +18960,7 @@
     "checks": [
       "chapters: I..IV in order; 27 inline section numbers removed",
       "text: 660 page tokens = 629 row tokens + 31 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 94.5% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/35.html": {
@@ -19022,8 +18979,7 @@
     "checks": [
       "chapters: I..II in order; 13 inline section numbers removed",
       "text: 342 page tokens = 327 row tokens + 15 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 92.5% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/36.html": {
@@ -19042,8 +18998,7 @@
     "checks": [
       "chapters: I..IV in order; 43 inline section numbers removed",
       "text: 1062 page tokens = 1015 row tokens + 47 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.5% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/37.html": {
@@ -19062,8 +19017,7 @@
     "checks": [
       "chapters: I..IV in order; 32 inline section numbers removed",
       "text: 713 page tokens = 677 row tokens + 36 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 94.8% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/38.html": {
@@ -19082,8 +19036,7 @@
     "checks": [
       "chapters: I..X in order; 99 inline section numbers removed",
       "text: 2815 page tokens = 2706 row tokens + 109 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.6% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/39.html": {
@@ -19102,8 +19055,7 @@
     "checks": [
       "chapters: I..V in order; 38 inline section numbers removed",
       "text: 1288 page tokens = 1245 row tokens + 43 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.8% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/4.html": {
@@ -19122,8 +19074,7 @@
     "checks": [
       "chapters: I..V in order; 0 inline section numbers removed",
       "text: 1007 page tokens = 1002 row tokens + 5 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.0% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/40.html": {
@@ -19142,8 +19093,7 @@
     "checks": [
       "chapters: I..II in order; 7 inline section numbers removed",
       "text: 227 page tokens = 218 row tokens + 9 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 89.0% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/41.html": {
@@ -19162,8 +19112,7 @@
     "checks": [
       "chapters: I..VI in order; 54 inline section numbers removed",
       "text: 1257 page tokens = 1197 row tokens + 60 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.2% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/42.html": {
@@ -19182,8 +19131,7 @@
     "checks": [
       "chapters: I..V in order; 49 inline section numbers removed",
       "text: 1341 page tokens = 1287 row tokens + 54 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.9% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/43.html": {
@@ -19202,8 +19150,7 @@
     "checks": [
       "chapters: I..V in order; 55 inline section numbers removed",
       "text: 1547 page tokens = 1487 row tokens + 60 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.3% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/44.html": {
@@ -19223,8 +19170,7 @@
       "patch: 'LIBER XIVL' -> 'LIBER XLIV' (book number misprinted as XIVL)",
       "chapters: I..V in order; 46 inline section numbers removed",
       "text: 1238 page tokens = 1187 row tokens + 51 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.6% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/5.html": {
@@ -19243,8 +19189,7 @@
     "checks": [
       "chapters: I..XI in order; 0 inline section numbers removed",
       "text: 2289 page tokens = 2278 row tokens + 11 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.9% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/6.html": {
@@ -19263,8 +19208,7 @@
     "checks": [
       "chapters: I..IX in order; 0 inline section numbers removed",
       "text: 1645 page tokens = 1636 row tokens + 9 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.3% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/7.html": {
@@ -19283,8 +19227,7 @@
     "checks": [
       "chapters: I..VI in order; 1 inline section numbers removed",
       "text: 1162 page tokens = 1155 row tokens + 7 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.1% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/8.html": {
@@ -19303,8 +19246,7 @@
     "checks": [
       "chapters: I..VI in order; 68 inline section numbers removed",
       "text: 1328 page tokens = 1254 row tokens + 74 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 96.4% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/9.html": {
@@ -19323,8 +19265,7 @@
     "checks": [
       "chapters: I..VIII in order; 90 inline section numbers removed",
       "text: 1715 page tokens = 1617 row tokens + 98 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 99.6% of our 5-grams in CLTK, 96.3% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/praefatio.html": {
@@ -19335,18 +19276,15 @@
     "title": "HISTORIARUM PHILIPPICARUM IN EPITOMEN REDACTI A M. IUNIANO IUSTINO",
     "authorPage": "justin.html",
     "workId": "thelatinlibrary-justin-epitoma",
-    "provenance": "statementFound",
+    "provenance": "noStatement",
     "provenanceClassification": "pre1930",
-    "provenanceStatements": [
-      "Cum multi ex Romanis etiam consularis dignitatis viri res Romanas Graeco peregrinoque sermone in historiam contulissent, seu aemulatione gloriae sive varietate et novitate operis delectatus vir priscae eloquentiae, Trogus Pompeius, Graecas et totius orbis historias Latino sermone conposuit, ut, cum nostra Graece, Graeca quoque nostra lingua legi possent, prorsus rem magni et animi et corporis adgressus. Nam cum plerisque auctoribus singulorum regum vel populorum res gestas scribentibus opus suum ardui laboris videatur, nonne nobis Pompeius Herculea audacia orbem terrarum adgressus videri de..."
-    ],
+    "provenanceStatements": [],
     "statedEdition": null,
     "excluded": false,
     "checks": [
       "praefatio: 1 paragraphs as one row",
       "text: 210 page tokens = 210 row tokens + 0 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 91.6% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justin/prologi.html": {
@@ -19365,8 +19303,7 @@
     "checks": [
       "prologues: I..XLIV in order",
       "text: 3010 page tokens = 2878 row tokens + 132 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 89.2% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian.html": {
@@ -19568,9 +19505,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..22 match the contents; 413 fragments in order",
-      "text: 17730 page tokens = 15620 row tokens + 2110 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 86.1% of CLTK's in ours"
+      "text: 17730 page tokens = 14850 row tokens + 2880 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest10.shtml": {
@@ -19588,9 +19524,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..4 match the contents; 308 fragments in order",
-      "text: 14770 page tokens = 13311 row tokens + 1459 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 88.8% of CLTK's in ours"
+      "text: 14770 page tokens = 12567 row tokens + 2203 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest11.shtml": {
@@ -19608,9 +19543,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..8 match the contents; 257 fragments in order",
-      "text: 10800 page tokens = 9516 row tokens + 1284 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 86.4% of CLTK's in ours"
+      "text: 10800 page tokens = 8921 row tokens + 1879 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest12.shtml": {
@@ -19628,10 +19562,9 @@
     "excluded": false,
     "checks": [
       "titles: 1..7 match the contents; 367 fragments in order",
-      "text: 18157 page tokens = 16415 row tokens + 1742 markers",
+      "text: 18157 page tokens = 15742 row tokens + 2415 markers",
       "review: law numbering jumps at 12.1.16→18",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 88.7% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest13.shtml": {
@@ -19649,9 +19582,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..7 match the contents; 274 fragments in order",
-      "text: 12732 page tokens = 11410 row tokens + 1322 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 87.9% of CLTK's in ours"
+      "text: 12732 page tokens = 10849 row tokens + 1883 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest14.shtml": {
@@ -19669,9 +19601,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..6 match the contents; 231 fragments in order",
-      "text: 11084 page tokens = 9927 row tokens + 1157 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 88.7% of CLTK's in ours"
+      "text: 11084 page tokens = 9315 row tokens + 1769 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest15.shtml": {
@@ -19689,10 +19620,9 @@
     "excluded": false,
     "checks": [
       "titles: 1..4 match the contents; 240 fragments in order",
-      "text: 12778 page tokens = 11617 row tokens + 1161 markers",
+      "text: 12778 page tokens = 11012 row tokens + 1766 markers",
       "review: paragraph numbering jumps at 15.1.7.5",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 89.9% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest16.shtml": {
@@ -19710,10 +19640,9 @@
     "excluded": false,
     "checks": [
       "titles: 1..3 match the contents; 209 fragments in order",
-      "text: 20441 page tokens = 9243 row tokens + 11198 markers",
+      "text: 20441 page tokens = 8777 row tokens + 11664 markers",
       "review: the page repeats the whole book; the identical second copy was dropped",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 88.5% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest17.shtml": {
@@ -19731,9 +19660,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..2 match the contents; 345 fragments in order",
-      "text: 17553 page tokens = 15953 row tokens + 1600 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 89.5% of CLTK's in ours"
+      "text: 17553 page tokens = 15184 row tokens + 2369 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest18.shtml": {
@@ -19751,10 +19679,9 @@
     "excluded": false,
     "checks": [
       "titles: 1..7 match the contents; 297 fragments in order",
-      "text: 31064 page tokens = 14109 row tokens + 16955 markers",
+      "text: 31064 page tokens = 13608 row tokens + 17456 markers",
       "review: the page repeats the whole book; the identical second copy was dropped",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 89.2% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest19.shtml": {
@@ -19772,9 +19699,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..5 match the contents; 363 fragments in order",
-      "text: 19738 page tokens = 18012 row tokens + 1726 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 90.1% of CLTK's in ours"
+      "text: 19738 page tokens = 17136 row tokens + 2602 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest2.shtml": {
@@ -19785,21 +19711,15 @@
     "title": "OMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI DIGESTORUM SEU PANDECTARUM",
     "authorPage": "justinian.html",
     "workId": "thelatinlibrary-justinian-digesta",
-    "provenance": "statementFound",
+    "provenance": "noStatement",
     "provenanceClassification": "pre1930",
-    "provenanceStatements": [
-      "Edere non videtur qui stipulationem totam non edidit.",
-      "Eis, qui ob aetatem vel rusticitatem vel ob sexum lapsi non ediderunt vel alia ex iusta causa, subvenietur.",
-      "Cogentur et successores argentarii edere rationes. quod si plures sunt heredes et unus habeat, solus ad editionem compelletur: sed si omnes habeant et unus ediderit, omnes ad editionem compellendi sunt. quid enim si humilis et deploratus unus edidit, ut dubitare quis merito de fide editionis possit? ut igitur comparari rationes possint, etiam ceteri edere debent aut certe unius editioni subscribere. hoc idem erit et si plures fuerint argentarii, a quibus editio desideratur. nam et si plures tutores tutelam administraverunt simul, aut omnes edere debent aut unius editioni subscribere.",
-      "Ubi exigitur argentarius rationes edere, tunc punitur, cum dolo malo non exhibet: sed culpam non praestabit nisi dolo proximam. dolo malo autem non edidit et qui malitiose edidit et qui in totum non edidit."
-    ],
+    "provenanceStatements": [],
     "statedEdition": "Mommsen-Krueger (Digesta Iustiniani Augusti, Berlin, 1870)",
     "excluded": false,
     "checks": [
       "titles: 1..15 match the contents; 448 fragments in order",
-      "text: 20326 page tokens = 18062 row tokens + 2264 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 87.6% of CLTK's in ours"
+      "text: 20326 page tokens = 17071 row tokens + 3255 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest20.shtml": {
@@ -19817,9 +19737,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..6 match the contents; 213 fragments in order",
-      "text: 11167 page tokens = 10098 row tokens + 1069 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 89.1% of CLTK's in ours"
+      "text: 11167 page tokens = 9538 row tokens + 1629 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest21.shtml": {
@@ -19837,9 +19756,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..3 match the contents; 377 fragments in order",
-      "text: 18399 page tokens = 16615 row tokens + 1784 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 89.1% of CLTK's in ours"
+      "text: 18399 page tokens = 15406 row tokens + 2993 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest22.shtml": {
@@ -19857,9 +19775,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..6 match the contents; 220 fragments in order",
-      "text: 10211 page tokens = 9160 row tokens + 1051 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 87.2% of CLTK's in ours"
+      "text: 10211 page tokens = 8787 row tokens + 1424 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest23.shtml": {
@@ -19870,18 +19787,15 @@
     "title": "OMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI DIGESTORUM SEU PANDECTARUM",
     "authorPage": "justinian.html",
     "workId": "thelatinlibrary-justinian-digesta",
-    "provenance": "statementFound",
+    "provenance": "noStatement",
     "provenanceClassification": "pre1930",
-    "provenanceStatements": [
-      "Si servi subolem ediderunt, mariti lucrum non est."
-    ],
+    "provenanceStatements": [],
     "statedEdition": "Mommsen-Krueger (Digesta Iustiniani Augusti, Berlin, 1870)",
     "excluded": false,
     "checks": [
       "titles: 1..5 match the contents; 397 fragments in order",
-      "text: 18713 page tokens = 16895 row tokens + 1818 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 88.2% of CLTK's in ours"
+      "text: 18713 page tokens = 16115 row tokens + 2598 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest24.shtml": {
@@ -19899,10 +19813,9 @@
     "excluded": false,
     "checks": [
       "titles: 1..3 match the contents; 345 fragments in order",
-      "text: 18188 page tokens = 16569 row tokens + 1619 markers",
+      "text: 18188 page tokens = 15738 row tokens + 2450 markers",
       "review: paragraph numbering jumps at 24.1.7.4",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 89.9% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest25.shtml": {
@@ -19920,9 +19833,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..7 match the contents; 190 fragments in order",
-      "text: 7839 page tokens = 6846 row tokens + 993 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 85.4% of CLTK's in ours"
+      "text: 7839 page tokens = 6320 row tokens + 1519 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest26.shtml": {
@@ -19933,19 +19845,16 @@
     "title": "OMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI DIGESTORUM SEU PANDECTARUM",
     "authorPage": "justinian.html",
     "workId": "thelatinlibrary-justinian-digesta",
-    "provenance": "statementFound",
+    "provenance": "noStatement",
     "provenanceClassification": "pre1930",
-    "provenanceStatements": [
-      "Tutelae iudicio tutor conventus edidit librum rationum et secundum eum condemnatus solvit: postea cum a debitoribus paternis, quorum nomina libro rationum non inerant, exigere vellet pupillus, prolatae sunt ab his apochae tutoris: quaesitum est, utrum adversus tutorem an adversus debitores actio ei competat. paulus respondit, si tempore administrandae tutelae tutori tutelam gerenti debitores solvissent, liberatos eos ipso iure a pupillo: sed si cum tutore actum esset, posse eundem adulescentem propter eam causam tutelae experiri et adversus exceptionem rei iudicatae doli mali uti replicatione."
-    ],
+    "provenanceStatements": [],
     "statedEdition": "Mommsen-Krueger (Digesta Iustiniani Augusti, Berlin, 1870)",
     "excluded": false,
     "checks": [
       "titles: 1..10 match the contents; 478 fragments in order",
-      "text: 21292 page tokens = 18949 row tokens + 2343 markers",
+      "text: 21292 page tokens = 17944 row tokens + 3348 markers",
       "review: unusual inscriptions Dig. 26.7.34 'aquila libro resp.'; Dig. 26.10.12 'aquila libro resp.'",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 87.2% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest27.shtml": {
@@ -19963,9 +19872,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..10 match the contents; 432 fragments in order",
-      "text: 19438 page tokens = 17266 row tokens + 2172 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 87.4% of CLTK's in ours"
+      "text: 19438 page tokens = 16241 row tokens + 3197 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest28.shtml": {
@@ -19983,10 +19891,9 @@
     "excluded": false,
     "checks": [
       "titles: 1..8 match the contents; 536 fragments in order",
-      "text: 28270 page tokens = 25748 row tokens + 2522 markers",
+      "text: 28270 page tokens = 24729 row tokens + 3541 markers",
       "review: no text on the site for 28.5.93.pr",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 89.5% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest29.shtml": {
@@ -20004,10 +19911,9 @@
     "excluded": false,
     "checks": [
       "titles: 1..7 match the contents; 526 fragments in order",
-      "text: 23161 page tokens = 20669 row tokens + 2492 markers",
+      "text: 23161 page tokens = 19509 row tokens + 3652 markers",
       "review: title 29.1 (rubrica line) missing from the book's contents",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 87.5% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest3.shtml": {
@@ -20025,9 +19931,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..6 match the contents; 364 fragments in order",
-      "text: 16778 page tokens = 15067 row tokens + 1711 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 88.1% of CLTK's in ours"
+      "text: 16778 page tokens = 14346 row tokens + 2432 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest30.shtml": {
@@ -20045,10 +19950,9 @@
     "excluded": false,
     "checks": [
       "titles: none (title id 0) match the contents; 389 fragments in order",
-      "text: 17123 page tokens = 15685 row tokens + 1438 markers",
+      "text: 17123 page tokens = 14707 row tokens + 2416 markers",
       "review: paragraph numbering jumps at 30.0.41.16",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 87.8% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest31.shtml": {
@@ -20066,9 +19970,8 @@
     "excluded": false,
     "checks": [
       "titles: none (title id 0) match the contents; 241 fragments in order",
-      "text: 13899 page tokens = 13014 row tokens + 885 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 90.4% of CLTK's in ours"
+      "text: 13899 page tokens = 12500 row tokens + 1399 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest32.shtml": {
@@ -20086,10 +19989,9 @@
     "excluded": false,
     "checks": [
       "titles: none (title id 0) match the contents; 322 fragments in order",
-      "text: 16775 page tokens = 15580 row tokens + 1195 markers",
+      "text: 16775 page tokens = 14776 row tokens + 1999 markers",
       "review: unusual inscriptions Dig. 32.36 'claud. not. ad scaev. 18 Dig.'",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 89.5% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest33.shtml": {
@@ -20100,18 +20002,15 @@
     "title": "OMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI DIGESTORUM SEU PANDECTARUM",
     "authorPage": "justinian.html",
     "workId": "thelatinlibrary-justinian-digesta",
-    "provenance": "statementFound",
+    "provenance": "noStatement",
     "provenanceClassification": "pre1930",
-    "provenanceStatements": [
-      "Quidam praedia rei publicae legavit, de quorum reditu quotannis ludos edi voluit, et adiecit: \"quae legata peto, decuriones, et rogo, ne in aliam speciem aut alios usus convertere velitis\". res publica per quadriennium continuum ludos non edidit: quaero, an reditus, quos quadriennio res publica percepit, heredibus restituere debeat vel compensare in aliam speciem legati ex eodem testamento. respondit et invitis heredibus possessione adprehensa perceptos fructus restituendos esse et non erogatum secundum defuncti voluntatem in alia quae deberentur compensari."
-    ],
+    "provenanceStatements": [],
     "statedEdition": "Mommsen-Krueger (Digesta Iustiniani Augusti, Berlin, 1870)",
     "excluded": false,
     "checks": [
       "titles: 1..10 match the contents; 426 fragments in order",
-      "text: 22809 page tokens = 20752 row tokens + 2057 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 89.5% of CLTK's in ours"
+      "text: 22809 page tokens = 19921 row tokens + 2888 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest34.shtml": {
@@ -20129,10 +20028,9 @@
     "excluded": false,
     "checks": [
       "titles: 1..9 match the contents; 413 fragments in order",
-      "text: 22428 page tokens = 20432 row tokens + 1996 markers",
+      "text: 22428 page tokens = 19585 row tokens + 2843 markers",
       "review: unusual inscriptions Dig. 34.9.26 'claud. not. ad scaev. 30 Dig.'",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 89.6% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest35.shtml": {
@@ -20143,18 +20041,15 @@
     "title": "OMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI DIGESTORUM SEU PANDECTARUM",
     "authorPage": "justinian.html",
     "workId": "thelatinlibrary-justinian-digesta",
-    "provenance": "statementFound",
+    "provenance": "noStatement",
     "provenanceClassification": "pre1930",
-    "provenanceStatements": [
-      "Publius maevius testamento suo ita cavit: \" quisquis mihi heres heredesve erunt, do lego fideique eorum committo, uti dent gaio seio sororis meae filio in honorem consulatus quadringenta\": vivo maevio seius consul designatus est et munus edidit: deinde ex calendis ianuariis consulatum ingressus est atque ita maevius decessit: quaero, an quadringenta seio debeantur. Marcellus respondit deberi,"
-    ],
+    "provenanceStatements": [],
     "statedEdition": "Mommsen-Krueger (Digesta Iustiniani Augusti, Berlin, 1870)",
     "excluded": false,
     "checks": [
       "titles: 1..3 match the contents; 441 fragments in order",
-      "text: 24703 page tokens = 22663 row tokens + 2040 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 90.0% of CLTK's in ours"
+      "text: 24703 page tokens = 21767 row tokens + 2936 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest36.shtml": {
@@ -20172,12 +20067,11 @@
     "excluded": false,
     "checks": [
       "titles: 1..4 match the contents; 452 fragments in order",
-      "text: 25841 page tokens = 23673 row tokens + 2168 markers",
+      "text: 25841 page tokens = 22664 row tokens + 3177 markers",
       "review: no heading on the page for 36.1; taken from the contents",
       "review: no text on the site for 36.1.15.pr",
       "review: unusual inscriptions Dig. 36.1.45 '........'; Dig. 36.1.84 '.........'; Dig. 36.1.85 '........'; Dig. 36.4.16 '........'; Dig. 36.4.17 '..........'",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 90.4% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest37.shtml": {
@@ -20195,9 +20089,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..15 match the contents; 494 fragments in order",
-      "text: 25015 page tokens = 22519 row tokens + 2496 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 89.3% of CLTK's in ours"
+      "text: 25015 page tokens = 21254 row tokens + 3761 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest38.shtml": {
@@ -20208,18 +20101,15 @@
     "title": "OMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI DIGESTORUM SEU PANDECTARUM",
     "authorPage": "justinian.html",
     "workId": "thelatinlibrary-justinian-digesta",
-    "provenance": "statementFound",
+    "provenance": "noStatement",
     "provenanceClassification": "pre1930",
-    "provenanceStatements": [
-      "Sed si in servitute concepit filium et manumissa ediderit, ad legitimam eius hereditatem admittetur: idemque et si serva poenae concepit et restituta edidit: hoc idem et si libera concepit, edidit serva poenae, mox restituta est: sed et si libera concepit et in servitutem redacta edidit, mox manumissa est, ad legitimam hereditatem eius admittetur. item si adhuc praegnas manumissa est, dicendum erit prodesse. et in servitute editi filii ad legitimam hereditatem mater admittetur, ut puta si post moram factam in fideicommissa libertate peperit, vel apud hostes et cum eo rediit, vel si redempta..."
-    ],
+    "provenanceStatements": [],
     "statedEdition": "Mommsen-Krueger (Digesta Iustiniani Augusti, Berlin, 1870)",
     "excluded": false,
     "checks": [
       "titles: 1..17 match the contents; 591 fragments in order",
-      "text: 29145 page tokens = 26178 row tokens + 2967 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 88.7% of CLTK's in ours"
+      "text: 29145 page tokens = 24565 row tokens + 4580 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest39.shtml": {
@@ -20237,9 +20127,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..6 match the contents; 577 fragments in order",
-      "text: 26542 page tokens = 23769 row tokens + 2773 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 88.4% of CLTK's in ours"
+      "text: 26542 page tokens = 22225 row tokens + 4317 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest4.shtml": {
@@ -20257,9 +20146,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..9 match the contents; 579 fragments in order",
-      "text: 27685 page tokens = 24917 row tokens + 2768 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 88.9% of CLTK's in ours"
+      "text: 27685 page tokens = 23574 row tokens + 4111 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest40.shtml": {
@@ -20277,10 +20165,9 @@
     "excluded": false,
     "checks": [
       "titles: 1..16 match the contents; 736 fragments in order",
-      "text: 35428 page tokens = 31877 row tokens + 3551 markers",
+      "text: 35428 page tokens = 30356 row tokens + 5072 markers",
       "review: unusual inscriptions Dig. 40.5.17 'claud. ex scaev. 21 Dig.'; Dig. 40.14.2pr. 'saturn. 1 de off. procons.'; Dig. 40.14.2.1 'saturn. 1 de off. procons.'; Dig. 40.14.2.2 'saturn. 1 de off. procons.'",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 88.2% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest41.shtml": {
@@ -20298,9 +20185,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..10 match the contents; 514 fragments in order",
-      "text: 24586 page tokens = 22123 row tokens + 2463 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 88.4% of CLTK's in ours"
+      "text: 24586 page tokens = 20992 row tokens + 3594 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest42.shtml": {
@@ -20318,9 +20204,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..8 match the contents; 369 fragments in order",
-      "text: 17252 page tokens = 15473 row tokens + 1779 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 88.2% of CLTK's in ours"
+      "text: 17252 page tokens = 14683 row tokens + 2569 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest43.shtml": {
@@ -20338,11 +20223,10 @@
     "excluded": false,
     "checks": [
       "titles: 1..33 match the contents; 750 fragments in order",
-      "text: 63606 page tokens = 27786 row tokens + 35820 markers",
+      "text: 63606 page tokens = 25419 row tokens + 38187 markers",
       "review: no text on the site for 43.3.1.pr",
       "review: the page repeats the whole book; the identical second copy was dropped",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 87.6% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest44.shtml": {
@@ -20353,18 +20237,15 @@
     "title": "OMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI DIGESTORUM SEU PANDECTARUM",
     "authorPage": "justinian.html",
     "workId": "thelatinlibrary-justinian-digesta",
-    "provenance": "statementFound",
+    "provenance": "noStatement",
     "provenanceClassification": "pre1930",
-    "provenanceStatements": [
-      "Mandavi titio, ut a te stipularetur, deinde titius seio, et stipulatus a te seius est et iudicium edidit: ait labeo excipiendum esse tam de meo quam et seii dolo."
-    ],
+    "provenanceStatements": [],
     "statedEdition": "Mommsen-Krueger (Digesta Iustiniani Augusti, Berlin, 1870)",
     "excluded": false,
     "checks": [
       "titles: 1..7 match the contents; 330 fragments in order",
-      "text: 16156 page tokens = 14570 row tokens + 1586 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 88.6% of CLTK's in ours"
+      "text: 16156 page tokens = 13898 row tokens + 2258 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest45.shtml": {
@@ -20382,9 +20263,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..3 match the contents; 395 fragments in order",
-      "text: 20956 page tokens = 19145 row tokens + 1811 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 89.6% of CLTK's in ours"
+      "text: 20956 page tokens = 18420 row tokens + 2536 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest46.shtml": {
@@ -20402,10 +20282,9 @@
     "excluded": false,
     "checks": [
       "titles: 1..8 match the contents; 555 fragments in order",
-      "text: 27587 page tokens = 25025 row tokens + 2562 markers",
+      "text: 27587 page tokens = 24147 row tokens + 3440 markers",
       "review: unusual inscriptions Dig. 46.8.26 '. . . . . . .'",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 88.8% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest47.shtml": {
@@ -20423,10 +20302,9 @@
     "excluded": false,
     "checks": [
       "titles: 1..23 match the contents; 723 fragments in order",
-      "text: 31406 page tokens = 27764 row tokens + 3642 markers",
+      "text: 31406 page tokens = 25870 row tokens + 5536 markers",
       "review: paragraph numbering jumps at 47.10.15.13",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 87.5% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest48.shtml": {
@@ -20437,21 +20315,18 @@
     "title": "OMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI DIGESTORUM SEU PANDECTARUM",
     "authorPage": "justinian.html",
     "workId": "thelatinlibrary-justinian-digesta",
-    "provenance": "statementFound",
+    "provenance": "noStatement",
     "provenanceClassification": "pre1930",
-    "provenanceStatements": [
-      "In metallum damnata mulier eum quem prius conceperat edidit, deinde a principe restituta est. humanius dicetur etiam cognationis iura huic restituta videri."
-    ],
+    "provenanceStatements": [],
     "statedEdition": "Mommsen-Krueger (Digesta Iustiniani Augusti, Berlin, 1870)",
     "excluded": false,
     "checks": [
       "patch: '<B>Dig. 48.1.0. De publicis iudiciis.</B>\n</P>\n\n<P>\n Macer' -> '<B>Dig. 48.1.0. De publicis iudiciis.</B>\n</P>\n\n<P>Dig. 48.1.1</P>\n\n<P>\n Macer' (citation of 48.1.1 missing before its inscription)",
       "titles: 1..24 match the contents; 877 fragments in order",
-      "text: 35118 page tokens = 30759 row tokens + 4359 markers",
+      "text: 35118 page tokens = 28519 row tokens + 6599 markers",
       "review: paragraph numbering jumps at 48.5.12.10",
       "review: unusual inscriptions Dig. 48.19.16pr. 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.1 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.2 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.3 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.4 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.5 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.6 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.7 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.8 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.9 'saturn. l.S. de poen. paganorum.'; Dig. 48.19.16.10 'saturn. l.S. de poen. paganorum.'",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 85.6% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest49.shtml": {
@@ -20469,10 +20344,9 @@
     "excluded": false,
     "checks": [
       "titles: 1..18 match the contents; 476 fragments in order",
-      "text: 21581 page tokens = 19140 row tokens + 2441 markers",
+      "text: 21581 page tokens = 17891 row tokens + 3690 markers",
       "review: paragraph numbering jumps at 49.16.4.7",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 87.3% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest5.shtml": {
@@ -20490,10 +20364,9 @@
     "excluded": false,
     "checks": [
       "titles: 1..6 match the contents; 392 fragments in order",
-      "text: 19294 page tokens = 17457 row tokens + 1837 markers",
+      "text: 19294 page tokens = 16654 row tokens + 2640 markers",
       "review: title 5.1 (rubrica line) missing from the book's contents",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 88.8% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest50.shtml": {
@@ -20512,9 +20385,8 @@
     "checks": [
       "patch: '<B>Dig. 50.1.0. Ad municipalem et de incolis.</B>\n</P>\n\n<P>\nUlpianus' -> '<B>Dig. 50.1.0. Ad municipalem et de incolis.</B>\n</P>\n\n<P>Dig. 50.1.1pr.</P>\n\n<P>\nUlpianus' (citation of 50.1.1pr missing before its inscription (50.1.1.1 follows))",
       "titles: 1..17 match the contents; 1103 fragments in order",
-      "text: 35763 page tokens = 30671 row tokens + 5092 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 82.0% of CLTK's in ours"
+      "text: 35763 page tokens = 28776 row tokens + 6987 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest6.shtml": {
@@ -20532,9 +20404,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..3 match the contents; 185 fragments in order",
-      "text: 8085 page tokens = 7221 row tokens + 864 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 87.2% of CLTK's in ours"
+      "text: 8085 page tokens = 6880 row tokens + 1205 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest7.shtml": {
@@ -20552,9 +20423,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..9 match the contents; 351 fragments in order",
-      "text: 17112 page tokens = 15408 row tokens + 1704 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 88.5% of CLTK's in ours"
+      "text: 17112 page tokens = 14721 row tokens + 2391 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest8.shtml": {
@@ -20572,10 +20442,9 @@
     "excluded": false,
     "checks": [
       "titles: 1..6 match the contents; 263 fragments in order",
-      "text: 13524 page tokens = 12303 row tokens + 1221 markers",
+      "text: 13524 page tokens = 11923 row tokens + 1601 markers",
       "review: title 8.1 missing from the book's contents",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 88.9% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/digest9.shtml": {
@@ -20593,9 +20462,8 @@
     "excluded": false,
     "checks": [
       "titles: 1..4 match the contents; 308 fragments in order",
-      "text: 15018 page tokens = 13541 row tokens + 1477 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 89.2% of CLTK's in ours"
+      "text: 15018 page tokens = 12763 row tokens + 2255 markers",
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "justinian/institutes.proem.shtml": {
@@ -29538,8 +29406,7 @@
     "checks": [
       "sections: theme + [1]..[17] in order",
       "text: 3468 page tokens = 3451 row tokens + 17 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.5% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.decl.mai10.shtml": {
@@ -29558,8 +29425,7 @@
     "checks": [
       "sections: theme + [1]..[19] in order",
       "text: 3794 page tokens = 3775 row tokens + 19 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.5% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.decl.mai11.shtml": {
@@ -29578,8 +29444,7 @@
     "checks": [
       "sections: theme + [1]..[11] in order",
       "text: 2321 page tokens = 2310 row tokens + 11 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.4% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.decl.mai12.shtml": {
@@ -29598,8 +29463,7 @@
     "checks": [
       "sections: theme + [1]..[28] in order",
       "text: 6066 page tokens = 6038 row tokens + 28 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.9% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.decl.mai13.shtml": {
@@ -29618,8 +29482,7 @@
     "checks": [
       "sections: theme + [1]..[19] in order",
       "text: 3819 page tokens = 3800 row tokens + 19 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.5% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.decl.mai14.shtml": {
@@ -29638,8 +29501,7 @@
     "checks": [
       "sections: theme + [1]..[12] in order",
       "text: 2166 page tokens = 2154 row tokens + 12 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.0% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.decl.mai15.shtml": {
@@ -29658,8 +29520,7 @@
     "checks": [
       "sections: theme + [1]..[14] in order",
       "text: 2617 page tokens = 2603 row tokens + 14 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.2% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.decl.mai16.shtml": {
@@ -29678,8 +29539,7 @@
     "checks": [
       "sections: theme + [1]..[11] in order",
       "text: 2144 page tokens = 2133 row tokens + 11 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.1% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.decl.mai17.shtml": {
@@ -29698,8 +29558,7 @@
     "checks": [
       "sections: theme + [1]..[20] in order",
       "text: 3832 page tokens = 3812 row tokens + 20 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.4% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.decl.mai18.shtml": {
@@ -29710,18 +29569,15 @@
     "title": "M. FABI QVINTILIANI DECLAMATIO MAIOR DVODEVICENSIMA",
     "authorPage": "quintilian.html",
     "workId": "thelatinlibrary-quintilian-declamationesmaiores",
-    "provenance": "statementFound",
+    "provenance": "noStatement",
     "provenanceClassification": "pre1930",
-    "provenanceStatements": [
-      "[3] Coniungat, quantum volet, nocentissimus senex cum rumore populi silentium suum, et relaturae ordinem tristissimae sortis conlata malignitate cludat ora, compescat auditus. securi tamen estote, mortales, fas est, fas est innocentissimae matri velut in templis, velut apud ipsos proclamare superos: 'amavi filium meum!' matrona, iudices, cuius puellares annos, primam rudemque coniugii mentem nulla libidinum respersit infamia, cui impudens rumor, suspicax maritus nihil umquam potuit obicere nisi filium, quae pudicitiae prima fiducia est, edidit partum, quem maritus agnosceret. non timuit, ne..."
-    ],
+    "provenanceStatements": [],
     "statedEdition": null,
     "excluded": false,
     "checks": [
       "sections: theme + [1]..[17] in order",
       "text: 3353 page tokens = 3336 row tokens + 17 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.5% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.decl.mai19.shtml": {
@@ -29740,8 +29596,7 @@
     "checks": [
       "sections: theme + [1]..[16] in order",
       "text: 3338 page tokens = 3322 row tokens + 16 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.6% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.decl.mai2.shtml": {
@@ -29760,8 +29615,7 @@
     "checks": [
       "sections: theme + [1]..[23] in order",
       "text: 4335 page tokens = 4312 row tokens + 23 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.5% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.decl.mai4.shtml": {
@@ -29780,8 +29634,7 @@
     "checks": [
       "sections: theme + [1]..[23] in order",
       "text: 4264 page tokens = 4241 row tokens + 23 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.4% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.decl.mai5.shtml": {
@@ -29800,8 +29653,7 @@
     "checks": [
       "sections: theme + [1]..[23] in order",
       "text: 4890 page tokens = 4867 row tokens + 23 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.8% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.decl.mai6.shtml": {
@@ -29820,8 +29672,7 @@
     "checks": [
       "sections: theme + [1]..[24] in order",
       "text: 4992 page tokens = 4968 row tokens + 24 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.7% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.decl.mai7.shtml": {
@@ -29840,8 +29691,7 @@
     "checks": [
       "sections: theme + [1]..[13] in order",
       "text: 2762 page tokens = 2749 row tokens + 13 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.5% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.decl.mai8.shtml": {
@@ -29860,8 +29710,7 @@
     "checks": [
       "sections: theme + [1]..[22] in order",
       "text: 4455 page tokens = 4433 row tokens + 22 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.6% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.decl.mai9.shtml": {
@@ -29872,18 +29721,15 @@
     "title": "M. FABI QVINTILIANI DECLAMATIO MAIOR NONA",
     "authorPage": "quintilian.html",
     "workId": "thelatinlibrary-quintilian-declamationesmaiores",
-    "provenance": "statementFound",
+    "provenance": "noStatement",
     "provenanceClassification": "pre1930",
-    "provenanceStatements": [
-      "His cogitationibus attonito et in mortem iam paene demerso inopinata subito amici mei species offulsit. obstupui totumque corpus percurrit frigidus pavor, neque aliter, quam si vana obiceretur oculis imago, mente captus steti. ubi primum lux rediit laxatumque est iter voci, 'quid tu,' inquam, 'quo casu pervenisti huc, miser? numquid et te vendidere piratae?' at ille complexus cervices meas, effusis in pectus meum lacrimis solutus, intercepto prope iam spiritu sero iam trepidante me primam vocem et diu solam edidit: 'satis vixi.' ut vero causas itineris reddidit et venisse se ad redimendum i..."
-    ],
+    "provenanceStatements": [],
     "statedEdition": null,
     "excluded": false,
     "checks": [
       "sections: theme + [1]..[23] in order",
       "text: 4713 page tokens = 4690 row tokens + 23 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 100.0% of our 5-grams in CLTK, 97.7% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "quintilian/quintilian.institutio1.shtml": {
@@ -30367,8 +30213,7 @@
     "checks": [
       "navigation: 35 targets match 35 anchors",
       "text: 2654 page tokens = 2615 row tokens + 39 markers",
-      "provenance: no edition, copyright or permission statement",
-      "cltk: 99.8% of our 5-grams in CLTK, 93.3% of CLTK's in ours"
+      "provenance: no edition, copyright or permission statement"
     ]
   },
   "resgestae1.html": {
