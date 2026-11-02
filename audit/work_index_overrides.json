@@ -1,0 +1,46 @@
+{
+  "auditPathAliases": {
+    "victor.origio.txt": "victor/victor.origio.html"
+  },
+  "extraAuditPages": [
+    { "llAuthor": "Aulus Gellius", "page": "gellius/gellius12.shtml" }
+  ],
+  "promotedWorkPages": {
+    "thelatinlibrary-augustus-resgestae": {
+      "pages": ["resgestae.html"],
+      "redundantOrAlternatePages": ["resgestae1.html"]
+    },
+    "thelatinlibrary-justin-epitoma": {
+      "removePages": ["justin/prologi.html"]
+    }
+  },
+  "unauditedWorks": {
+    "sidoniuscarmina.html": {
+      "author": "Sidonius Apollinaris",
+      "title": "Carmina",
+      "period": "late_antique",
+      "status": "in_library",
+      "libraryWorkIds": ["stoa0261.stoa001.perseus-lat1"]
+    },
+    "bernardclairvaux.shtml": {
+      "author": "Bernard of Clairvaux",
+      "title": "Opera (Selections)",
+      "period": "medieval"
+    },
+    "deexpugnatione.shtml": {
+      "author": "Anonymous (Crusade Chronicle)",
+      "title": "De Expugnatione Lyxbonensi",
+      "period": "medieval"
+    },
+    "exuperantius.shtml": {
+      "author": "Iulius Exuperantius",
+      "title": "Opusculum",
+      "period": "late_antique"
+    },
+    "festus.shtml": {
+      "author": "Sextus Pompeius Festus",
+      "title": "De Verborum Significatu (Epitome Pauli)",
+      "period": "classical"
+    }
+  }
+}

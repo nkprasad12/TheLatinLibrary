@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T00:23:05.575Z",
+  "generatedAt": "2026-11-01",
   "sourceCommit": "17365974541405e3c5fb9d6b620805e468c7579d",
   "works": [
     {
@@ -137,7 +137,7 @@
       "status": "excluded",
       "exclusionReason": "Latin edition and English translation Copyright © 1997, 2000 Gregory Wayne Ahlquist; This text copyright © 1980 Sharon Lynne Hiltz and copyright © 2000 Sharon Hiltz Romino",
       "statedEdition": null,
-      "wordCount": 76477
+      "wordCount": 76495
     },
     {
       "workId": "ll/albius-tibullus-elegiae",
@@ -282,8 +282,8 @@
       "libraryWorkIds": [
         "stoa0023.stoa001.perseus-lat2"
       ],
-      "statedEdition": "15. Duobus navium milibus perrupto Bosporo et litoribus Propontidis Scythicarum gentium catervae transgressae ediderunt quidem acerbas terra marique strages; sed amissa suorum parte maxima reverterunt.",
-      "wordCount": 130921
+      "statedEdition": null,
+      "wordCount": 127447
     },
     {
       "workId": "ll/andrea-navagero-lusus",
@@ -647,7 +647,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 3790
+      "wordCount": 3793
     },
     {
       "workId": "ll/anonymous-annales-regni-francorum",
@@ -863,7 +863,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 695
+      "wordCount": 697
     },
     {
       "workId": "ll/anonymous-various-hymni-et-cantica",
@@ -1167,7 +1167,6 @@
       "libraryWorkIds": [
         "phi1212.phi001.perseus-lat1"
       ],
-      "exclusionReason": "Pro se de magia (Apologia), edited with a commentary by Vincent Hunink, Amsterdam 1997",
       "statedEdition": null,
       "wordCount": 23366
     },
@@ -1332,7 +1331,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 12977
+      "wordCount": 12978
     },
     {
       "workId": "ll/augustine-saint-confessiones",
@@ -1720,7 +1719,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 67168
+      "wordCount": 67176
     },
     {
       "workId": "ll/bede-the-venerable-historia-ecclesiastica-gentis-anglorum",
@@ -1890,7 +1889,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 539357
+      "wordCount": 539481
     },
     {
       "workId": "ll/boethius-of-dacia-de-aeternitate-mundi-de-summo-bono",
@@ -2085,7 +2084,7 @@
         "phi0631.phi001.perseus-lat4"
       ],
       "statedEdition": null,
-      "wordCount": 11241
+      "wordCount": 11243
     },
     {
       "workId": "ll/c-sallustius-crispus-bellum-iugurthinum",
@@ -2101,7 +2100,7 @@
         "phi0631.phi002.perseus-lat4"
       ],
       "statedEdition": null,
-      "wordCount": 21489
+      "wordCount": 21491
     },
     {
       "workId": "ll/c-sallustius-crispus-historiae",
@@ -2132,7 +2131,7 @@
         "note": "Corrected word count from 14,284 to 10,111 unique words during verification: The Latin Library provides the 4 speeches and 2 letters from the Historiae both as 6 standalone files (sall.cotta.txt, sall.lep.txt, sall.macer.txt, sall.mithr.txt, sall.phil.txt, sall.pomp.txt; 4,173 words) AND embedded verbatim inside sall.frag.txt (10,111 words). Perseus phi0631.phi003.perseus-lat2 (4,061 words) contains ONLY the 4 speeches and 2 letters, omitting the ~6,000 words of numbered book fragments from Books I–V and Incerta present in sall.frag.txt."
       },
       "statedEdition": null,
-      "wordCount": 10871
+      "wordCount": 10873
     },
     {
       "workId": "ll/c-suetonius-tranquillus-de-grammaticis",
@@ -2290,7 +2289,7 @@
         "phi-json:lat1348.001"
       ],
       "statedEdition": null,
-      "wordCount": 74988
+      "wordCount": 71697
     },
     {
       "workId": "ll/c-valerius-catullus-carmina",
@@ -2977,7 +2976,7 @@
         "eugenius.html"
       ],
       "status": "candidate",
-      "statedEdition": "Quis denique Martia primus arcus volucresque sagittas ignivit et edidit iras, mortes stabilivit amaras?",
+      "statedEdition": null,
       "wordCount": 92
     },
     {
@@ -3111,7 +3110,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 25906
+      "wordCount": 25918
     },
     {
       "workId": "ll/francis-bacon-historia-regni-henrici-septimi-regis-angliae",
@@ -3330,7 +3329,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 14098
+      "wordCount": 14099
     },
     {
       "workId": "ll/giovanni-cotta-carmina",
@@ -3371,7 +3370,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 5657
+      "wordCount": 5804
     },
     {
       "workId": "ll/giovanni-pico-della-mirandola-oratio-de-hominis-dignitate-carmina-latina-ix",
@@ -3481,7 +3480,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 4461
+      "wordCount": 4406
     },
     {
       "workId": "ll/heinrich-bebel-liber-facetiarum",
@@ -3599,7 +3598,7 @@
         "hydatiuschronicon.html"
       ],
       "status": "candidate",
-      "statedEdition": "Quo vero tempore sancti Joannes, Hieronymus et alii quos supra diximus, obierint, vel quis Joanni ante Juvenalem successerit, sicut et fecisse cognitum est in brevi seniorem quemdam, referentum sermo non edidit.",
+      "statedEdition": null,
       "wordCount": 5399
     },
     {
@@ -3731,7 +3730,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 178634
+      "wordCount": 177475
     },
     {
       "workId": "ll/isidore-of-seville-historia-de-regibus-gothorum-wandalorum-et-suevorum",
@@ -3818,7 +3817,7 @@
         "justinian/codex12.shtml"
       ],
       "status": "candidate",
-      "statedEdition": "Arbitri nulla sententia est, quam scriptam edidit litigatoribus, non ipse recitavit. si igitur nihil fallis, omissa provocationis mora ex integro iudicari impetrabis a rectore provinciae. * valer. et gallien. aa. quinto. * <>",
+      "statedEdition": null,
       "wordCount": 447877
     },
     {
@@ -4150,7 +4149,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 5129
+      "wordCount": 5199
     },
     {
       "workId": "ll/joseph-justus-scaliger-in-leydam-et-academiam",
@@ -4402,7 +4401,7 @@
         "phi1017.phi015.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 121722
+      "wordCount": 121739
     },
     {
       "workId": "ll/l-annaeus-seneca-apocolocyntosis-divi-claudii",
@@ -4418,7 +4417,7 @@
         "phi1017.phi011.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 3051
+      "wordCount": 3052
     },
     {
       "workId": "ll/l-annaeus-seneca-de-beneficiis",
@@ -4443,7 +4442,7 @@
         "note": "Vice-versa partial: The Latin Library contains only Books I-III (3 files, 16,980 words), missing Books IV-VII. Perseus (phi1017.phi013.perseus-lat2, Hosius Teubner edition, 45,260 words) contains all 7 books (Books I-VII) complete."
       },
       "statedEdition": null,
-      "wordCount": 17147
+      "wordCount": 17150
     },
     {
       "workId": "ll/l-annaeus-seneca-de-brevitate-vitae",
@@ -4459,7 +4458,7 @@
         "stoa0255.stoa004.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 6297
+      "wordCount": 6298
     },
     {
       "workId": "ll/l-annaeus-seneca-de-clementia",
@@ -4475,7 +4474,7 @@
         "phi1017.phi014.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 8378
+      "wordCount": 8379
     },
     {
       "workId": "ll/l-annaeus-seneca-de-consolatione-ad-helviam-matrem",
@@ -4491,7 +4490,7 @@
         "stoa0255.stoa006.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 6904
+      "wordCount": 6905
     },
     {
       "workId": "ll/l-annaeus-seneca-de-consolatione-ad-marciam",
@@ -4507,7 +4506,7 @@
         "stoa0255.stoa007.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 8449
+      "wordCount": 8450
     },
     {
       "workId": "ll/l-annaeus-seneca-de-consolatione-ad-polybium",
@@ -4523,7 +4522,7 @@
         "stoa0255.stoa008.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 5684
+      "wordCount": 5685
     },
     {
       "workId": "ll/l-annaeus-seneca-de-constantia-sapientis",
@@ -4539,7 +4538,7 @@
         "stoa0255.stoa009.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 5398
+      "wordCount": 5399
     },
     {
       "workId": "ll/l-annaeus-seneca-de-ira",
@@ -4557,7 +4556,7 @@
         "stoa0255.stoa010.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 23022
+      "wordCount": 23025
     },
     {
       "workId": "ll/l-annaeus-seneca-de-otio",
@@ -4573,7 +4572,7 @@
         "stoa0255.stoa011.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 2011
+      "wordCount": 2012
     },
     {
       "workId": "ll/l-annaeus-seneca-de-providentia",
@@ -4589,7 +4588,7 @@
         "stoa0255.stoa012.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 4178
+      "wordCount": 4179
     },
     {
       "workId": "ll/l-annaeus-seneca-de-tranquillitate-animi",
@@ -4605,7 +4604,7 @@
         "stoa0255.stoa013.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 7661
+      "wordCount": 7662
     },
     {
       "workId": "ll/l-annaeus-seneca-de-vita-beata",
@@ -4621,7 +4620,7 @@
         "stoa0255.stoa014.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 7427
+      "wordCount": 7428
     },
     {
       "workId": "ll/l-annaeus-seneca-quaestiones-naturales",
@@ -4643,7 +4642,7 @@
         "phi-json:lat1017.016"
       ],
       "statedEdition": null,
-      "wordCount": 49335
+      "wordCount": 49342
     },
     {
       "workId": "ll/l-annaeus-seneca-maior-controversiae",
@@ -4908,7 +4907,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 28772
+      "wordCount": 28773
     },
     {
       "workId": "ll/lupus-protospatharius-barensis-rerum-in-regno-neapolitano-gestarum-breve-chronicon",
@@ -4959,7 +4958,7 @@
         "phi1002.phi001.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 171379
+      "wordCount": 171006
     },
     {
       "workId": "ll/m-porcius-cato-de-agri-cultura",
@@ -5114,7 +5113,7 @@
         "phi0474.phi053.perseus-lat4"
       ],
       "statedEdition": null,
-      "wordCount": 32049
+      "wordCount": 28227
     },
     {
       "workId": "ll/m-tullius-cicero-de-domo-sua-ad-pontifices-oratio",
@@ -5416,7 +5415,7 @@
         "phi0474.phi056.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 123199
+      "wordCount": 122604
     },
     {
       "workId": "ll/m-tullius-cicero-epistulae-ad-m-brutum",
@@ -5449,7 +5448,7 @@
         "phi0474.phi058.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 19406
+      "wordCount": 19054
     },
     {
       "workId": "ll/m-tullius-cicero-in-c-verrem",
@@ -6166,7 +6165,7 @@
       ],
       "status": "candidate",
       "statedEdition": "PLATO: CLITOPHON Ex recensione I. Bekkeri, Platonis dialogi graece et latine, Vol. 1,3, Berolini, 1817",
-      "wordCount": 27036
+      "wordCount": 27041
     },
     {
       "workId": "ll/martial-epigrammata",
@@ -6403,7 +6402,7 @@
         "gwinne5.4.html"
       ],
       "status": "candidate",
-      "statedEdition": "EPAPH. haec in te probra, Vindex rebellis edidit, Caesar.",
+      "statedEdition": null,
       "wordCount": 36692
     },
     {
@@ -7139,7 +7138,7 @@
         "hypotactic:vergil.json:Vergil"
       ],
       "statedEdition": null,
-      "wordCount": 5991
+      "wordCount": 6001
     },
     {
       "workId": "ll/p-vergilius-maro-georgics",
@@ -7590,7 +7589,7 @@
         "gravissimas.html"
       ],
       "status": "candidate",
-      "statedEdition": "3. Atque illud quidem felicis recordationis Pius V, praedecessor noster, absolvendum curavit atque edidit.",
+      "statedEdition": null,
       "wordCount": 1785
     },
     {
@@ -7644,7 +7643,7 @@
       "status": "excluded",
       "exclusionReason": "1998 Pope John Paul II encyclical Fides et Ratio (post-1930)",
       "statedEdition": null,
-      "wordCount": 28203
+      "wordCount": 28231
     },
     {
       "workId": "ll/pope-john-xxii-bulla-quum-inter-nonnullos",
@@ -7897,7 +7896,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 3999
+      "wordCount": 4003
     },
     {
       "workId": "ll/pseudo-sallust-invectiva-in-m-tullium-ciceronem",
@@ -7910,7 +7909,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 742
+      "wordCount": 744
     },
     {
       "workId": "ll/pseudo-seneca-liber-de-moribus",
@@ -7923,7 +7922,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 1597
+      "wordCount": 1598
     },
     {
       "workId": "ll/pseudo-tertullian-adversus-omnes-haereses",
@@ -7936,7 +7935,7 @@
       ],
       "status": "candidate",
       "statedEdition": "F. Oehler (1851)",
-      "wordCount": 2625
+      "wordCount": 2626
     },
     {
       "workId": "ll/pseudo-tertullian-carmen-de-iudicio-domini",
@@ -7949,7 +7948,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 2468
+      "wordCount": 2469
     },
     {
       "workId": "ll/pseudo-tertullian-de-execrandis-gentium-diis",
@@ -7962,7 +7961,7 @@
       ],
       "status": "candidate",
       "statedEdition": "F. Oehler (1851)",
-      "wordCount": 723
+      "wordCount": 724
     },
     {
       "workId": "ll/pseudo-tertullian-carmen-de-genesi",
@@ -7975,7 +7974,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 1029
+      "wordCount": 1030
     },
     {
       "workId": "ll/pseudo-tertullian-carmen-de-iona-propheta",
@@ -7988,7 +7987,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 698
+      "wordCount": 699
     },
     {
       "workId": "ll/pseudo-tertullian-carmen-ad-senatorem-ex-christiana-religione-ad-idolorum-servitutem-conversum",
@@ -8001,7 +8000,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 593
+      "wordCount": 594
     },
     {
       "workId": "ll/publilius-optatianus-porfyrius-carmina",
@@ -8312,7 +8311,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 14936
+      "wordCount": 14937
     },
     {
       "workId": "ll/richer-of-reims-historiarum-libri-quattuor",
@@ -8925,9 +8924,8 @@
         "phi1017.phi009.perseus-lat2",
         "hypotactic:seneca.json:Seneca"
       ],
-      "exclusionReason": "Post-1930 publication/edition year (1930) detected",
       "statedEdition": null,
-      "wordCount": 11723
+      "wordCount": 11724
     },
     {
       "workId": "ll/seneca-octavia",
@@ -8944,7 +8942,7 @@
         "hypotactic:seneca.json:Seneca"
       ],
       "statedEdition": null,
-      "wordCount": 5467
+      "wordCount": 5468
     },
     {
       "workId": "ll/seneca-agamemnon",
@@ -8961,7 +8959,7 @@
         "hypotactic:seneca.json:Seneca"
       ],
       "statedEdition": null,
-      "wordCount": 5784
+      "wordCount": 5785
     },
     {
       "workId": "ll/seneca-medea",
@@ -8978,7 +8976,7 @@
         "hypotactic:seneca.json:Seneca"
       ],
       "statedEdition": null,
-      "wordCount": 5900
+      "wordCount": 5901
     },
     {
       "workId": "ll/seneca-oedipus",
@@ -8995,7 +8993,7 @@
         "hypotactic:seneca.json:Seneca"
       ],
       "statedEdition": null,
-      "wordCount": 6156
+      "wordCount": 6157
     },
     {
       "workId": "ll/seneca-phaedra",
@@ -9012,7 +9010,7 @@
         "hypotactic:seneca.json:Seneca"
       ],
       "statedEdition": null,
-      "wordCount": 7463
+      "wordCount": 7464
     },
     {
       "workId": "ll/seneca-phoenissae",
@@ -9029,7 +9027,7 @@
         "hypotactic:seneca.json:Seneca"
       ],
       "statedEdition": null,
-      "wordCount": 4267
+      "wordCount": 4268
     },
     {
       "workId": "ll/seneca-thyestes",
@@ -9046,7 +9044,7 @@
         "hypotactic:seneca.json:Seneca"
       ],
       "statedEdition": null,
-      "wordCount": 6433
+      "wordCount": 6434
     },
     {
       "workId": "ll/serapion-macarius-paphnutius-and-macarius-ii-regula-patrum-ad-monachos",
@@ -9200,7 +9198,7 @@
       "libraryWorkIds": [
         "stoa0261.stoa001.perseus-lat1"
       ],
-      "statedEdition": null,
+      "statedEdition": "Recensuit et emendavit Christianus Luetjohann Berolini MDCCCLXXXVII",
       "wordCount": 23360
     },
     {
@@ -9239,7 +9237,7 @@
         "sigebert.vitabrevior.html"
       ],
       "status": "candidate",
-      "statedEdition": "CAP. XXXVIII. Arator, subdiaconus Romanae Ecclesiae, edidit heroico carmine Actus apostolorum, et Vigilio papae Romano obtulit",
+      "statedEdition": null,
       "wordCount": 10082
     },
     {
@@ -9285,7 +9283,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 27461
+      "wordCount": 27462
     },
     {
       "workId": "ll/st-anselm-of-canterbury-proslogion-epistula-ad-urbanum-papam",
@@ -9785,7 +9783,7 @@
         "stoa0275.stoa001.opp-lat1"
       ],
       "statedEdition": null,
-      "wordCount": 1547
+      "wordCount": 1548
     },
     {
       "workId": "ll/tertullian-ad-nationes",
@@ -9802,7 +9800,7 @@
         "stoa0275.stoa002.opp-lat1"
       ],
       "statedEdition": null,
-      "wordCount": 15425
+      "wordCount": 15427
     },
     {
       "workId": "ll/tertullian-ad-scapulam",
@@ -9817,9 +9815,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa003.opp-lat1"
       ],
-      "exclusionReason": "Edited by Dom. E. Dekkers, 1954",
       "statedEdition": null,
-      "wordCount": 1582
+      "wordCount": 1583
     },
     {
       "workId": "ll/tertullian-ad-uxorem",
@@ -9836,7 +9833,7 @@
         "stoa0276.stoa002.opp-lat1"
       ],
       "statedEdition": null,
-      "wordCount": 4281
+      "wordCount": 4283
     },
     {
       "workId": "ll/tertullian-adversus-hermogenem",
@@ -9851,9 +9848,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa004.opp-lat1"
       ],
-      "exclusionReason": "Text edited by J.H. Waszink, 1956",
       "statedEdition": null,
-      "wordCount": 11547
+      "wordCount": 11548
     },
     {
       "workId": "ll/tertullian-adversus-iudaeos",
@@ -9868,9 +9864,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa005.opp-lat1"
       ],
-      "exclusionReason": "Edited by H. Tränkle, 1964",
       "statedEdition": null,
-      "wordCount": 11442
+      "wordCount": 11443
     },
     {
       "workId": "ll/tertullian-adversus-marcionem",
@@ -9889,9 +9884,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa006.opp-lat1"
       ],
-      "exclusionReason": "Edited by Ernest Evans, 1972. Transcribed by Roger Pearse, 2002",
       "statedEdition": null,
-      "wordCount": 84178
+      "wordCount": 84183
     },
     {
       "workId": "ll/tertullian-adversus-praxean",
@@ -9907,7 +9901,7 @@
         "stoa0275.stoa007.opp-lat1"
       ],
       "statedEdition": null,
-      "wordCount": 14681
+      "wordCount": 14682
     },
     {
       "workId": "ll/tertullian-adversus-valentinianos",
@@ -9923,7 +9917,7 @@
         "stoa0275.stoa008.opp-lat1"
       ],
       "statedEdition": null,
-      "wordCount": 6553
+      "wordCount": 6554
     },
     {
       "workId": "ll/tertullian-apologeticum",
@@ -9939,7 +9933,7 @@
         "stoa0275.stoa009.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 20676
+      "wordCount": 20677
     },
     {
       "workId": "ll/tertullian-de-anima",
@@ -9954,9 +9948,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa010.opp-lat1"
       ],
-      "exclusionReason": "Text edited by J.H. Waszink (1947 / CCSL 1954)",
       "statedEdition": null,
-      "wordCount": 24449
+      "wordCount": 24450
     },
     {
       "workId": "ll/tertullian-de-baptismo",
@@ -9972,7 +9965,7 @@
         "stoa0275.stoa011.opp-lat1"
       ],
       "statedEdition": null,
-      "wordCount": 4451
+      "wordCount": 4452
     },
     {
       "workId": "ll/tertullian-de-carne-christi",
@@ -9987,9 +9980,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa012.opp-lat1"
       ],
-      "exclusionReason": "Text edited by Ernest Evans (1956). Transcribed by Roger Pearse (2002)",
       "statedEdition": null,
-      "wordCount": 9782
+      "wordCount": 9783
     },
     {
       "workId": "ll/tertullian-de-corona-militis",
@@ -10004,9 +9996,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa013.opp-lat1"
       ],
-      "exclusionReason": "Latin text from Jacques Fontaine's version for Presses Universitaires de France (1966)",
       "statedEdition": null,
-      "wordCount": 5016
+      "wordCount": 5017
     },
     {
       "workId": "ll/tertullian-de-cultu-feminarum",
@@ -10022,9 +10013,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa014.opp-lat1"
       ],
-      "exclusionReason": "Text edited by Marie Turcan (1971)",
       "statedEdition": null,
-      "wordCount": 5302
+      "wordCount": 5304
     },
     {
       "workId": "ll/tertullian-de-exhortatione-castitatis",
@@ -10039,9 +10029,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa015.opp-lat1"
       ],
-      "exclusionReason": "Text edited by Claudio Moreschini, SC319, Paris: Cerf, 1985",
       "statedEdition": null,
-      "wordCount": 4020
+      "wordCount": 4021
     },
     {
       "workId": "ll/tertullian-de-fuga-in-persecutione",
@@ -10056,9 +10045,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa016.opp-lat1"
       ],
-      "exclusionReason": "Text edited by V. Bulhart (1957)",
       "statedEdition": null,
-      "wordCount": 5479
+      "wordCount": 5480
     },
     {
       "workId": "ll/tertullian-de-idololatria",
@@ -10074,7 +10062,7 @@
         "stoa0275.stoa017.opp-lat1"
       ],
       "statedEdition": "A. Reifferscheid & G. Wissowa (CSEL 20, 1890)",
-      "wordCount": 7095
+      "wordCount": 7096
     },
     {
       "workId": "ll/tertullian-de-ieiunio-adversus-psychicos",
@@ -10090,7 +10078,7 @@
         "stoa0275.stoa018.opp-lat1"
       ],
       "statedEdition": null,
-      "wordCount": 6090
+      "wordCount": 6091
     },
     {
       "workId": "ll/tertullian-de-monogamia",
@@ -10105,9 +10093,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa019.opp-lat1"
       ],
-      "exclusionReason": "Scanned by Roger Pearse, Ipswich, 2003 (companion scans are CCSL 1954 texts)",
       "statedEdition": null,
-      "wordCount": 7190
+      "wordCount": 7191
     },
     {
       "workId": "ll/tertullian-de-oratione",
@@ -10122,9 +10109,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa020.opp-lat1"
       ],
-      "exclusionReason": "Edited by Dom. E. Dekkers, 1954",
       "statedEdition": null,
-      "wordCount": 4685
+      "wordCount": 4686
     },
     {
       "workId": "ll/tertullian-de-paenitentia",
@@ -10139,9 +10125,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa021.opp-lat1"
       ],
-      "exclusionReason": "Text edited J.G.Ph. Borleffs, 1957",
       "statedEdition": null,
-      "wordCount": 4259
+      "wordCount": 4260
     },
     {
       "workId": "ll/tertullian-de-pallio",
@@ -10156,9 +10141,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa022.opp-lat1"
       ],
-      "exclusionReason": "Text edited by A. Gerlo, 1954",
       "statedEdition": null,
-      "wordCount": 3511
+      "wordCount": 3512
     },
     {
       "workId": "ll/tertullian-de-patientia",
@@ -10173,9 +10157,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa023.opp-lat1"
       ],
-      "exclusionReason": "Text edited by Jean-Claude Fredouille (SC 310, 1984)",
       "statedEdition": null,
-      "wordCount": 4710
+      "wordCount": 4711
     },
     {
       "workId": "ll/tertullian-de-praescriptione-haereticorum",
@@ -10190,9 +10173,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa024.opp-lat1"
       ],
-      "exclusionReason": "Edited by R.F. Refoulé, Sources Chrétiennes, 1957",
       "statedEdition": null,
-      "wordCount": 8720
+      "wordCount": 8721
     },
     {
       "workId": "ll/tertullian-de-pudicitia",
@@ -10207,9 +10189,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa025.opp-lat1"
       ],
-      "exclusionReason": "Text edited by Charles Munier (1993)",
       "statedEdition": null,
-      "wordCount": 13883
+      "wordCount": 13884
     },
     {
       "workId": "ll/tertullian-de-resurrectione-carnis",
@@ -10224,9 +10205,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa026.opp-lat1"
       ],
-      "exclusionReason": "Scanned by Roger Pearse, Ipswich, 2003 (companion scans are CCSL 1954 texts)",
       "statedEdition": null,
-      "wordCount": 23395
+      "wordCount": 23396
     },
     {
       "workId": "ll/tertullian-de-spectaculis",
@@ -10242,7 +10222,7 @@
         "stoa0275.stoa027.perseus-lat2"
       ],
       "statedEdition": null,
-      "wordCount": 6567
+      "wordCount": 6568
     },
     {
       "workId": "ll/tertullian-de-testimonio-animae",
@@ -10258,7 +10238,7 @@
         "stoa0275.stoa028.opp-lat1"
       ],
       "statedEdition": null,
-      "wordCount": 2259
+      "wordCount": 2260
     },
     {
       "workId": "ll/tertullian-de-virginibus-velandis",
@@ -10273,9 +10253,8 @@
       "libraryWorkIds": [
         "stoa0275.stoa029.opp-lat1"
       ],
-      "exclusionReason": "Text and apparatus edited by V. Bulhart, 1957",
       "statedEdition": null,
-      "wordCount": 5796
+      "wordCount": 5797
     },
     {
       "workId": "ll/tertullian-scorpiace",
@@ -10291,7 +10270,7 @@
         "stoa0275.stoa030.opp-lat1"
       ],
       "statedEdition": "A. Reifferscheid & G. Wissowa (CSEL 20, 1890)",
-      "wordCount": 8173
+      "wordCount": 8174
     },
     {
       "workId": "ll/the-archpoet-carmina-x",
@@ -10423,7 +10402,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 297
+      "wordCount": 298
     },
     {
       "workId": "ll/thomas-aquinas-expositio-in-orationem-dominicam",
@@ -10530,7 +10509,7 @@
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 247473
+      "wordCount": 247478
     },
     {
       "workId": "ll/thomas-campion-poemata-latina",
@@ -10800,7 +10779,7 @@
       "libraryWorkIds": [
         "phi0914.phi001.perseus-lat2"
       ],
-      "statedEdition": "Decimus Iunius Brutus munus gladiatorium in honorem defuncti patris primus edidit.",
+      "statedEdition": null,
       "wordCount": 22583
     },
     {
@@ -10824,7 +10803,7 @@
       "libraryWorkIds": [
         "phi1038.phi001.perseus-lat1"
       ],
-      "statedEdition": "3.8.ext.3 Socratis autem uirilitatis robore uallatus animus aliquanto praefractius perseuerantiae exemplum edidit.",
+      "statedEdition": null,
       "wordCount": 83606
     },
     {
@@ -11001,7 +10980,7 @@
       "workId": "ll/withof7-johann-philipp-lorenz-withof-de-scientarium-in-animi-corporique-enervando-robore-damnosa-efficacia",
       "author": "withof7",
       "title": "JOHANN PHILIPP LORENZ WITHOF DE SCIENTARIUM, IN ANIMI CORPORIQUE ENERVANDO ROBORE, DAMNOSA EFFICACIA",
-      "period": "classical",
+      "period": "neolatin",
       "pages": [
         "withof7.html"
       ],

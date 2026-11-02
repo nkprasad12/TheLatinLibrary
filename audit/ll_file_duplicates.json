@@ -1,0 +1,764 @@
+[
+ {
+  "smaller": "solinus1a.txt",
+  "larger": "solinus5.txt",
+  "containment_of_smaller": 0.946,
+  "smaller_tokens": 9805,
+  "larger_tokens": 32781,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ],
+  "larger_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ]
+ },
+ {
+  "smaller": "solinus4a.txt",
+  "larger": "solinus5.txt",
+  "containment_of_smaller": 0.967,
+  "smaller_tokens": 8400,
+  "larger_tokens": 32781,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ],
+  "larger_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ]
+ },
+ {
+  "smaller": "solinus3a.txt",
+  "larger": "solinus5.txt",
+  "containment_of_smaller": 0.963,
+  "smaller_tokens": 8124,
+  "larger_tokens": 32781,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ],
+  "larger_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ]
+ },
+ {
+  "smaller": "solinus2a.txt",
+  "larger": "solinus5.txt",
+  "containment_of_smaller": 0.962,
+  "smaller_tokens": 6528,
+  "larger_tokens": 32781,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ],
+  "larger_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ]
+ },
+ {
+  "smaller": "lucan/lucan7.txt",
+  "larger": "lucan/lucan8.txt",
+  "containment_of_smaller": 1.0,
+  "smaller_tokens": 5594,
+  "larger_tokens": 5594,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Bellum Civile (Pharsalia, Books I–VII, IX–X; Book VIII text missing due to file corruption)"
+  ],
+  "larger_entry": [
+   "Bellum Civile (Pharsalia, Books I–VII, IX–X; Book VIII text missing due to file corruption)"
+  ]
+ },
+ {
+  "smaller": "marcellinus1.txt",
+  "larger": "marcellinus2.txt",
+  "containment_of_smaller": 0.528,
+  "smaller_tokens": 9331,
+  "larger_tokens": 10250,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Chronicon"
+  ],
+  "larger_entry": [
+   "Chronicon"
+  ]
+ },
+ {
+  "smaller": "solinus1.txt",
+  "larger": "solinus1a.txt",
+  "containment_of_smaller": 0.511,
+  "smaller_tokens": 8495,
+  "larger_tokens": 9805,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ],
+  "larger_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ]
+ },
+ {
+  "smaller": "solinus1.txt",
+  "larger": "solinus5.txt",
+  "containment_of_smaller": 0.5,
+  "smaller_tokens": 8495,
+  "larger_tokens": 32781,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ],
+  "larger_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ]
+ },
+ {
+  "smaller": "apuleius/apuleius5.txt",
+  "larger": "apuleius/apuleius.cupid.txt",
+  "containment_of_smaller": 0.917,
+  "smaller_tokens": 4609,
+  "larger_tokens": 8957,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Metamorphoses (including standalone Cupid and Psyche extract)"
+  ],
+  "larger_entry": [
+   "Metamorphoses (including standalone Cupid and Psyche extract)"
+  ]
+ },
+ {
+  "smaller": "solinus2.txt",
+  "larger": "solinus5.txt",
+  "containment_of_smaller": 0.45,
+  "smaller_tokens": 9258,
+  "larger_tokens": 32781,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ],
+  "larger_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ]
+ },
+ {
+  "smaller": "solinus3.txt",
+  "larger": "solinus5.txt",
+  "containment_of_smaller": 0.454,
+  "smaller_tokens": 9019,
+  "larger_tokens": 32781,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ],
+  "larger_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ]
+ },
+ {
+  "smaller": "solinus3a.txt",
+  "larger": "solinus3.txt",
+  "containment_of_smaller": 0.443,
+  "smaller_tokens": 8124,
+  "larger_tokens": 9019,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ],
+  "larger_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ]
+ },
+ {
+  "smaller": "solinus4.txt",
+  "larger": "solinus4a.txt",
+  "containment_of_smaller": 0.426,
+  "smaller_tokens": 7906,
+  "larger_tokens": 8400,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ],
+  "larger_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ]
+ },
+ {
+  "smaller": "solinus4.txt",
+  "larger": "solinus5.txt",
+  "containment_of_smaller": 0.425,
+  "smaller_tokens": 7906,
+  "larger_tokens": 32781,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ],
+  "larger_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ]
+ },
+ {
+  "smaller": "solinus2a.txt",
+  "larger": "solinus2.txt",
+  "containment_of_smaller": 0.499,
+  "smaller_tokens": 6528,
+  "larger_tokens": 9258,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ],
+  "larger_entry": [
+   "Collectanea Rerum Memorabilium (De Mirabilibus Mundi)"
+  ]
+ },
+ {
+  "smaller": "dares.txt",
+  "larger": "dares1.txt",
+  "containment_of_smaller": 0.426,
+  "smaller_tokens": 7615,
+  "larger_tokens": 7779,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "De Excidio Troiae Historia"
+  ],
+  "larger_entry": [
+   "De Excidio Troiae Historia"
+  ]
+ },
+ {
+  "smaller": "apuleius/apuleius6.txt",
+  "larger": "apuleius/apuleius.cupid.txt",
+  "containment_of_smaller": 0.66,
+  "smaller_tokens": 4515,
+  "larger_tokens": 8957,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Metamorphoses (including standalone Cupid and Psyche extract)"
+  ],
+  "larger_entry": [
+   "Metamorphoses (including standalone Cupid and Psyche extract)"
+  ]
+ },
+ {
+  "smaller": "appverg.aetna.txt",
+  "larger": "appvergcomp.txt",
+  "containment_of_smaller": 0.639,
+  "smaller_tokens": 4191,
+  "larger_tokens": 16017,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Aetna"
+  ],
+  "larger_entry": [
+   "Aetna",
+   "De Rosis Nascentibus",
+   "Catalepton (incl. Priapeum 'Quid hoc novi est?')",
+   "Ciris",
+   "Elegiae in Maecenatem",
+   "Priapea (I-III)",
+   "Copa",
+   "Culex",
+   "De Est et Non",
+   "De Institutione Viri Boni",
+   "Dirae",
+   "Lydia",
+   "Moretum"
+  ]
+ },
+ {
+  "smaller": "appverg.ciris.txt",
+  "larger": "appvergcomp.txt",
+  "containment_of_smaller": 0.734,
+  "smaller_tokens": 3479,
+  "larger_tokens": 16017,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Ciris"
+  ],
+  "larger_entry": [
+   "Aetna",
+   "De Rosis Nascentibus",
+   "Catalepton (incl. Priapeum 'Quid hoc novi est?')",
+   "Ciris",
+   "Elegiae in Maecenatem",
+   "Priapea (I-III)",
+   "Copa",
+   "Culex",
+   "De Est et Non",
+   "De Institutione Viri Boni",
+   "Dirae",
+   "Lydia",
+   "Moretum"
+  ]
+ },
+ {
+  "smaller": "appvergculex.txt",
+  "larger": "appvergcomp.txt",
+  "containment_of_smaller": 0.78,
+  "smaller_tokens": 2617,
+  "larger_tokens": 16017,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Culex"
+  ],
+  "larger_entry": [
+   "Aetna",
+   "De Rosis Nascentibus",
+   "Catalepton (incl. Priapeum 'Quid hoc novi est?')",
+   "Ciris",
+   "Elegiae in Maecenatem",
+   "Priapea (I-III)",
+   "Copa",
+   "Culex",
+   "De Est et Non",
+   "De Institutione Viri Boni",
+   "Dirae",
+   "Lydia",
+   "Moretum"
+  ]
+ },
+ {
+  "smaller": "ambrose/epist.txt",
+  "larger": "ambrose/epistvaria.txt",
+  "containment_of_smaller": 0.857,
+  "smaller_tokens": 2086,
+  "larger_tokens": 28685,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Epistulae Variae (16 Selected Letters: Epp. 1, 2, 10–14, 17–18, 20–21, 24, 40, 51, 61–62)"
+  ],
+  "larger_entry": [
+   "Epistulae Variae (16 Selected Letters: Epp. 1, 2, 10–14, 17–18, 20–21, 24, 40, 51, 61–62)"
+  ]
+ },
+ {
+  "smaller": "eutropius/eutropius7.txt",
+  "larger": "pauldeacon/histrom7.txt",
+  "containment_of_smaller": 0.698,
+  "smaller_tokens": 2250,
+  "larger_tokens": 2911,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Breviarium ab Urbe Condita (Books I-X)"
+  ],
+  "larger_entry": [
+   "Historia Romana (Books I-XVI)"
+  ]
+ },
+ {
+  "smaller": "eutropius/eutropius9.txt",
+  "larger": "pauldeacon/histrom9.txt",
+  "containment_of_smaller": 0.687,
+  "smaller_tokens": 2083,
+  "larger_tokens": 2342,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Breviarium ab Urbe Condita (Books I-X)"
+  ],
+  "larger_entry": [
+   "Historia Romana (Books I-XVI)"
+  ]
+ },
+ {
+  "smaller": "eutropius/eutropius2.txt",
+  "larger": "pauldeacon/histrom2.txt",
+  "containment_of_smaller": 0.636,
+  "smaller_tokens": 2187,
+  "larger_tokens": 2835,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Breviarium ab Urbe Condita (Books I-X)"
+  ],
+  "larger_entry": [
+   "Historia Romana (Books I-XVI)"
+  ]
+ },
+ {
+  "smaller": "pauldeacon/histrom8.txt",
+  "larger": "eutropius/eutropius8.txt",
+  "containment_of_smaller": 0.733,
+  "smaller_tokens": 1868,
+  "larger_tokens": 1874,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Historia Romana (Books I-XVI)"
+  ],
+  "larger_entry": [
+   "Breviarium ab Urbe Condita (Books I-X)"
+  ]
+ },
+ {
+  "smaller": "eutropius/eutropius10.txt",
+  "larger": "pauldeacon/histrom10.txt",
+  "containment_of_smaller": 0.721,
+  "smaller_tokens": 1782,
+  "larger_tokens": 1883,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Breviarium ab Urbe Condita (Books I-X)"
+  ],
+  "larger_entry": [
+   "Historia Romana (Books I-XVI)"
+  ]
+ },
+ {
+  "smaller": "eutropius/eutropius6.txt",
+  "larger": "pauldeacon/histrom6.txt",
+  "containment_of_smaller": 0.586,
+  "smaller_tokens": 2108,
+  "larger_tokens": 2791,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Breviarium ab Urbe Condita (Books I-X)"
+  ],
+  "larger_entry": [
+   "Historia Romana (Books I-XVI)"
+  ]
+ },
+ {
+  "smaller": "appverg.catalepton.txt",
+  "larger": "appvergcomp.txt",
+  "containment_of_smaller": 0.794,
+  "smaller_tokens": 1288,
+  "larger_tokens": 16017,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Catalepton (incl. Priapeum 'Quid hoc novi est?')"
+  ],
+  "larger_entry": [
+   "Aetna",
+   "De Rosis Nascentibus",
+   "Catalepton (incl. Priapeum 'Quid hoc novi est?')",
+   "Ciris",
+   "Elegiae in Maecenatem",
+   "Priapea (I-III)",
+   "Copa",
+   "Culex",
+   "De Est et Non",
+   "De Institutione Viri Boni",
+   "Dirae",
+   "Lydia",
+   "Moretum"
+  ]
+ },
+ {
+  "smaller": "eutropius/eutropius4.txt",
+  "larger": "pauldeacon/histrom4.txt",
+  "containment_of_smaller": 0.537,
+  "smaller_tokens": 1852,
+  "larger_tokens": 2942,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Breviarium ab Urbe Condita (Books I-X)"
+  ],
+  "larger_entry": [
+   "Historia Romana (Books I-XVI)"
+  ]
+ },
+ {
+  "smaller": "eutropius/eutropius1.txt",
+  "larger": "pauldeacon/histrom1.txt",
+  "containment_of_smaller": 0.616,
+  "smaller_tokens": 1579,
+  "larger_tokens": 2879,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Breviarium ab Urbe Condita (Books I-X)"
+  ],
+  "larger_entry": [
+   "Historia Romana (Books I-XVI)"
+  ]
+ },
+ {
+  "smaller": "sall.phil.txt",
+  "larger": "sall.frag.txt",
+  "containment_of_smaller": 0.974,
+  "smaller_tokens": 916,
+  "larger_tokens": 10162,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Historiae (Fragmenta Librorum I–V, Orationes et Epistulae)"
+  ],
+  "larger_entry": [
+   "Historiae (Fragmenta Librorum I–V, Orationes et Epistulae)"
+  ]
+ },
+ {
+  "smaller": "eutropius/eutropius3.txt",
+  "larger": "pauldeacon/histrom3.txt",
+  "containment_of_smaller": 0.515,
+  "smaller_tokens": 1728,
+  "larger_tokens": 2556,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Breviarium ab Urbe Condita (Books I-X)"
+  ],
+  "larger_entry": [
+   "Historia Romana (Books I-XVI)"
+  ]
+ },
+ {
+  "smaller": "sall.macer.txt",
+  "larger": "sall.frag.txt",
+  "containment_of_smaller": 0.984,
+  "smaller_tokens": 838,
+  "larger_tokens": 10162,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Historiae (Fragmenta Librorum I–V, Orationes et Epistulae)"
+  ],
+  "larger_entry": [
+   "Historiae (Fragmenta Librorum I–V, Orationes et Epistulae)"
+  ]
+ },
+ {
+  "smaller": "sall.lep.txt",
+  "larger": "sall.frag.txt",
+  "containment_of_smaller": 0.99,
+  "smaller_tokens": 828,
+  "larger_tokens": 10162,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Historiae (Fragmenta Librorum I–V, Orationes et Epistulae)"
+  ],
+  "larger_entry": [
+   "Historiae (Fragmenta Librorum I–V, Orationes et Epistulae)"
+  ]
+ },
+ {
+  "smaller": "resgestae.txt",
+  "larger": "resgestae1.txt",
+  "containment_of_smaller": 0.301,
+  "smaller_tokens": 2600,
+  "larger_tokens": 3396,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Res Gestae Divi Augusti"
+  ],
+  "larger_entry": [
+   "Res Gestae Divi Augusti"
+  ]
+ },
+ {
+  "smaller": "sall.mithr.txt",
+  "larger": "sall.frag.txt",
+  "containment_of_smaller": 0.85,
+  "smaller_tokens": 735,
+  "larger_tokens": 10162,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Historiae (Fragmenta Librorum I–V, Orationes et Epistulae)"
+  ],
+  "larger_entry": [
+   "Historiae (Fragmenta Librorum I–V, Orationes et Epistulae)"
+  ]
+ },
+ {
+  "smaller": "eutropius/eutropius5.txt",
+  "larger": "pauldeacon/histrom5.txt",
+  "containment_of_smaller": 0.527,
+  "smaller_tokens": 1044,
+  "larger_tokens": 1432,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Breviarium ab Urbe Condita (Books I-X)"
+  ],
+  "larger_entry": [
+   "Historia Romana (Books I-XVI)"
+  ]
+ },
+ {
+  "smaller": "voragine/alexio.txt",
+  "larger": "gestarom.txt",
+  "containment_of_smaller": 0.437,
+  "smaller_tokens": 1253,
+  "larger_tokens": 15885,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Legenda Aurea (Selected Vitae Sanctorum, 24 chapters)"
+  ],
+  "larger_entry": [
+   "Gesta Romanorum (Selections)"
+  ]
+ },
+ {
+  "smaller": "cicero/consulatu.txt",
+  "larger": "cicero/divinatione1.txt",
+  "containment_of_smaller": 0.85,
+  "smaller_tokens": 511,
+  "larger_tokens": 12788,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "De Consulatu Suo Fragmenta"
+  ],
+  "larger_entry": [
+   "De Divinatione (Libri I–II)"
+  ]
+ },
+ {
+  "smaller": "sall.cotta.txt",
+  "larger": "sall.frag.txt",
+  "containment_of_smaller": 0.968,
+  "smaller_tokens": 443,
+  "larger_tokens": 10162,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Historiae (Fragmenta Librorum I–V, Orationes et Epistulae)"
+  ],
+  "larger_entry": [
+   "Historiae (Fragmenta Librorum I–V, Orationes et Epistulae)"
+  ]
+ },
+ {
+  "smaller": "sall.pomp.txt",
+  "larger": "sall.frag.txt",
+  "containment_of_smaller": 0.872,
+  "smaller_tokens": 421,
+  "larger_tokens": 10162,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Historiae (Fragmenta Librorum I–V, Orationes et Epistulae)"
+  ],
+  "larger_entry": [
+   "Historiae (Fragmenta Librorum I–V, Orationes et Epistulae)"
+  ]
+ },
+ {
+  "smaller": "gellius/gellius8.txt",
+  "larger": "gellius/gelliuscapitula.txt",
+  "containment_of_smaller": 0.921,
+  "smaller_tokens": 385,
+  "larger_tokens": 6691,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Noctes Atticae"
+  ],
+  "larger_entry": [
+   "Noctes Atticae"
+  ]
+ },
+ {
+  "smaller": "horace/carmsaec.txt",
+  "larger": "horace/carm4.txt",
+  "containment_of_smaller": 0.887,
+  "smaller_tokens": 313,
+  "larger_tokens": 2884,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Carmen Saeculare"
+  ],
+  "larger_entry": [
+   "Carmina (Odes I–IV, with Carmen Saeculare appended to Book IV)"
+  ]
+ },
+ {
+  "smaller": "melanchthon/obitu.txt",
+  "larger": "melanchthon/hist.txt",
+  "containment_of_smaller": 0.587,
+  "smaller_tokens": 466,
+  "larger_tokens": 10043,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "De Obitu Martini Lutheri"
+  ],
+  "larger_entry": [
+   "Historia de Vita et Actis Reverendiss. Viri D. Mart. Lutheri"
+  ]
+ },
+ {
+  "smaller": "sulpicia.txt",
+  "larger": "tibullus3.txt",
+  "containment_of_smaller": 0.811,
+  "smaller_tokens": 263,
+  "larger_tokens": 4407,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Epistulae (Carmina I-VI)"
+  ],
+  "larger_entry": [
+   "Elegiae (Books I-III, incl. Lygdamus, Panegyricus Messallae & Sulpicia)"
+  ]
+ },
+ {
+  "smaller": "diesirae.txt",
+  "larger": "hymni.txt",
+  "containment_of_smaller": 0.966,
+  "smaller_tokens": 212,
+  "larger_tokens": 1604,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Dies Irae"
+  ],
+  "larger_entry": [
+   "Hymni et Cantica (Latin Hymns and Carols)"
+  ]
+ },
+ {
+  "smaller": "fortunat.txt",
+  "larger": "venantius.txt",
+  "containment_of_smaller": 0.979,
+  "smaller_tokens": 100,
+  "larger_tokens": 740,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Carmina Selecta (Hymnus in Honore Sanctae Crucis / Vexilla Regis, De Ecclesia Parisiaca, Ad Rucconem, Ad Gogonem, Ad Radigundem I–II)"
+  ],
+  "larger_entry": [
+   "Carmina Selecta (Hymnus in Honore Sanctae Crucis / Vexilla Regis, De Ecclesia Parisiaca, Ad Rucconem, Ad Gogonem, Ad Radigundem I–II)"
+  ]
+ },
+ {
+  "smaller": "rhetores.txt",
+  "larger": "suetonius/suet.rhet.txt",
+  "containment_of_smaller": 0.747,
+  "smaller_tokens": 83,
+  "larger_tokens": 1284,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Edictum Adversus Latinos Rhetores"
+  ],
+  "larger_entry": [
+   "De Rhetoribus (De Viris Illustribus)"
+  ]
+ },
+ {
+  "smaller": "paulinus.ausonium.txt",
+  "larger": "paulinus.poemata.txt",
+  "containment_of_smaller": 0.481,
+  "smaller_tokens": 112,
+  "larger_tokens": 24463,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "Ad Ausonium ('O Comes', Carmen XI.49–68)"
+  ],
+  "larger_entry": [
+   "Poemata (Carmina I–XX)"
+  ]
+ },
+ {
+  "smaller": "simedignetur.txt",
+  "larger": "sicmeafata.txt",
+  "containment_of_smaller": 0.886,
+  "smaller_tokens": 41,
+  "larger_tokens": 120,
+  "same_audit_entry": true,
+  "smaller_entry": [
+   "Carmina Medii Aevi Selecta (30 Anonymous Medieval Secular, Amorous & Goliardic Lyrics)"
+  ],
+  "larger_entry": [
+   "Carmina Medii Aevi Selecta (30 Anonymous Medieval Secular, Amorous & Goliardic Lyrics)"
+  ]
+ },
+ {
+  "smaller": "suetonius/suet.tibullus.txt",
+  "larger": "tibullus3.txt",
+  "containment_of_smaller": 0.303,
+  "smaller_tokens": 80,
+  "larger_tokens": 4407,
+  "same_audit_entry": false,
+  "smaller_entry": [
+   "De Poetis: Vita Tibulli"
+  ],
+  "larger_entry": [
+   "Elegiae (Books I-III, incl. Lygdamus, Panegyricus Messallae & Sulpicia)"
+  ]
+ }
+]
