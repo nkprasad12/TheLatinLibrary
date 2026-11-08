@@ -12666,10 +12666,11 @@
     "statedEdition": null,
     "excluded": false,
     "checks": [
+      "patch: 'quasi spor�dhn concepti' -> 'quasi sporadhn concepti' (corrupted byte in transliterated Greek sporadhn)",
       "sections: 1..200 in order; editorial: 9 rubrics, 0 lacuna notes",
       "anchors: 200 all match sections",
       "review: link list differs from the sections (extra: none; missing: 20, 120)",
-      "text: 9077 page tokens = 8877 row tokens + 200 markers",
+      "text: 9076 page tokens = 8876 row tokens + 200 markers",
       "provenance: no edition, copyright or permission statement"
     ]
   },
@@ -12709,10 +12710,12 @@
     "statedEdition": null,
     "excluded": false,
     "checks": [
+      "patch: '\"d�seis; d�s�, homologeis; homolog�, pistei keleueis; pistei keleu�, poi�seis; poi�s�\"' -> '\"doseis; doso, homologeis; homologo, pistei keleueis; pistei keleuo, poieseis; poieso\"' (corrupted bytes for transliterated Greek ē and ō in 3.93)",
+      "patch: '\"enthen ar' oinizonto kar�komo�ntes Achaioi, alloi men chalk�i, alloi d' aith�ni sid�r�i, alloi de rhinois, alloi d' aut�isi boessin,\"' -> '\"enthen ar' oinizonto karekomoontes Achaioi, alloi men chalkoi, alloi d' aithoni sideroi, alloi de rhinois, alloi d' auteisi boessin,\"' (corrupted bytes for transliterated Greek ē and ō in Il. 7.472-475 (3.141))",
       "sections: 1..225 in order; editorial: 1 rubrics, 15 lacuna notes",
       "anchors: 223 all match sections; unanchored on the site: 81, 82",
       "review: link list differs from the sections (extra: none; missing: 20, 120)",
-      "text: 11501 page tokens = 11276 row tokens + 225 markers",
+      "text: 11490 page tokens = 11265 row tokens + 225 markers",
       "provenance: no edition, copyright or permission statement"
     ]
   },
@@ -18734,8 +18737,10 @@
     "statedEdition": null,
     "excluded": false,
     "checks": [
+      "patch: 'in Macedoniam divu]garetur' -> 'in Macedoniam divulgaretur' (] for l in divulgaretur)",
+      "patch: 'Respondit �dignissimum.' -> 'Respondit dignissimum.' (stray corrupted byte before dignissimum)",
       "chapters: I..XVI in order; 185 inline section numbers removed",
-      "text: 3643 page tokens = 3442 row tokens + 201 markers",
+      "text: 3642 page tokens = 3441 row tokens + 201 markers",
       "provenance: no edition, copyright or permission statement"
     ]
   },
@@ -18754,8 +18759,10 @@
     "excluded": false,
     "checks": [
       "patch: 'putares; I1 quippe' -> 'putares; 11 quippe' (section number typed as I1)",
+      "patch: 'quod civit�tem in eiusdem' -> 'quod civitatem in eiusdem' (corrupted byte for a in civitatem)",
+      "patch: 'Sta�im igitur exercitu' -> 'Statim igitur exercitu' (corrupted byte for t in Statim)",
       "chapters: I..VIII in order; 116 inline section numbers removed",
-      "text: 2192 page tokens = 2068 row tokens + 124 markers",
+      "text: 2190 page tokens = 2066 row tokens + 124 markers",
       "provenance: no edition, copyright or permission statement"
     ]
   },
@@ -18773,6 +18780,7 @@
     "statedEdition": null,
     "excluded": false,
     "checks": [
+      "patch: 'duces absumpsistis �.' -> 'duces absumpsistis.' (stray corrupted byte after absumpsistis)",
       "chapters: I..VI in order; 76 inline section numbers removed",
       "text: 1509 page tokens = 1427 row tokens + 82 markers",
       "review: chapter marker before lowercase 14.2: 'cum interim Antigonus cum exercitu super…'",
@@ -18850,6 +18858,7 @@
     "statedEdition": null,
     "excluded": false,
     "checks": [
+      "patch: 'patris inludat�.' -> 'patris inludat.' (stray corrupted byte after inludat)",
       "chapters: I..VII in order; 98 inline section numbers removed",
       "text: 2092 page tokens = 1987 row tokens + 105 markers",
       "provenance: no edition, copyright or permission statement"
@@ -18965,8 +18974,9 @@
     "statedEdition": null,
     "excluded": false,
     "checks": [
+      "patch: 'inde Romanis peric�losum' -> 'inde Romanis periculosum' (corrupted byte for u in periculosum)",
       "chapters: I..IV in order; 53 inline section numbers removed",
-      "text: 1046 page tokens = 989 row tokens + 57 markers",
+      "text: 1045 page tokens = 988 row tokens + 57 markers",
       "provenance: no edition, copyright or permission statement"
     ]
   },
@@ -18985,8 +18995,9 @@
     "excluded": false,
     "checks": [
       "patch: 'convenere. 8, Prius' -> 'convenere. 8 Prius' (stray comma after a section number)",
+      "patch: 'quasi bella non diff�cilius' -> 'quasi bella non difficilius' (corrupted byte for i in difficilius)",
       "chapters: I..VIII in order; 80 inline section numbers removed",
-      "text: 1874 page tokens = 1786 row tokens + 88 markers",
+      "text: 1873 page tokens = 1785 row tokens + 88 markers",
       "provenance: no edition, copyright or permission statement"
     ]
   },
@@ -19139,6 +19150,7 @@
     "statedEdition": null,
     "excluded": false,
     "checks": [
+      "patch: 'decernunt ducemqu� praetorem' -> 'decernunt ducemque praetorem' (corrupted byte for e in ducemque)",
       "chapters: I..VIII in order; 66 inline section numbers removed",
       "text: 1804 page tokens = 1730 row tokens + 74 markers",
       "provenance: no edition, copyright or permission statement"
@@ -19386,6 +19398,7 @@
     "statedEdition": null,
     "excluded": false,
     "checks": [
+      "patch: 'quas Graeci �sceptra dixere' -> 'quas Graeci sceptra dixere' (stray corrupted byte before sceptra)",
       "chapters: I..V in order; 55 inline section numbers removed",
       "text: 1547 page tokens = 1487 row tokens + 60 markers",
       "provenance: no edition, copyright or permission statement"
@@ -19501,8 +19514,10 @@
     "statedEdition": null,
     "excluded": false,
     "checks": [
+      "patch: 'tumulum ei e�dem fecit' -> 'tumulum ei eodem fecit' (corrupted byte for o in eodem)",
+      "patch: 'a qua p�lsa Philippi' -> 'a qua pulsa Philippi' (corrupted byte for u in pulsa)",
       "chapters: I..VIII in order; 90 inline section numbers removed",
-      "text: 1715 page tokens = 1617 row tokens + 98 markers",
+      "text: 1713 page tokens = 1615 row tokens + 98 markers",
       "provenance: no edition, copyright or permission statement"
     ]
   },
@@ -29755,6 +29770,7 @@
     "statedEdition": null,
     "excluded": false,
     "checks": [
+      "patch: 'patri&#151;ignosce deceptae &#152;confessa sum' -> 'patri&#151;ignosce deceptae&#151;confessa sum' (closing dash typed as &#152; (tilde) instead of &#151;)",
       "sections: theme + [1]..[19] in order",
       "text: 3794 page tokens = 3775 row tokens + 19 markers",
       "provenance: no edition, copyright or permission statement"
