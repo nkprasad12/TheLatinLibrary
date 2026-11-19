@@ -116,28 +116,77 @@
       "wordCount": 128539
     },
     {
-      "workId": "ll/albertano-of-brescia-opera-moralia-et-sermones",
+      "workId": "ll/albertano-of-brescia-ars-loquendi-et-tacendi",
       "author": "Albertano of Brescia (Albertanus Brixiensis)",
-      "title": "Opera Moralia et Sermones (De Amore et Dilectione Dei I–IV, Ars Loquendi et Tacendi, Liber Consolationis et Consilii, Sermones I–V)",
+      "title": "Ars Loquendi et Tacendi",
       "period": "medieval",
       "authorPage": "albertanus.html",
       "pages": [
-        "albertanus/albertanus.arsloquendi.shtml",
-        "albertanus/albertanus.liberconsol.shtml",
-        "albertanus/albertanus.sermo.shtml",
-        "albertanus/albertanus.sermo1.shtml",
-        "albertanus/albertanus.sermo2.shtml",
-        "albertanus/albertanus.sermo3.shtml",
-        "albertanus/albertanus.sermo4.shtml",
+        "albertanus/albertanus.arsloquendi.shtml"
+      ],
+      "status": "candidate",
+      "statedEdition": null,
+      "wordCount": 5755
+    },
+    {
+      "workId": "ll/albertano-of-brescia-de-amore-et-dilectione-dei-et-proximi",
+      "author": "Albertano of Brescia (Albertanus Brixiensis)",
+      "title": "De Amore et Dilectione Dei et Proximi (Libri I–IV)",
+      "period": "medieval",
+      "authorPage": "albertanus.html",
+      "pages": [
         "albertanus/albertanus1.shtml",
         "albertanus/albertanus2.shtml",
         "albertanus/albertanus3.shtml",
         "albertanus/albertanus4.shtml"
       ],
       "status": "excluded",
-      "exclusionReason": "Latin edition and English translation Copyright © 1997, 2000 Gregory Wayne Ahlquist; This text copyright © 1980 Sharon Lynne Hiltz and copyright © 2000 Sharon Hiltz Romino",
+      "exclusionReason": "This text copyright © 1980 Sharon Lynne Hiltz and copyright © 2000 Sharon Hiltz Romino",
       "statedEdition": null,
-      "wordCount": 76495
+      "wordCount": 38007
+    },
+    {
+      "workId": "ll/albertano-of-brescia-liber-consolationis-et-consilii",
+      "author": "Albertano of Brescia (Albertanus Brixiensis)",
+      "title": "Liber Consolationis et Consilii",
+      "period": "medieval",
+      "authorPage": "albertanus.html",
+      "pages": [
+        "albertanus/albertanus.liberconsol.shtml"
+      ],
+      "status": "candidate",
+      "statedEdition": null,
+      "wordCount": 19115
+    },
+    {
+      "workId": "ll/albertano-of-brescia-sermo-ianuensis",
+      "author": "Albertano of Brescia (Albertanus Brixiensis)",
+      "title": "Sermo Ianuensis",
+      "period": "medieval",
+      "authorPage": "albertanus.html",
+      "pages": [
+        "albertanus/albertanus.sermo.shtml"
+      ],
+      "status": "candidate",
+      "statedEdition": null,
+      "wordCount": 2511
+    },
+    {
+      "workId": "ll/albertano-of-brescia-sermones-brixienses",
+      "author": "Albertano of Brescia (Albertanus Brixiensis)",
+      "title": "Sermones Brixienses (I–IV)",
+      "period": "medieval",
+      "authorPage": "albertanus.html",
+      "pages": [
+        "albertanus/albertanus.sermo1.shtml",
+        "albertanus/albertanus.sermo2.shtml",
+        "albertanus/albertanus.sermo3.shtml",
+        "albertanus/albertanus.sermo4.shtml"
+      ],
+      "status": "excluded",
+      "exclusionReason": "Latin edition and English translation Copyright © 1997, 2000 Gregory Wayne Ahlquist",
+      "statedEdition": null,
+      "wordCount": 11107
     },
     {
       "workId": "ll/albius-tibullus-elegiae",
@@ -2763,23 +2812,59 @@
       "wordCount": 1189
     },
     {
-      "workId": "ll/dante-alighieri-opera-latina",
+      "workId": "ll/dante-alighieri-de-vulgari-eloquentia",
       "author": "Dante Alighieri",
-      "title": "Opera Latina (De Vulgari Eloquentia I–II, Monarchia I–III, Epistolae I–XIII, Ecloga I)",
+      "title": "De Vulgari Eloquentia (Libri I–II)",
       "period": "medieval",
       "authorPage": "dante.html",
       "pages": [
-        "dante/ec1.shtml",
-        "dante/ep.shtml",
-        "dante/mon1.shtml",
-        "dante/mon2.shtml",
-        "dante/mon3.shtml",
         "dante/vulgar.shtml",
         "dante/vulgar2.shtml"
       ],
       "status": "candidate",
+      "statedEdition": null,
+      "wordCount": 11749
+    },
+    {
+      "workId": "ll/dante-alighieri-ecloga-i",
+      "author": "Dante Alighieri",
+      "title": "Ecloga I (ad Iohannem de Virgilio)",
+      "period": "medieval",
+      "authorPage": "dante.html",
+      "pages": [
+        "dante/ec1.shtml"
+      ],
+      "status": "candidate",
+      "statedEdition": null,
+      "wordCount": 474
+    },
+    {
+      "workId": "ll/dante-alighieri-epistolae",
+      "author": "Dante Alighieri",
+      "title": "Epistolae",
+      "period": "medieval",
+      "authorPage": "dante.html",
+      "pages": [
+        "dante/ep.shtml"
+      ],
+      "status": "candidate",
       "statedEdition": "E. Pistelli (Società Dantesca Italiana, 1921)",
-      "wordCount": 42044
+      "wordCount": 10075
+    },
+    {
+      "workId": "ll/dante-alighieri-monarchia",
+      "author": "Dante Alighieri",
+      "title": "Monarchia (Libri I–III)",
+      "period": "medieval",
+      "authorPage": "dante.html",
+      "pages": [
+        "dante/mon1.shtml",
+        "dante/mon2.shtml",
+        "dante/mon3.shtml"
+      ],
+      "status": "candidate",
+      "statedEdition": null,
+      "wordCount": 19746
     },
     {
       "workId": "ll/dares-phrygius-de-excidio-troiae-historia",
@@ -2813,23 +2898,95 @@
       "wordCount": 2959
     },
     {
-      "workId": "ll/desiderius-erasmus-roterodamus-opera-selecta",
+      "workId": "ll/desiderius-erasmus-roterodamus-colloquia-familiaria",
       "author": "Desiderius Erasmus Roterodamus",
-      "title": "Opera Selecta (Moriae Encomium, Institutio Principis Christiani, Libri Antibarbarorum, Querela Pacis, De Laude Matrimonii, Colloquia, Epistolae et Scripta Selecta)",
+      "title": "Colloquia Familiaria",
       "period": "neolatin",
       "authorPage": "erasmus.html",
       "pages": [
-        "erasmus/antibarb.shtml",
-        "erasmus/coll.shtml",
-        "erasmus/ep.shtml",
-        "erasmus/inst.shtml",
-        "erasmus/laude.shtml",
-        "erasmus/moriae.shtml",
+        "erasmus/coll.shtml"
+      ],
+      "status": "candidate",
+      "statedEdition": null,
+      "wordCount": 526
+    },
+    {
+      "workId": "ll/desiderius-erasmus-roterodamus-de-laude-matrimonii",
+      "author": "Desiderius Erasmus Roterodamus",
+      "title": "De Laude Matrimonii",
+      "period": "neolatin",
+      "authorPage": "erasmus.html",
+      "pages": [
+        "erasmus/laude.shtml"
+      ],
+      "status": "candidate",
+      "statedEdition": null,
+      "wordCount": 4635
+    },
+    {
+      "workId": "ll/desiderius-erasmus-roterodamus-epistolae-et-scripta-selecta",
+      "author": "Desiderius Erasmus Roterodamus",
+      "title": "Epistolae et Scripta Selecta",
+      "period": "neolatin",
+      "authorPage": "erasmus.html",
+      "pages": [
+        "erasmus/ep.shtml"
+      ],
+      "status": "candidate",
+      "statedEdition": null,
+      "wordCount": 25302
+    },
+    {
+      "workId": "ll/desiderius-erasmus-roterodamus-institutio-principis-christiani",
+      "author": "Desiderius Erasmus Roterodamus",
+      "title": "Institutio Principis Christiani",
+      "period": "neolatin",
+      "authorPage": "erasmus.html",
+      "pages": [
+        "erasmus/inst.shtml"
+      ],
+      "status": "candidate",
+      "statedEdition": null,
+      "wordCount": 27506
+    },
+    {
+      "workId": "ll/desiderius-erasmus-roterodamus-libri-antibarbarorum",
+      "author": "Desiderius Erasmus Roterodamus",
+      "title": "Libri Antibarbarorum",
+      "period": "neolatin",
+      "authorPage": "erasmus.html",
+      "pages": [
+        "erasmus/antibarb.shtml"
+      ],
+      "status": "candidate",
+      "statedEdition": null,
+      "wordCount": 31278
+    },
+    {
+      "workId": "ll/desiderius-erasmus-roterodamus-moriae-encomium",
+      "author": "Desiderius Erasmus Roterodamus",
+      "title": "Moriae Encomium",
+      "period": "neolatin",
+      "authorPage": "erasmus.html",
+      "pages": [
+        "erasmus/moriae.shtml"
+      ],
+      "status": "candidate",
+      "statedEdition": null,
+      "wordCount": 24947
+    },
+    {
+      "workId": "ll/desiderius-erasmus-roterodamus-querela-pacis",
+      "author": "Desiderius Erasmus Roterodamus",
+      "title": "Querela Pacis",
+      "period": "neolatin",
+      "authorPage": "erasmus.html",
+      "pages": [
         "erasmus/querela.shtml"
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 124155
+      "wordCount": 9961
     },
     {
       "workId": "ll/edmond-halley-in-viri-praestantissimi-isaaci-newtoni-opus-hocce-mathematico-physicum",
@@ -2911,24 +3068,48 @@
       "wordCount": 15181
     },
     {
-      "workId": "ll/enea-silvio-piccolomini-epistulae-selectae-vi-oratio-contra-turcos-carmina-selecta",
+      "workId": "ll/enea-silvio-piccolomini-carmina-selecta",
       "author": "Enea Silvio Piccolomini (Pope Pius II)",
-      "title": "Epistulae Selectae VI, Oratio contra Turcos & Carmina Selecta",
+      "title": "Carmina Selecta",
       "period": "neolatin",
       "authorPage": "piccolomini.html",
       "pages": [
-        "piccolomini.carmen.html",
+        "piccolomini.carmen.html"
+      ],
+      "status": "candidate",
+      "statedEdition": null,
+      "wordCount": 377
+    },
+    {
+      "workId": "ll/enea-silvio-piccolomini-epistulae-selectae",
+      "author": "Enea Silvio Piccolomini (Pope Pius II)",
+      "title": "Epistulae Selectae",
+      "period": "neolatin",
+      "authorPage": "piccolomini.ep.html",
+      "pages": [
         "piccolomini.ep1.html",
         "piccolomini.ep2.html",
         "piccolomini.ep3.html",
         "piccolomini.ep4.html",
         "piccolomini.ep5.html",
-        "piccolomini.ep6.html",
+        "piccolomini.ep6.html"
+      ],
+      "status": "candidate",
+      "statedEdition": null,
+      "wordCount": 11992
+    },
+    {
+      "workId": "ll/enea-silvio-piccolomini-oratio-contra-turcos",
+      "author": "Enea Silvio Piccolomini (Pope Pius II)",
+      "title": "Oratio contra Turcos (Excerpta)",
+      "period": "neolatin",
+      "authorPage": "piccolomini.html",
+      "pages": [
         "piccolomini.turcos.html"
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 14018
+      "wordCount": 1649
     },
     {
       "workId": "ll/epistolae-austrasicae-epistolae-austrasicae-selectae",
@@ -3373,9 +3554,9 @@
       "wordCount": 5804
     },
     {
-      "workId": "ll/giovanni-pico-della-mirandola-oratio-de-hominis-dignitate-carmina-latina-ix",
+      "workId": "ll/giovanni-pico-della-mirandola-carmina-latina",
       "author": "Giovanni Pico della Mirandola",
-      "title": "Oratio de Hominis Dignitate & Carmina Latina IX",
+      "title": "Carmina Latina",
       "period": "neolatin",
       "authorPage": "mirandola.html",
       "pages": [
@@ -3387,12 +3568,24 @@
         "mirandola/mir6.shtml",
         "mirandola/mir7.shtml",
         "mirandola/mir8.shtml",
-        "mirandola/mir9.shtml",
+        "mirandola/mir9.shtml"
+      ],
+      "status": "candidate",
+      "statedEdition": null,
+      "wordCount": 3162
+    },
+    {
+      "workId": "ll/giovanni-pico-della-mirandola-oratio-de-hominis-dignitate",
+      "author": "Giovanni Pico della Mirandola",
+      "title": "Oratio de Hominis Dignitate",
+      "period": "neolatin",
+      "authorPage": "mirandola.html",
+      "pages": [
         "mirandola/oratio.shtml"
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 10873
+      "wordCount": 7711
     },
     {
       "workId": "ll/gislenus-bultelius-ad-noctem-somnium",
@@ -6214,19 +6407,43 @@
       "wordCount": 1421
     },
     {
-      "workId": "ll/martin-luther-disputatio-pro-declaratione-virtutis-indulgentiarum-epistula-ad-erasmum-praefatio-in-opera-latina",
+      "workId": "ll/martin-luther-disputatio-pro-declaratione-virtutis-indulgentiarum",
       "author": "Martin Luther (Martinus Lutherus)",
-      "title": "Disputatio pro Declaratione Virtutis Indulgentiarum (95 Theses), Epistula ad Erasmum & Praefatio in Opera Latina",
+      "title": "Disputatio pro Declaratione Virtutis Indulgentiarum (95 Theses)",
       "period": "neolatin",
       "authorPage": "luther.html",
       "pages": [
-        "luther.95.html",
-        "luther.lteramus.html",
+        "luther.95.html"
+      ],
+      "status": "candidate",
+      "statedEdition": null,
+      "wordCount": 1647
+    },
+    {
+      "workId": "ll/martin-luther-epistula-ad-erasmum",
+      "author": "Martin Luther (Martinus Lutherus)",
+      "title": "Epistula ad Erasmum",
+      "period": "neolatin",
+      "authorPage": "luther.html",
+      "pages": [
+        "luther.lteramus.html"
+      ],
+      "status": "candidate",
+      "statedEdition": null,
+      "wordCount": 779
+    },
+    {
+      "workId": "ll/martin-luther-praefatio-in-opera-latina",
+      "author": "Martin Luther (Martinus Lutherus)",
+      "title": "Praefatio in Opera Latina",
+      "period": "neolatin",
+      "authorPage": "luther.html",
+      "pages": [
         "luther.praef.html"
       ],
       "status": "candidate",
       "statedEdition": null,
-      "wordCount": 4923
+      "wordCount": 2497
     },
     {
       "workId": "ll/martin-of-braga-capitula-ex-orientalium-patrum-synodis",

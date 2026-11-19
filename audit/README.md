@@ -71,3 +71,9 @@ Hand-curated corrections, applied on top of the audit:
 - `unauditedWorks`: author, title, period (and optionally status and
   `libraryWorkIds`) for pages the audit doesn't cover, keyed by the work's
   first page.
+- `splitAuditEntries`: audit entries that bundle several works (e.g. an
+  author's "Opera Selecta"), keyed by `ll_author`: a list of
+  `{ "title", "pages" }`, one per work, with pages under `raw/`. Together the
+  splits must list each of the entry's pages exactly once, or the build fails.
+  Split works only keep an id that matches their own title, so the bundle's id
+  is retired.

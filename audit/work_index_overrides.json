@@ -42,5 +42,115 @@
       "title": "De Verborum Significatu (Epitome Pauli)",
       "period": "classical"
     }
+  },
+  "splitAuditEntries": {
+    "Desiderius Erasmus Roterodamus": [
+      { "title": "Moriae Encomium", "pages": ["erasmus/moriae.shtml"] },
+      {
+        "title": "Institutio Principis Christiani",
+        "pages": ["erasmus/inst.shtml"]
+      },
+      { "title": "Libri Antibarbarorum", "pages": ["erasmus/antibarb.shtml"] },
+      { "title": "Querela Pacis", "pages": ["erasmus/querela.shtml"] },
+      { "title": "De Laude Matrimonii", "pages": ["erasmus/laude.shtml"] },
+      { "title": "Colloquia Familiaria", "pages": ["erasmus/coll.shtml"] },
+      {
+        "title": "Epistolae et Scripta Selecta",
+        "pages": ["erasmus/ep.shtml"]
+      }
+    ],
+    "Albertano of Brescia (Albertanus Brixiensis)": [
+      {
+        "title": "De Amore et Dilectione Dei et Proximi (Libri I–IV)",
+        "pages": [
+          "albertanus/albertanus1.shtml",
+          "albertanus/albertanus2.shtml",
+          "albertanus/albertanus3.shtml",
+          "albertanus/albertanus4.shtml"
+        ]
+      },
+      {
+        "title": "Ars Loquendi et Tacendi",
+        "pages": ["albertanus/albertanus.arsloquendi.shtml"]
+      },
+      {
+        "title": "Liber Consolationis et Consilii",
+        "pages": ["albertanus/albertanus.liberconsol.shtml"]
+      },
+      {
+        "title": "Sermo Ianuensis",
+        "pages": ["albertanus/albertanus.sermo.shtml"]
+      },
+      {
+        "title": "Sermones Brixienses (I–IV)",
+        "pages": [
+          "albertanus/albertanus.sermo1.shtml",
+          "albertanus/albertanus.sermo2.shtml",
+          "albertanus/albertanus.sermo3.shtml",
+          "albertanus/albertanus.sermo4.shtml"
+        ]
+      }
+    ],
+    "Dante Alighieri": [
+      {
+        "title": "De Vulgari Eloquentia (Libri I–II)",
+        "pages": ["dante/vulgar.shtml", "dante/vulgar2.shtml"]
+      },
+      {
+        "title": "Monarchia (Libri I–III)",
+        "pages": ["dante/mon1.shtml", "dante/mon2.shtml", "dante/mon3.shtml"]
+      },
+      { "title": "Epistolae", "pages": ["dante/ep.shtml"] },
+      {
+        "title": "Ecloga I (ad Iohannem de Virgilio)",
+        "pages": ["dante/ec1.shtml"]
+      }
+    ],
+    "Enea Silvio Piccolomini (Pope Pius II)": [
+      {
+        "title": "Epistulae Selectae",
+        "pages": [
+          "piccolomini.ep1.html",
+          "piccolomini.ep2.html",
+          "piccolomini.ep3.html",
+          "piccolomini.ep4.html",
+          "piccolomini.ep5.html",
+          "piccolomini.ep6.html"
+        ]
+      },
+      {
+        "title": "Oratio contra Turcos (Excerpta)",
+        "pages": ["piccolomini.turcos.html"]
+      },
+      { "title": "Carmina Selecta", "pages": ["piccolomini.carmen.html"] }
+    ],
+    "Giovanni Pico della Mirandola": [
+      {
+        "title": "Oratio de Hominis Dignitate",
+        "pages": ["mirandola/oratio.shtml"]
+      },
+      {
+        "title": "Carmina Latina",
+        "pages": [
+          "mirandola/mir1.shtml",
+          "mirandola/mir2.shtml",
+          "mirandola/mir3.shtml",
+          "mirandola/mir4.shtml",
+          "mirandola/mir5.shtml",
+          "mirandola/mir6.shtml",
+          "mirandola/mir7.shtml",
+          "mirandola/mir8.shtml",
+          "mirandola/mir9.shtml"
+        ]
+      }
+    ],
+    "Martin Luther (Martinus Lutherus)": [
+      {
+        "title": "Disputatio pro Declaratione Virtutis Indulgentiarum (95 Theses)",
+        "pages": ["luther.95.html"]
+      },
+      { "title": "Epistula ad Erasmum", "pages": ["luther.lteramus.html"] },
+      { "title": "Praefatio in Opera Latina", "pages": ["luther.praef.html"] }
+    ]
   }
 }
