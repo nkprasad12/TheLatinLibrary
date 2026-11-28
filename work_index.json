@@ -1220,14 +1220,17 @@
       "wordCount": 23366
     },
     {
-      "workId": "ll/apuleius-de-deo-socratis",
+      "workId": "thelatinlibrary-apuleius-dedeosocratis",
       "author": "Apuleius",
       "title": "De Deo Socratis",
       "period": "classical",
       "pages": [
         "apuleius/apuleius.deosocratis.shtml"
       ],
-      "status": "candidate",
+      "status": "in_library",
+      "libraryWorkIds": [
+        "thelatinlibrary-apuleius-dedeosocratis"
+      ],
       "statedEdition": null,
       "wordCount": 4676
     },
@@ -1245,14 +1248,17 @@
       "wordCount": 8972
     },
     {
-      "workId": "ll/apuleius-de-mundo",
+      "workId": "thelatinlibrary-apuleius-demundo",
       "author": "Apuleius",
       "title": "De Mundo",
       "period": "classical",
       "pages": [
         "apuleius/apuleius.mundo.shtml"
       ],
-      "status": "candidate",
+      "status": "in_library",
+      "libraryWorkIds": [
+        "thelatinlibrary-apuleius-demundo"
+      ],
       "statedEdition": null,
       "wordCount": 6609
     },
@@ -2077,19 +2083,6 @@
       ],
       "statedEdition": null,
       "wordCount": 69578
-    },
-    {
-      "workId": "ll/c-plinius-caecilius-secundus-panegyricus-traiano-imperatori-dictus",
-      "author": "C. Plinius Caecilius Secundus (Pliny the Younger)",
-      "title": "Panegyricus Traiano Imperatori Dictus",
-      "period": "classical",
-      "authorPage": "pliny.html",
-      "pages": [
-        "pliny.panegyricus.html"
-      ],
-      "status": "candidate",
-      "statedEdition": null,
-      "wordCount": 19313
     },
     {
       "workId": "ll/c-plinius-secundus-naturalis-historia",
@@ -3388,6 +3381,23 @@
       "wordCount": 981
     },
     {
+      "workId": "thelatinlibrary-frontinus-deaquaeductu",
+      "author": "Frontinus",
+      "title": "De Aquaeductu Urbis Romae",
+      "period": "classical",
+      "authorPage": "frontinus.html",
+      "pages": [
+        "frontinus/aqua1.shtml",
+        "frontinus/aqua2.shtml"
+      ],
+      "status": "in_library",
+      "libraryWorkIds": [
+        "thelatinlibrary-frontinus-deaquaeductu"
+      ],
+      "statedEdition": null,
+      "wordCount": 11079
+    },
+    {
       "workId": "thelatinlibrary-gaius-institutiones",
       "author": "Gaius",
       "title": "Institutiones",
@@ -3405,22 +3415,6 @@
       ],
       "statedEdition": null,
       "wordCount": 45339
-    },
-    {
-      "workId": "ll/gaius-julius-hyginus-de-astronomia",
-      "author": "Gaius Julius Hyginus",
-      "title": "De Astronomia (Poetica Astronomica, Books I-IV)",
-      "period": "classical",
-      "authorPage": "hyginus.html",
-      "pages": [
-        "hyginus/hyginus1.shtml",
-        "hyginus/hyginus2.shtml",
-        "hyginus/hyginus3.shtml",
-        "hyginus/hyginus4.shtml"
-      ],
-      "status": "candidate",
-      "statedEdition": null,
-      "wordCount": 22373
     },
     {
       "workId": "ll/gaius-julius-hyginus-fabulae",
@@ -3793,6 +3787,25 @@
       "status": "candidate",
       "statedEdition": null,
       "wordCount": 5399
+    },
+    {
+      "workId": "thelatinlibrary-hyginus-deastronomia",
+      "author": "Hyginus",
+      "title": "De Astronomia",
+      "period": "classical",
+      "authorPage": "hyginus.html",
+      "pages": [
+        "hyginus/hyginus1.shtml",
+        "hyginus/hyginus2.shtml",
+        "hyginus/hyginus3.shtml",
+        "hyginus/hyginus4.shtml"
+      ],
+      "status": "in_library",
+      "libraryWorkIds": [
+        "thelatinlibrary-hyginus-deastronomia"
+      ],
+      "statedEdition": null,
+      "wordCount": 22373
     },
     {
       "workId": "ll/incertus-auctor-de-bello-africo",
@@ -7725,6 +7738,22 @@
       "wordCount": 5741
     },
     {
+      "workId": "thelatinlibrary-pliny-panegyricus",
+      "author": "Pliny the Younger",
+      "title": "Panegyricus",
+      "period": "classical",
+      "authorPage": "pliny.html",
+      "pages": [
+        "pliny.panegyricus.html"
+      ],
+      "status": "in_library",
+      "libraryWorkIds": [
+        "thelatinlibrary-pliny-panegyricus"
+      ],
+      "statedEdition": null,
+      "wordCount": 19313
+    },
+    {
       "workId": "thelatinlibrary-trogus-prologi",
       "author": "Pompeius Trogus",
       "title": "Prologi Historiarum Philippicarum",
@@ -9300,20 +9329,6 @@
       "status": "candidate",
       "statedEdition": null,
       "wordCount": 374
-    },
-    {
-      "workId": "ll/sextus-iulius-frontinus-de-aquaeductu-urbis-romae",
-      "author": "Sextus Iulius Frontinus",
-      "title": "De Aquaeductu Urbis Romae (Books I-II)",
-      "period": "classical",
-      "authorPage": "frontinus.html",
-      "pages": [
-        "frontinus/aqua1.shtml",
-        "frontinus/aqua2.shtml"
-      ],
-      "status": "candidate",
-      "statedEdition": null,
-      "wordCount": 11079
     },
     {
       "workId": "ll/sextus-iulius-frontinus-de-arte-mensoria",
